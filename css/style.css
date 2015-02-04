@@ -355,3 +355,9 @@ h6,
     margin-top:20px;
     text-align:center;
 }
+.hide{
+    display:none;
+}
+p{
+    font-weight:300;
+}
