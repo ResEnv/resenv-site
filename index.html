@@ -1,0 +1,31 @@
+<html>
+    <head>
+        <title>Responsive Environments</title>
+        <link rel="stylesheet" href="/css/style.css" media="screen" charset="utf-8">
+    </head>
+    <body>
+
+    <div class="main-container" style="z-index:1">
+        <svg id="logo" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" width="193.17px" height="193.171px" viewBox="0 0 193.17 193.171" enable-background="new 0 0 193.17 193.171" xml:space="preserve">
+            <g id="Default">
+                <polygon fill="#FEFEFE" fill-opacity="0.1" stroke="#FEFEFE" stroke-width="2" stroke-linecap="square" stroke-linejoin="miter" points="193.17,28.976 193.17,0 0,0    0,193.171 28.976,193.171 28.976,28.976  "/>
+                <polygon fill="#FEFEFE" fill-opacity="0.1" stroke="#FEFEFE" stroke-width="2" stroke-linecap="square" stroke-linejoin="miter" points="193.17,53.122 193.17,82.098    82.098,82.098 82.098,111.073 193.17,111.073 193.17,140.049 82.098,140.049 82.098,164.195 193.17,164.195 193.17,193.171    53.122,193.171 53.122,53.122  "/>
+            </g>
+            <g id="Viewport_Boundary">
+            </g>
+        </svg>
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/zepto/1.1.4/zepto.min.js" charset="utf-8"></script>
+    <script src="/js/vivus.min.js" charset="utf-8"></script>
+    <script src="/js/main.js" charset="utf-8"></script>
+    <script charset="utf-8">
+        Zepto(function($){
+            //delayed, async, oneByOne or script
+            new Vivus('logo', {type: 'delayed', duration: 100}, function(){
+                var el = '<h2>Responsive Environments</h2>'
+                $(".main-container").append(el);
+            });
+        })
+    </script>
+    </body>
+</html>
