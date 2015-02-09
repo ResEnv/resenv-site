@@ -18,8 +18,8 @@
             <g id="Viewport_Boundary">
             </g>
         </svg>
-        <h2 class='logo-text hide'>Responsive Environments</h2>
-        <p class="about hide">The Responsive Environments Group explores how sensor networks augment and mediate human experience, interaction and perception.</p>
+        <h2 class='intro-logo hide'>responsive environments</h2>
+        <p class="intro-about hide"><span class="intro-exp">resenv /rez&#600;nv/</span>The responsive environments group explores how sensor networks augment and mediate human experience, interaction and perception. <a href="http://responsive.media.mit.edu/">view more</a></p>
     </div>
 
     <script src="https://code.jquery.com/jquery-2.1.3.min.js" charset="utf-8"></script>
@@ -30,9 +30,9 @@
 
         //delayed, async, oneByOne or script
         $("#logo polygon").attr("stroke","#FEFEFE");
-        new Vivus('logo', {type: 'delayed', duration: 100}, function(){
-            $(".logo-text").fadeIn('fast');
-            $(".about").delay(400).fadeIn('slow');
+        new Vivus('logo', {type: 'async', duration: 100}, function(){
+            $(".intro-logo").fadeIn('fast');
+            $(".intro-about").delay(400).fadeIn('slow');
             $("#logo path").attr("fill-opacity","1");
         });
     })

@@ -334,23 +334,19 @@ body{
     font-size: 18px;
 }
 
-h1,
-h2,
-h3,
-h4,
-h5,
-h6,
-.h1,
-.h2,
-.h3,
-.h4,
-.h5,
-.h6 {
+h1,h2,h3,h4,h5,h6{
   font-family: inherit;
   font-weight: 300;
   line-height: 1.1;
   color: inherit;
   }
+p{
+  font-weight:300;
+}
+a{
+    color:white;
+    text-decoration:none;
+}
 .main-container{
     margin-top:20px;
     text-align:center;
@@ -358,6 +354,25 @@ h6,
 .hide{
     display:none;
 }
-p{
-    font-weight:300;
+.intro-logo{
+    font-size: 32px;
+    margin-top: -10px;
+}
+.intro-exp{
+    font-weight: 600;
+    font-size: 18px;
+    display: inherit;
+    margin-bottom: 10px;
+}
+.intro-about{
+    width: 60%;
+    margin-left: 20%;
+    line-height: 1.4;
+    text-align: left;
+}
+.intro-about a{
+    opacity:1;
+}
+.intro-about a:hover{
+    opacity:0.5;
 }
