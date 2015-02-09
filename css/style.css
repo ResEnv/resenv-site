@@ -373,6 +373,10 @@ a{
 .intro-about a{
     opacity:1;
 }
+.intro-pho{
+    font-style:italic;
+    font-weight:300;
+}
 .intro-about a:hover{
     opacity:0.5;
 }
