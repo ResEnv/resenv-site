@@ -1,0 +1,777 @@
+[
+    {
+        "id": 0,
+        "date": "2010 – present",
+        "link": "http://doppellab.media.mit.edu/",
+        "name": "DoppelLab",
+        "image": "http://resenv.media.mit.edu/images/DoppelLabThumb.jpg",
+        "description": "Using a game engine to browse and interact with data from densely-deployed sensor/actuator networks",
+        "categories": [
+            "Dynamic Visualization",
+            "Cross-Reality",
+            "Sensor Networks"
+        ]
+    },
+    {
+        "id": 1,
+        "date": "2013 – present",
+        "link": "http://tidmarsh.media.mit.edu",
+        "name": "Tidmarsh Living Observatory",
+        "image": "http://responsive.media.mit.edu/wp-content/uploads/sites/5/2013/12/Screen-Shot-2014-06-19-at-4.43.00-PM-300x186.png",
+        "description": "A cross-reality browser to experience real-time sensor data through visuals and music",
+        "categories": [
+            "Dynamic Visualization",
+            "Cross-Reality",
+            "Sensor Networks"
+        ]
+    },
+    {
+        "id": 2,
+        "date": "2013 – present",
+        "link": "http://ssfrr.github.io/chain-api/",
+        "name": "ChainAPI",
+        "image": "http://responsive.media.mit.edu/wp-content/uploads/sites/5/2013/12/scope31-300x269.png",
+        "description": "A hypermedia-focused API supporting request/response via HTTP and realtime via WebSockets.",
+        "categories": ["Sensor Networks", "IoT", "Web Services"]
+    },
+    {
+        "id": 3,
+        "date": "2013 – present",
+        "link": "http://responsive.media.mit.edu/projects/tidmarsh-sensor-node/",
+        "name": "Tidmarsh Sensor Node",
+        "image": "http://responsive.media.mit.edu/wp-content/uploads/sites/5/2013/12/assembled-150x150.jpg",
+        "description": "An extensible hardware platform for low-power wireless outdoor sensing applications.",
+        "categories": ["Sensor networks"]
+    },
+    {
+        "id": 4,
+        "date": "2013 – present",
+        "link": "http://technolojie.com/circuit-stickers/",
+        "name": "Circuit Stickers",
+        "image": "http://resenv.media.mit.edu/images/circuitStickers-small100.jpg",
+        "description": "Circuit stickers are peel-and-stick electronics for crafting circuits.",
+        "categories": [
+            "technology for artistic expression","Craft"
+        ]
+    },
+    {
+        "id": 5,
+        "date": "2013 – present",
+        "link": "http://pragungoyal.com/?/projects/boardLab/",
+        "name": "BoardLab",
+        "image": "http://resenv.media.mit.edu/images/boardlabThumb.jpg",
+        "description": "A handheld probe that allows one to query and annotate the design data for a circuit board by direct interaction with the circuit board.",
+        "categories": ["Human Computer Interaction", "Fabrication"]
+    },
+    {
+        "id": 6,
+        "date": "2012 – present",
+        "link": "http://web.media.mit.edu/~pragun/grassRoots.html",
+        "name": "GrassRootsMobile",
+        "image": "http://resenv.media.mit.edu/images/grm_thumb.png",
+        "description": "A GSM payments enabled powerstrip to enable sharing of electricity via informal connections.",
+        "categories": ["Energy Management"]
+    },
+    {
+        "id": 7,
+        "date": "2012-2014",
+        "link": "http://responsive.media.mit.edu/wp-content/uploads/sites/5/2013/12/Header3.jpg",
+        "name": "PrintSense",
+        "image": "http://responsive.media.mit.edu/wp-content/uploads/sites/5/2013/12/Header3-300x111.jpg",
+        "description": "A multimodal on-surface and near-surface sensing technique for planar, curved and flexible surfaces. This technique leverages temporal multiplexing of signals coming from a universal interdigitated electrode design, which is printed as a single conductive layer on a flexible substrate.",
+        "categories": [
+            "Flexible, printed electronics","Sensor Networks"
+        ]
+    },
+    {
+        "id": 8,
+        "date": "2012-2013",
+        "link": "http://responsive.media.mit.edu/wp-content/uploads/sites/5/2013/12/coverHP.jpg",
+        "name": "Cuttable Sensors",
+        "image": "http://responsive.media.mit.edu/wp-content/uploads/sites/5/2013/12/coverHP-300x113.jpg",
+        "description": "We propose cutting as a novel paradigm for ad-hoc customization of printed electronic components.  A technical evaluation compares different topologies and shows that the sensor remains functional when cut to a different shape.",
+        "categories": [
+            "Sensor Networks",
+            "Flexible, printed electronics"
+        ]
+    },
+    {
+        "id": 9,
+        "date": "2012 – present",
+        "link": "http://ge.media.mit.edu",
+        "name": "Gestures Everywhere",
+        "image": "http://responsive.media.mit.edu/wp-content/uploads/sites/5/2013/12/GESlideLocation-300x225.jpg",
+        "description": "A multimodal framework for supporting ubiquitous computing, aggregating the real-time data from a wide range of heterogeneous sensors.",
+        "categories": ["Ubiquitous Computing", "Gesture Recognition", "Interactive Displays"]
+    },
+    {
+        "id": 10,
+        "date": "2011 – 2014",
+        "link": "http://web.media.mit.edu/~amitz/Research/Entries/2011/11/15_FREE-D.html",
+        "name": "The FreeD",
+        "image": "http://resenv.media.mit.edu/images/FreeDlogo.jpg",
+        "description": "A handheld digital milling device for craft and fabrication",
+        "categories": [
+            "Human-Computer Interaction",
+            "Digital Fabrication",
+            "Craft","Ubiquitous Computing"
+        ]
+    },
+    {
+        "id": 11,
+        "date": "2014 – present",
+        "link": "http://artem.dementyev.us/?page_id=329",
+        "name": "Wrist gestures",
+        "image": "http://responsive.media.mit.edu/wp-content/uploads/sites/5/2013/12/hand_pic.png",
+        "description": "Always-available wrist-worn gesture recognition",
+        "categories": ["Ubiquitous Computing", "Gesture Recognition"]
+    },
+    {
+        "id": 12,
+        "date": "2011-2013",
+        "link": "http://responsive.media.mit.edu/projects/wristque/",
+        "name": "WristQue",
+        "image": "http://responsive.media.mit.edu/wp-content/uploads/sites/5/2013/12/wristque_1-150x150.jpg",
+        "description": "A personal wearable sensor wristband that enables the wearer to take control of nearby devices through automatic sensing and a pointing-based user interface.",
+        "categories": ["Wearable sensing", "building control","human interfaces"]
+    },
+    {
+        "id": 13,
+        "date": "2010 – present",
+        "link": "http://resenv.media.mit.edu/lighting/",
+        "name": "Adaptive Lighting",
+        "image": "http://resenv.media.mit.edu/images/althumb.jpg",
+        "description": "We have constructed a variety of lighting networks to optimize the electrical and photometric properties of solid-state lighting while meeting the illumination levels set by the user.",
+        "categories": [
+            "Energy Management",
+            "Control & Optimization","Sensor Networks"
+        ]
+    },
+    {
+        "id": 14,
+        "date": "2010",
+        "link": "http://resenv.media.mit.edu/RingTags/",
+        "name": "RingTags",
+        "image": "http://resenv.media.mit.edu/RingTags/RachelHandThumb.jpg",
+        "description": "Passive Ring-like gestural finger controller for a wearable computer system.",
+        "categories": [
+            "Wearable Computing","Passive Sensing",
+            "HCI"
+        ]
+    },
+    {
+        "id": 15,
+        "date": "2010-2011",
+        "link": "http://responsive.media.mit.edu/wp-content/uploads/sites/5/2013/12/Screen-Shot-2013-10-21-at-7.42.23-PM.png",
+        "name": "Inkjet printed floor sensor",
+        "image": "http://responsive.media.mit.edu/wp-content/uploads/sites/5/2013/12/Screen-Shot-2013-10-21-at-7.42.23-PM-300x228.png",
+        "description": "A floor sensing system that is based on a new conductive inkjet technology, which allows capacitive sensor electrodes and different types of RF antennas to be cheaply printed onto a roll of flexible substrate that may be many meters long.",
+        "categories": [
+            "Passive Sensing",
+            "Flexible, printed electronics, Floor sensing"
+        ]
+    },
+    {
+        "id": 16,
+        "date": "2009 – 2010",
+        "link": "http://resenv.media.mit.edu/Boxie/",
+        "name": "Interactive Story Capture Camera",
+        "image": "http://resenv.media.mit.edu/images/boxie-thumb.jpg",
+        "description": "A robotic camera programmed with an interactive scenario designed to pull stories from people, captured as structured media streams.",
+        "categories": [
+            "Social Computing",
+            "Interactive Media","Human-Robot Interaction"
+        ]
+    },
+    {
+        "id": 17,
+        "date": "2008 – 2009",
+        "link": "http://resenv.media.mit.edu/personalcomfort/",
+        "name": "Personalized Building Comfort Control",
+        "image": "http://resenv.media.mit.edu/personalcomfort/WristSensorThumb.jpg",
+        "description": "A novel air-conditioning control system, focused around the individual, with body worn sensors determining comfort in real-time. Multi-modal actuation and sensing allows the building to respond to the user wherever he or she is located. Issues of arbitration between users and comfort/cost tradeoffs are addressed.",
+        "categories": [
+            "Sensor Networks",
+            "Building Energy Systems",
+            "Low-Power Circuit Design",
+            "Reinforcement Learning"
+        ]
+    },
+    {
+        "id": 18,
+        "date": "2008 – 2010",
+        "link": "http://resenv.media.mit.edu/portals/",
+        "name": "Ubiquitous Sensor Portals",
+        "image": "http://resenv.media.mit.edu/portals/PortalThumb.jpg",
+        "description": "A multimodal sensor/actuator network installed throughout the Media Lab to support a variety of projects.",
+        "categories": [
+            "Sensor Networks",
+            "Ubiquitous Computing",
+            "Pervasive Dynamic Media",
+            "X Reality"
+        ]
+    },
+    {
+        "id": 19,
+        "date": "2008 – 2010",
+        "link": "http://resenv.media.mit.edu/nono/",
+        "name": "NONO Badge",
+        "image": "http://resenv.media.mit.edu/images/NoBadgeThumb.jpg",
+        "description": "We are constructing a configurable infrastructure to protect users’ dynamic levels of privacy in a pervasive sensor network. The work is based around a configurable privacy badge that can alert the user to the presence of participating sensor networks, plus emit an RF beacon with which the network can gauge the level of privacy desired.",
+        "categories": [
+            "Ubiquitous Computing",
+            "Privacy","Sensor Networks"
+        ]
+    },
+    {
+        "id": 20,
+        "date": "2007 – 2008",
+        "link": "http://resenv.media.mit.edu/ubicorder",
+        "name": "Ubicorder",
+        "image": "http://resenv.media.mit.edu/images/UbiThumb.jpg",
+        "description": "The Ubicorder is a mobile, location and orientation aware device that enables users to browse and interact with real-time data from sensor networks.",
+        "categories": [
+            "Sensor Networks",
+            "Ubiquitous Computing",
+            "Mobile Devices"
+        ]
+    },
+    {
+        "id": 21,
+        "date": "2008",
+        "link": "http://resenv.media.mit.edu/ChainMail/",
+        "name": "ChainMail",
+        "image": "http://resenv.media.mit.edu/ChainMail/ChainMailThumb.jpg",
+        "description": "An ultradense multimodal sensor network as an electronic sensate “skin”.",
+        "categories": [
+            "Sensor Networks",
+            "Electronic Skin",
+            "Tactile sing"
+        ]
+    },
+    {
+        "id": 22,
+        "date": "2006 – 2013",
+        "link": "http://resenv.media.mit.edu/sportSemble/",
+        "name": "sportSemble",
+        "image": "http://resenv.media.mit.edu/sportSemble/PlayerThumb.jpg",
+        "description": "A high speed wearable wireless sensor network that enables direct measurement and analysis of the extreme forces that an athlete’s body experiences during activity. These measurements allow sports medicine doctors to understand, treat and prevent sports injuries.",
+        "categories": [
+            "Sensor Networks",
+            "Biomechanics",
+            "Sports Medicine"
+        ]
+    },
+    {
+        "id": 23,
+        "date": "2006 – 2010",
+        "link": "http://resenv.media.mit.edu/spinner/index.html",
+        "name": "Spinner",
+        "image": "http://resenv.media.mit.edu/spinner/room_icon_small.jpg",
+        "description": "Application of a lab-wide sensor network platform designed to detect and capture fragmented events of human behavior that can be collected and sequenced into a cohesive narrative that conveys a larger overall meaning. This project also looks at the development of parametric models of narrative that can be mapped on to sensor-detectable elements of human activity.",
+        "categories": [
+            "Human-Centric Sensing",
+            "Video Networks",
+            "Phenomenology",
+            "Experiential Design",
+            "Narratology"
+        ]
+    },
+    {
+        "id": 24,
+        "date": "2007 – 2008",
+        "link": "http://resenv.media.mit.edu/PuDAC/ov.html",
+        "name": "PuDAC",
+        "image": "http://resenv.media.mit.edu/PuDAC/rnjvidedt-thumb.jpg",
+        "description": "Interactive music running on a Nokia 800 (phone-like PDA) exploiting a Pure Data Compiler (PuDAC) and wireless wearable sensors for mobile interactive music and exercise-generated media – a glimpse at the future of the portable music player.",
+        "categories": [
+            "Sensor Networks",
+            "Interactive Music",
+            "Mobile Devices"
+        ]
+    },
+    {
+        "id": 25,
+        "date": "2006 – 2008",
+        "link": "http://resenv.media.mit.edu/cargonet_webFolder/intro.html",
+        "name": "CargoNet",
+        "image": "http://resenv.media.mit.edu/cargonet_webFolder/CargoNetThumb1.jpg",
+        "description": "Micropower sensate tags for supply-chain management and security applications. These wireless sensor nodes are low-cost devices that monitor many modalities relevant to shipping and supply-chain needs. They keep extremely low standby current, asychronously waking up to exceptional phenomena with dynamically adjustable thresholds.",
+        "categories": [
+            "Sensor Networks",
+            "Power Management"
+        ]
+    },
+    {
+        "id": 26,
+        "date": "2006 – 2010",
+        "link": "http://resenv.media.mit.edu/tricorder/tricorder.htm",
+        "name": "Tricorder",
+        "image": "http://resenv.media.mit.edu/tricorder/tricorder_files/tricorderThumb.jpg",
+        "description": "Star Trek style Tricorder that lets you ‘See through the walls’ by using multi hop sensor networks. An Augmented Reality platform for sensor networks.",
+        "categories": [
+            "Sensor Networks",
+            "Augmented Reality"
+        ]
+    },
+    {
+        "id": 27,
+        "date": "2006 – 2010",
+        "link": "http://resenv.media.mit.edu/dual_reality_lab/",
+        "name": "Dual Reality Lab",
+        "image": "http://resenv.media.mit.edu/dual_reality_lab/dual_reality_lab.png",
+        "description": "Virtual and real worlds that reflect, influence, and merge into each other by means of deeply embedded sensor/actuator networks.",
+        "categories": [
+            "Sensor Networks",
+            "X Reality"
+        ]
+    },
+    {
+        "id": 28,
+        "date": "2005 – 2008",
+        "link": "http://resenv.media.mit.edu/plug/",
+        "name": "Plug",
+        "image": "http://resenv.media.mit.edu/plug/plug.png",
+        "description": "A power strip imbued with sensing, computational, and communication capabilities in order to form the backbone of a sensor network in domestic and occupational environments.",
+        "categories": [
+            "Sensor Networks",
+            "Ubiquitous Computing"
+        ]
+    },
+    {
+        "id": 29,
+        "date": "2005 – 2007",
+        "link": "http://resenv.media.mit.edu/uTags/index.html",
+        "name": "uTags",
+        "image": "http://resenv.media.mit.edu/uTags/fig/saw-thumb.jpg",
+        "description": "Development of a low-cost system to track the precise (cm-scale) 3-D position of large numbers of objects tagged with passive SAW microwave RF transponders at short-range (3-100m) and in real time.",
+        "categories": [
+            "Ubiquitous Computing",
+            "Mobile Sensor Networks",
+            "Localization"
+        ]
+    },
+    {
+        "id": 30,
+        "date": "2005 – 2008",
+        "link": "http://resenv.media.mit.edu/groggy/index.html",
+        "name": "Groggy Wakeup",
+        "image": "http://resenv.media.mit.edu/groggy/groggy-thumb.jpg",
+        "description": "An automated framework for generating a population of classifiers for power-efficient detection in wearable sensors.",
+        "categories": [
+            "Power Management",
+            "Adaptive Systems",
+            "Wearable Computing"
+        ]
+    },
+    {
+        "id": 31,
+        "date": "2003 – 2004",
+        "link": "http://resenv.media.mit.edu/ParasiticMobility/",
+        "name": "Parasitic Mobility",
+        "image": "http://resenv.media.mit.edu/ParasiticMobility/images/parahop.jpg",
+        "description": "Research into devices that can use the actuation and navigational intelligence of hosts present in the environment.",
+        "categories": [
+            "Power Harvesting",
+            "Mobile Sensor Networks",
+            "Robotics"
+        ]
+    },
+    {
+        "id": 32,
+        "date": "2003-2004",
+        "link": "http://resenv.media.mit.edu/amc/",
+        "name": "FlexiGesture",
+        "image": "http://resenv.media.mit.edu/amc/images/wailing_thumb.jpg",
+        "description": "A sensor-rich adaptive gesture and affordance learning platform for electronic music control.",
+        "categories": [
+            "Adaptive interfaces",
+            "Multi-DOF sensing",
+            "Electronic music control"
+        ]
+    },
+    {
+        "id": 33,
+        "date": "2003-2007",
+        "link": "http://resenv.media.mit.edu/badge/index.html",
+        "name": "The UberBadge",
+        "image": "http://resenv.media.mit.edu/images/badge_thumb.jpg",
+        "description": "A versatile wearable computer platform in the form of a badge, featuring three processors, RF and IR communication, built in microphone, audio output, large LED display and LCD capability, pager vibrator, large flash memory capacity, and extensive expansion possibilities. Designed to enable a wide variety of applications where mobile and social computing intersect.",
+        "categories": [
+            "Wireless Sensor Clusters",
+            "Wearable Systems"
+        ]
+    },
+    {
+        "id": 34,
+        "date": "2003",
+        "link": "http://resenv.media.mit.edu/rfrain/index.html",
+        "name": "RF Random Access Integrated Node",
+        "image": "http://resenv.media.mit.edu/images/rfdc_thumb.jpg",
+        "description": "A compact RF transceiver card, originally developed for the UberBadge project, but useful for many different applications.",
+        "categories": [
+            "Wireless Sensor Clusters",
+            "Wearable Systems"
+        ]
+    },
+    {
+        "id": 35,
+        "date": "2002-2003",
+        "link": "http://resenv.media.mit.edu/Cooktops/index.html",
+        "name": "Sensate Cooktops",
+        "image": "http://resenv.media.mit.edu/images/SliderThumb.jpg",
+        "description": "In association with TTT sponsor Schott Glass, this project explores various techniques for transduction in glass ceramic cooktops. We have developed a capacitive slider for sensing continuous fingertip position across the glass, several techniques of sensing the presence and size of pots above the glass, haptic response to capacitive button activation, micropower wakeup of cooktop electronics with quasipassive sensing, and remote measurement of glass temperature above a burner via IR and acoustic monitoring.",
+        "categories": [
+            "Sensor Architectures",
+            "Interactive Surfaces"
+        ]
+    },
+    {
+        "id": 36,
+        "date": "2003-2004",
+        "link": "http://resenv.media.mit.edu/tribble/",
+        "name": "Trible",
+        "image": "http://resenv.media.mit.edu/images/TribleThumb.jpg",
+        "description": "The “Trible” (Tactile Reactive Interface Based on Linked Elements) is an excursive in dense distributed sensing, computation, and actuation. It has the form factor of a ball, tiled with a multimodal sensate “skin” consisting of 32 networked elements. Each tile measures pressure at 3 locations, temperature, sound via a microphone, illumination, and dynamic tactile stimulation with up to 12 channels of protruding, touch-sensitive “whiskers”. Each tile can also respond with a small audio speaker, a pager vibrator, and a bright RGB LED. There is no central processor – each tile talks to its neighbors through conductors in the frame. The Trible is a research platform for the application of decentralized control and distributed estimation to human-computer interaction.",
+        "categories": [
+            "Sensate Media",
+            "Perceptive Objects"
+        ]
+    },
+    {
+        "id": 37,
+        "date": "2002-2004",
+        "link": "http://resenv.media.mit.edu/pushpin/",
+        "name": "Pushpin Computing",
+        "image": "http://resenv.media.mit.edu/images/PushPinThumb.JPG",
+        "description": "Small bottlecap-sized computers, each with two “thumbtack-like” rear-protruding pins, draw their power from a layered composite into which they are pushed and communicate with neighbors via infrared or capacitive coupling. Provisions are made for simple sensors to be easily added to each pushpin, enabling the system to serve as a testbed for developing algorithms for extremely high-density, smart sensor networks.",
+        "categories": [
+            "Sensate Media"
+        ]
+    },
+    {
+        "id": 38,
+        "date": "2002-2006",
+        "link": "http://resenv.media.mit.edu/Stack/",
+        "name": "Stack Sensor Architecture",
+        "image": "http://resenv.media.mit.edu/images/StackThumb.jpg",
+        "description": "A compact, configurable wireless sensing system, for which several sensing boards (e.g., tactile, inertial, sonar, etc.) have been designed. These boards can be stacked in any order and configuration atop a main processor/RF board, allowing the sensor suite to be easily customized. A TDMA polling scheme enables multiple stacks to be used simultaneously. Although it has been primarily designed for wearable applications, this device serves as a general platform for compact multimodal sensing.",
+        "categories": [
+            "Sensor Architectures",
+            "Wireless Sensor Clusters",
+            "Wearable Systems"
+        ]
+    },
+    {
+        "id": 39,
+        "date": "2002-2005",
+        "link": "http://resenv.media.mit.edu/gaitshoe.html",
+        "name": "The Gait Shoe",
+        "image": "http://resenv.media.mit.edu/GaitShoe/gaitshoesm.jpg",
+        "description": "By measuring many (e.g., 20) different parameters at each foot using our Sensor Stack, these shoes become a wearable gait laboratory. Data is analyzed for features indicative of particular gait problems. This system, in collaboration with the MGH Biomotion Laboratory, is intended to diagnose gait conditions and provide real-time corrective feedback to the patient.",
+        "categories": [
+            "Embedded Healthcare",
+            "Wireless Sensor Cluster"
+        ]
+    },
+    {
+        "id": 40,
+        "date": "2002-2003",
+        "link": "http://resenv.media.mit.edu/phenom/index.html",
+        "name": "Phenomenological Model for Distributed Systems",
+        "image": "http://resenv.media.mit.edu/images/eyeball_thumb.jpg",
+        "description": "An sensorcentric object model for distributed systems",
+        "categories": [
+            "Wireless Sensor Clusters",
+            "Sensate Media"
+        ]
+    },
+    {
+        "id": 41,
+        "date": "2000-2002",
+        "link": "http://resenv.media.mit.edu/Radar/index.html",
+        "name": "Gesture-Sensing Radar",
+        "image": "http://resenv.media.mit.edu/images/CheKingRadarThumb.JPG",
+        "description": "This project explores microwave sensing for detecting noncontact gesture. Several systems have been developed and deployed, including very-low powered Doppler motion-sensing radars with onboard digital feature extraction and modified swept-Doppler ranging radars.",
+        "categories": [
+            "Sensor Architectures",
+            "Perceptive Spaces"
+        ]
+    },
+    {
+        "id": 42,
+        "date": "2000-2004",
+        "link": "http://resenv.media.mit.edu/ZTiles",
+        "name": "ZTiles",
+        "image": "http://resenv.media.mit.edu/images/TilesFootThumb.jpg",
+        "description": "In collaboration with the University of Limerick a sensate floor is made from networked sensor tiles, each of which has over a dozen small pressure sensors connected to an embedded computer. All tiles are networked when they are snapped together. Local communication between tiles establishes an ad-hoc network. Sensor signals are compared across tiles, enable stimuli from dynamic sources, such as footsteps, to be clustered and abstracted into a basic set of parameters, which are routed peer-peer across connected tiles to an external computer.",
+        "categories": [
+            "Sensate Media",
+            "Expressive Interfaces",
+            "Perceptive Spaces"
+        ]
+    },
+    {
+        "id": 43,
+        "date": "2002-2003",
+        "link": "http://resenv.media.mit.edu/nanogate/",
+        "name": "Nanogate Instrumentation",
+        "image": "http://resenv.media.mit.edu/images/nanogate_thumb.jpg",
+        "description": "Precision capacitive sensing is used to determine the dimension of an actively-controlled nanometer-scale gap. This project, a collaboration with Alex Slocum’s group in MIT’s Mechanical Engineering Department, has many applications in biochemistry and nanoscale chemistry.",
+        "categories": [
+            "Sensor Architectures"
+        ]
+    },
+    {
+        "id": 44,
+        "date": "2002",
+        "link": "http://resenv.media.mit.edu/FindIT/index.html",
+        "name": "The FindIT Flashlight",
+        "image": "http://resenv.media.mit.edu/images/FindIT-Thumb.jpg",
+        "description": "A flashlight with an optically coded beam quasi-passively wakes up active tags sleeping at extremely low power drain. If the tag’s ID matches the interrogating beam’s request, a tag-mounted LED flashes. The compact tags can be mounted on the edge of removable media, for example, allowing a particular item on a crowded shelf to be found by merely scanning the flashlight across. The metaphor of seeking real-world objects with a flashlight is thus extended into the realm of data.",
+        "categories": [
+            "Micro/Self Power",
+            "Perceptive Spaces",
+            "Wireless Sensor Clusters"
+        ]
+    },
+    {
+        "id": 45,
+        "date": "1999-2002",
+        "link": "http://resenv.media.mit.edu/Tapper/index.html",
+        "name": "Window Tap Technology",
+        "image": "http://resenv.media.mit.edu/images/TapperThumb.jpg",
+        "description": "Knocks and taps across a large sheet of glass are detected by a set of pickup transducers, then characterized by their frequency content and located via differential timing. Essentially any single-paned window can be converted into the equivalent of a touch screen by this inexpensive technique, with no hardware mounted outside the glass.",
+        "categories": [
+            "Interactive Surfaces",
+            "Perceptive Spaces",
+            "Expressive Interfaces"
+        ]
+    },
+    {
+        "id": 46,
+        "date": "2001-2002",
+        "link": "http://resenv.media.mit.edu/GiveawaySensors/index.html",
+        "name": "Wireless Featherweight Sensing for Crowd Interaction",
+        "image": "http://resenv.media.mit.edu/images/tubed4-horiz-thumb.jpg",
+        "description": "An extremely low cost and compact wireless motion sensor sends out a brief RF pulse when jerked. As this device is very inexpensive, it can be given away as a “ticket” to an event, allowing large audiences to kinetically interact with responsive media. Feature extraction algorithms and content mapping strategies to exploit the human “schooling” and self-organizing reflexes with this system. Although our research looks at interactive dance as an application, other uses (e.g., interactive gesture and games at sports events, conventions, and large concerts, very low-cost, wireless shock monitoring of packages, etc.) abound.",
+        "categories": [
+            "Wireless Sensor Clusters",
+            "Expressive Interfaces",
+            "Micro/Self Power"
+        ]
+    },
+    {
+        "id": 47,
+        "date": "2001-2002",
+        "link": "http://resenv.media.mit.edu/Navigatrics/index.html",
+        "name": "Musical Navigatrics",
+        "image": "http://resenv.media.mit.edu/images/NavigatricsThumb.JPG",
+        "description": "A Swept-RF magnetically coupled resonant tag reader has been developed that exhibits enhanced stability, high resolution, and the ability to address up to three reader coils. This enables an ensemble of tagged objects to be wirelessly tracked in 3 dimensions. This device has been used in a musical environment that explores high-level gestural control of musical structure (e.g., the definition, manipulation, and overdubbing of musical sequences and arpeggiation) in live performance.\t",
+        "categories": [
+            "Expressive Interfaces",
+            "Magnetic Tag Tracking"
+        ]
+    },
+    {
+        "id": 48,
+        "date": "1997-2002",
+        "link": "http://web.media.mit.edu/~joep/SpectrumWeb/captions/Carpet.html",
+        "name": "The Magic Carpet",
+        "image": "http://resenv.media.mit.edu/images/MiaThumb.jpg",
+        "description": "An interactive space has been designed that consists of a carpet atop a mesh of piezoelectric wire (tracking foot position and dynamic pressure) and a pair of Doppler microwave motion sensors (to respond to movement of the arms and upper body). This system has been used for several immersive musical installations, and is now a permanent installation at the MIT Museum.",
+        "categories": [
+            "Perceptive Spaces",
+            "Interactive Surfaces",
+            "Expressive Interfaces"
+        ]
+    },
+    {
+        "id": 49,
+        "date": "2000-2001",
+        "link": "http://resenv.media.mit.edu/Self-Powered-Switch/index.html",
+        "name": "Self-Powered Pushbutton",
+        "image": "http://resenv.media.mit.edu/images/WirelessSwitchThumb.JPG",
+        "description": "This project has resulted in a batteryless pushbutton that wirelessly transmits a 12-bit digital code to the vicinity (e.g., 25-100 feet, depending on the RF environment) when pressed. This enables digital controls, from light switches to garage door openers, to be embedded essentially anywhere, without worrying about battery life or wiring.",
+        "categories": [
+            "Micro/Self Power",
+            "Wireless Sensor Clusters"
+        ]
+    },
+    {
+        "id": 50,
+        "date": "2000-2001",
+        "link": "http://resenv.media.mit.edu/atmo/index.html",
+        "name": "Low-Cost Active Magnetic Tag Tracking",
+        "image": "http://resenv.media.mit.edu/images/atmo.jpg",
+        "description": "A very low cost active magnetic tag tracker has been developed to track the position and absolute orientation of a PDA around a set of reader coils. Three such tracking stations have been built and installed for the “Atmospheres” installation at the MOMA “Workspheres” design exhibition.",
+        "categories": [
+            "Magnetic Tag Tracking",
+            "Expressive Interfaces"
+        ]
+    },
+    {
+        "id": 51,
+        "date": "2000-2001",
+        "link": "http://resenv.media.mit.edu/LaserTheremin/laser.html",
+        "name": "The Terminova",
+        "image": "http://resenv.media.mit.edu/images/TerminovaThumb.JPG",
+        "description": "Free-gesture musical controllers suffer from the drawback of having no tactile (and often no visual) reference for their player, hence they are difficult to competently master. This project has developed a hybrid musical controller, consisting of a Theremin-like, free-gesture capacitive hand sensor in the horizontal axis, punctuated by an array of vertically-directed rangefinding lasers on mechanical carriages that can be moved to preassigned positions. The lasers, in light fog, are seen as references (or frets) – the position of the hand is also detected along the laser beams, affording another channel of expressive control.",
+        "categories": [
+            "Expressive Interfaces"
+        ]
+    },
+    {
+        "id": 52,
+        "date": "2000-2001",
+        "link": "http://resenv.media.mit.edu/MediaMatrix/",
+        "name": "Media Matrix",
+        "image": "http://resenv.media.mit.edu/images/miniDVusageThumb.jpg",
+        "description": "This project draws on ideas from distributed, embedded, and parallel computing in order to address the creation and management of databases composed of large collections of physical objects (e.g. mini DVs in a rack or books in a library). An IR interrogation beamed at one object is transferred between neighboring objects peer-peer, diffusing to all objects in the environment (e.g., in the bookshelf). The sought-after item then illuminates an indicator.\t",
+        "categories": [
+            "Sensate Media",
+            "Perceptive Spaces"
+        ]
+    },
+    {
+        "id": 53,
+        "date": "2000-2001",
+        "link": "http://resenv.media.mit.edu/zoeproject.html",
+        "name": "Micropower Wireless Embedded Sensing",
+        "image": "http://resenv.media.mit.edu/images/ZCT-OverviewThumb.jpg",
+        "description": "This project is a design study for a TDMA basestation to be used with very low power CMOS digital transmitters developed at MIT’s MTL for wireless sensor systems.",
+        "categories": [
+            "Wireless Sensor Clusters"
+        ]
+    },
+    {
+        "id": 54,
+        "date": "1998-2001",
+        "link": "http://resenv.media.mit.edu/sweptRF.html",
+        "name": "Swept RF Tagging",
+        "image": "http://resenv.media.mit.edu/images/TagRingThumb.jpg",
+        "description": "Several reader systems have been developed to wirelessly track the position of magnetically-coupled resonant tags. By making the tag’s resonance frequency a function of a local parameter (e.g., pressure or controller displacement), the tag can also become a sensor. These systems have been used to develop several demonstrations of “tangible bits” (where simple objects become controllers), the most engaging of which is a multimodal music environment called “Musical Trinkets.”",
+        "categories": [
+            "Magnetic Tag Tracking",
+            "Expressive Interfaces"
+        ]
+    },
+    {
+        "id": 55,
+        "date": "1997-2001",
+        "link": "http://web.media.mit.edu/~joep/SpectrumWeb/captions/Laser.html",
+        "name": "The LaserWall",
+        "image": "http://resenv.media.mit.edu/images/LaserThumb.jpg",
+        "description": "An inexpensive scanning laser rangefinder has been developed to track bare hands against a large interactive display. This system provides a simple retrofit to any large surface – by putting the rangefinder in one corner, a large virtual “touchscreen” is created, with hand tracking insensitive to background light. This system has been used in public with several interactive applications ranging from information browsers to musical interfaces.",
+        "categories": [
+            "Interactive Surfaces",
+            "Expressive Interfaces"
+        ]
+    },
+    {
+        "id": 56,
+        "date": "1999-2000",
+        "link": "http://resenv.media.mit.edu/vehicles.html",
+        "name": "Responsive Roadways",
+        "image": "http://resenv.media.mit.edu/images/RoadbedThumb.jpg",
+        "description": "An inexpensive, compact package has been developed to monitor traffic (magnetically sensing passing cars) and detect local road conditions (e.g., temperature and moisture). A summary is wirelessly broadcast to a receiver mounted above the road within circa 300 meters of the sensor package. As the specified battery is projected to last for over a decade (depending on conditions), a network of these low-cost packages can be embedded into the roadbed, allowing the traffic report to be generated right in the street.",
+        "categories": [
+            "Wireless Sensor Clusters",
+            "Perceptive Spaces"
+        ]
+    },
+    {
+        "id": 57,
+        "date": "1999-2000",
+        "link": "http://resenv.media.mit.edu/imu.html",
+        "name": "IMU for User Interfaces & Atomic Gesture Scripting",
+        "image": "http://resenv.media.mit.edu/images/3xthumb.jpg",
+        "description": "A simple scripting framework has been created to recognize combinations of simple “atomic” gesture components in data from body-mounted sensors. Much as the way in which phonemes combine to form words, the user is able to specify a script of sequential microgestures that form a desired macroscopic gesture. When sensor data makes a good match with a specified script, the gesture is detected. This algorithm is extremely efficient and is able to run in real time on a low-end PDA, for example. A pair of small, wireless, handheld, 6-axis inertial measurement units (as shown here) were constructed to capture gesture and test this framework.",
+        "categories": [
+            "Wireless Sensor Clusters",
+            "Perceptive Objects"
+        ]
+    },
+    {
+        "id": 58,
+        "date": "1999-2000",
+        "link": "http://resenv.media.mit.edu/telemed.html",
+        "name": "Low-Cost Portable Telediagnostics",
+        "image": "http://resenv.media.mit.edu/images/telediagthumb.jpg",
+        "description": "A compact suite of medical instruments has been integrated into a kit with a connected palmtop computer. Software has been written to guide a medical assistant through the process of running the needed tests on a patient, collecting the required data, and transmitting it to a remote medical facility for diagnosis. This system has been used with the LINCOS installations to provide medical care in rural Costa Rica.",
+        "categories": [
+            "Embedded Healthcare",
+            "Wireless Sensor Clusters"
+        ]
+    },
+    {
+        "id": 59,
+        "date": "1998-2000",
+        "link": "http://resenv.media.mit.edu/power.html",
+        "name": "Power Harvesting in Shoes",
+        "image": "http://resenv.media.mit.edu/images/PowerShoeThumb.jpg",
+        "description": "Electricity is generated while walking by flexing and pressing compact piezoelectric elements unobtrusively embedded into a shoe sole. As a demonstration, a self-powered wireless digital ID code is transmit directly from the shoe after every few steps.",
+        "categories": [
+            "Micro/Self Power",
+            "Wearable Systems"
+        ]
+    },
+    {
+        "id": 60,
+        "date": "1997-2000",
+        "link": "http://resenv.media.mit.edu/shoes.html",
+        "name": "Expressive Footware ",
+        "image": "http://resenv.media.mit.edu/images/Shoesthumb.jpg",
+        "description": "A suite of 16 diverse sensor channels is embedded into each of a pair of shoes. All parameters are wirelessly broadcast directly from the shoes to a nearby basestation with 50 Hz full-state updates. A very early example of compact multimodal wireless sensing, this system has been designed and used for interactive dance. With so many degrees of freedom measured, even a simple musical rulebase enables a dancer to produce an engaging sonic accompaniment.",
+        "categories": [
+            "Wireless Sensor Clusters",
+            "Expressive Interfaces",
+            "Wearable Systems"
+        ]
+    },
+    {
+        "id": 61,
+        "date": "1998-1999",
+        "link": "http://resenv.media.mit.edu/backgammon/index.html",
+        "name": "Distributed Aperture Transducers",
+        "image": "http://resenv.media.mit.edu/images/Backgammonthumb.jpg",
+        "description": "A wideband, dispersionless monopulse acoustic receiver can theoretically be constructed with continuously-tapered, co-located subapertures. Such a device would have the capability of locating the direction of arrival of sonic transients by calculating a simple sum and ratio. This project has built and characterized such a device.",
+        "categories": [
+            "Sensor Architectures"
+        ]
+    },
+    {
+        "id": 62,
+        "date": "1995",
+        "link": "http://resenv.media.mit.edu/balloons/index.html",
+        "name": "Interactive Balloons",
+        "image": "http://resenv.media.mit.edu/images/10-10-thumb.jpg",
+        "description": "A large mylar balloon has been bonded to a piezoelectric foil sheet so it can act as both a microphone and a loudspeaker. A set of electronics has been designed for the balloon to detect significant audio activity, and play a selection from a set of prerecorded audio samples when the activity ceases,essentially enabling one to have a “dialog” with the balloon. Over 50 such balloon systems were produced and installed all over the Weisner Building for the Media Lab’s 10’th anniversary celebration.",
+        "categories": [
+            "Perceptive Objects",
+            "Sensor Architectures"
+        ]
+    },
+    {
+        "id": 63,
+        "date": "1995",
+        "link": "http://resenv.media.mit.edu/EFS-Array/index.html",
+        "name": "The ScanFish",
+        "image": "http://resenv.media.mit.edu/images/array-thumb.jpg",
+        "description": "An 16-element array of 4 x 4 programmable electrodes was built in order to study electric field imaging in air. Each electrode could dynamically be assigned to either transmit or receive.",
+        "categories": [
+            "Sensor Architectures"
+        ]
+    },
+    {
+        "id": 64,
+        "date": "1994-1996",
+        "link": "http://www.media.mit.edu/~joep/TTT.BO/index.html",
+        "name": "The Brain Opera Technology",
+        "image": "http://resenv.media.mit.edu/images/hd-thumb.jpg",
+        "description": "Many different musical controllers (ranging from digital batons to sensor chairs) were designed and constructed for the “Brain Opera”, a very large interactive musical installation that was produced at the MIT Media Lab and toured throughout the world.",
+        "categories": [
+            "Expressive Interfaces"
+        ]
+    }
+]
