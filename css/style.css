@@ -345,6 +345,7 @@ p{
 }
 a{
     color:white;
+    font-weight:bold;
     text-decoration:none;
 }
 .main-container{
