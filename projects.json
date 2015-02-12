@@ -1,7 +1,7 @@
 [
     {
         "id": 0,
-        "date": "2010 – present",
+        "date": "2010-present",
         "link": "http://doppellab.media.mit.edu/",
         "name": "DoppelLab",
         "image": "http://resenv.media.mit.edu/images/DoppelLabThumb.jpg",
@@ -14,7 +14,7 @@
     },
     {
         "id": 1,
-        "date": "2013 – present",
+        "date": "2013-present",
         "link": "http://tidmarsh.media.mit.edu",
         "name": "Tidmarsh Living Observatory",
         "image": "http://responsive.media.mit.edu/wp-content/uploads/sites/5/2013/12/Screen-Shot-2014-06-19-at-4.43.00-PM-300x186.png",
@@ -27,7 +27,7 @@
     },
     {
         "id": 2,
-        "date": "2013 – present",
+        "date": "2013-present",
         "link": "http://ssfrr.github.io/chain-api/",
         "name": "ChainAPI",
         "image": "http://responsive.media.mit.edu/wp-content/uploads/sites/5/2013/12/scope31-300x269.png",
@@ -36,7 +36,7 @@
     },
     {
         "id": 3,
-        "date": "2013 – present",
+        "date": "2013-present",
         "link": "http://responsive.media.mit.edu/projects/tidmarsh-sensor-node/",
         "name": "Tidmarsh Sensor Node",
         "image": "http://responsive.media.mit.edu/wp-content/uploads/sites/5/2013/12/assembled-150x150.jpg",
@@ -45,7 +45,7 @@
     },
     {
         "id": 4,
-        "date": "2013 – present",
+        "date": "2013-present",
         "link": "http://technolojie.com/circuit-stickers/",
         "name": "Circuit Stickers",
         "image": "http://resenv.media.mit.edu/images/circuitStickers-small100.jpg",
@@ -56,7 +56,7 @@
     },
     {
         "id": 5,
-        "date": "2013 – present",
+        "date": "2013-present",
         "link": "http://pragungoyal.com/?/projects/boardLab/",
         "name": "BoardLab",
         "image": "http://resenv.media.mit.edu/images/boardlabThumb.jpg",
@@ -65,7 +65,7 @@
     },
     {
         "id": 6,
-        "date": "2012 – present",
+        "date": "2012-present",
         "link": "http://web.media.mit.edu/~pragun/grassRoots.html",
         "name": "GrassRootsMobile",
         "image": "http://resenv.media.mit.edu/images/grm_thumb.png",
@@ -97,7 +97,7 @@
     },
     {
         "id": 9,
-        "date": "2012 – present",
+        "date": "2012-present",
         "link": "http://ge.media.mit.edu",
         "name": "Gestures Everywhere",
         "image": "http://responsive.media.mit.edu/wp-content/uploads/sites/5/2013/12/GESlideLocation-300x225.jpg",
@@ -106,7 +106,7 @@
     },
     {
         "id": 10,
-        "date": "2011 – 2014",
+        "date": "2011-2014",
         "link": "http://web.media.mit.edu/~amitz/Research/Entries/2011/11/15_FREE-D.html",
         "name": "The FreeD",
         "image": "http://resenv.media.mit.edu/images/FreeDlogo.jpg",
@@ -119,7 +119,7 @@
     },
     {
         "id": 11,
-        "date": "2014 – present",
+        "date": "2014-present",
         "link": "http://artem.dementyev.us/?page_id=329",
         "name": "Wrist gestures",
         "image": "http://responsive.media.mit.edu/wp-content/uploads/sites/5/2013/12/hand_pic.png",
@@ -137,7 +137,7 @@
     },
     {
         "id": 13,
-        "date": "2010 – present",
+        "date": "2010-present",
         "link": "http://resenv.media.mit.edu/lighting/",
         "name": "Adaptive Lighting",
         "image": "http://resenv.media.mit.edu/images/althumb.jpg",
@@ -173,7 +173,7 @@
     },
     {
         "id": 16,
-        "date": "2009 – 2010",
+        "date": "2009-2010",
         "link": "http://resenv.media.mit.edu/Boxie/",
         "name": "Interactive Story Capture Camera",
         "image": "http://resenv.media.mit.edu/images/boxie-thumb.jpg",
@@ -185,7 +185,7 @@
     },
     {
         "id": 17,
-        "date": "2008 – 2009",
+        "date": "2008-2009",
         "link": "http://resenv.media.mit.edu/personalcomfort/",
         "name": "Personalized Building Comfort Control",
         "image": "http://resenv.media.mit.edu/personalcomfort/WristSensorThumb.jpg",
@@ -199,7 +199,7 @@
     },
     {
         "id": 18,
-        "date": "2008 – 2010",
+        "date": "2008-2010",
         "link": "http://resenv.media.mit.edu/portals/",
         "name": "Ubiquitous Sensor Portals",
         "image": "http://resenv.media.mit.edu/portals/PortalThumb.jpg",
@@ -213,7 +213,7 @@
     },
     {
         "id": 19,
-        "date": "2008 – 2010",
+        "date": "2008-2010",
         "link": "http://resenv.media.mit.edu/nono/",
         "name": "NONO Badge",
         "image": "http://resenv.media.mit.edu/images/NoBadgeThumb.jpg",
@@ -225,7 +225,7 @@
     },
     {
         "id": 20,
-        "date": "2007 – 2008",
+        "date": "2007-2008",
         "link": "http://resenv.media.mit.edu/ubicorder",
         "name": "Ubicorder",
         "image": "http://resenv.media.mit.edu/images/UbiThumb.jpg",
@@ -251,7 +251,7 @@
     },
     {
         "id": 22,
-        "date": "2006 – 2013",
+        "date": "2006-2013",
         "link": "http://resenv.media.mit.edu/sportSemble/",
         "name": "sportSemble",
         "image": "http://resenv.media.mit.edu/sportSemble/PlayerThumb.jpg",
@@ -264,7 +264,7 @@
     },
     {
         "id": 23,
-        "date": "2006 – 2010",
+        "date": "2006-2010",
         "link": "http://resenv.media.mit.edu/spinner/index.html",
         "name": "Spinner",
         "image": "http://resenv.media.mit.edu/spinner/room_icon_small.jpg",
@@ -279,11 +279,11 @@
     },
     {
         "id": 24,
-        "date": "2007 – 2008",
+        "date": "2007-2008",
         "link": "http://resenv.media.mit.edu/PuDAC/ov.html",
         "name": "PuDAC",
         "image": "http://resenv.media.mit.edu/PuDAC/rnjvidedt-thumb.jpg",
-        "description": "Interactive music running on a Nokia 800 (phone-like PDA) exploiting a Pure Data Compiler (PuDAC) and wireless wearable sensors for mobile interactive music and exercise-generated media – a glimpse at the future of the portable music player.",
+        "description": "Interactive music running on a Nokia 800 (phone-like PDA) exploiting a Pure Data Compiler (PuDAC) and wireless wearable sensors for mobile interactive music and exercise-generated media-a glimpse at the future of the portable music player.",
         "categories": [
             "Sensor Networks",
             "Interactive Music",
@@ -292,7 +292,7 @@
     },
     {
         "id": 25,
-        "date": "2006 – 2008",
+        "date": "2006-2008",
         "link": "http://resenv.media.mit.edu/cargonet_webFolder/intro.html",
         "name": "CargoNet",
         "image": "http://resenv.media.mit.edu/cargonet_webFolder/CargoNetThumb1.jpg",
@@ -304,7 +304,7 @@
     },
     {
         "id": 26,
-        "date": "2006 – 2010",
+        "date": "2006-2010",
         "link": "http://resenv.media.mit.edu/tricorder/tricorder.htm",
         "name": "Tricorder",
         "image": "http://resenv.media.mit.edu/tricorder/tricorder_files/tricorderThumb.jpg",
@@ -316,7 +316,7 @@
     },
     {
         "id": 27,
-        "date": "2006 – 2010",
+        "date": "2006-2010",
         "link": "http://resenv.media.mit.edu/dual_reality_lab/",
         "name": "Dual Reality Lab",
         "image": "http://resenv.media.mit.edu/dual_reality_lab/dual_reality_lab.png",
@@ -328,7 +328,7 @@
     },
     {
         "id": 28,
-        "date": "2005 – 2008",
+        "date": "2005-2008",
         "link": "http://resenv.media.mit.edu/plug/",
         "name": "Plug",
         "image": "http://resenv.media.mit.edu/plug/plug.png",
@@ -340,7 +340,7 @@
     },
     {
         "id": 29,
-        "date": "2005 – 2007",
+        "date": "2005-2007",
         "link": "http://resenv.media.mit.edu/uTags/index.html",
         "name": "uTags",
         "image": "http://resenv.media.mit.edu/uTags/fig/saw-thumb.jpg",
@@ -353,7 +353,7 @@
     },
     {
         "id": 30,
-        "date": "2005 – 2008",
+        "date": "2005-2008",
         "link": "http://resenv.media.mit.edu/groggy/index.html",
         "name": "Groggy Wakeup",
         "image": "http://resenv.media.mit.edu/groggy/groggy-thumb.jpg",
@@ -366,7 +366,7 @@
     },
     {
         "id": 31,
-        "date": "2003 – 2004",
+        "date": "2003-2004",
         "link": "http://resenv.media.mit.edu/ParasiticMobility/",
         "name": "Parasitic Mobility",
         "image": "http://resenv.media.mit.edu/ParasiticMobility/images/parahop.jpg",
@@ -432,7 +432,7 @@
         "link": "http://resenv.media.mit.edu/tribble/",
         "name": "Trible",
         "image": "http://resenv.media.mit.edu/images/TribleThumb.jpg",
-        "description": "The “Trible” (Tactile Reactive Interface Based on Linked Elements) is an excursive in dense distributed sensing, computation, and actuation. It has the form factor of a ball, tiled with a multimodal sensate “skin” consisting of 32 networked elements. Each tile measures pressure at 3 locations, temperature, sound via a microphone, illumination, and dynamic tactile stimulation with up to 12 channels of protruding, touch-sensitive “whiskers”. Each tile can also respond with a small audio speaker, a pager vibrator, and a bright RGB LED. There is no central processor – each tile talks to its neighbors through conductors in the frame. The Trible is a research platform for the application of decentralized control and distributed estimation to human-computer interaction.",
+        "description": "The “Trible” (Tactile Reactive Interface Based on Linked Elements) is an excursive in dense distributed sensing, computation, and actuation. It has the form factor of a ball, tiled with a multimodal sensate “skin” consisting of 32 networked elements. Each tile measures pressure at 3 locations, temperature, sound via a microphone, illumination, and dynamic tactile stimulation with up to 12 channels of protruding, touch-sensitive “whiskers”. Each tile can also respond with a small audio speaker, a pager vibrator, and a bright RGB LED. There is no central processor-each tile talks to its neighbors through conductors in the frame. The Trible is a research platform for the application of decentralized control and distributed estimation to human-computer interaction.",
         "categories": [
             "Sensate Media",
             "Perceptive Objects"
@@ -616,7 +616,7 @@
         "link": "http://resenv.media.mit.edu/LaserTheremin/laser.html",
         "name": "The Terminova",
         "image": "http://resenv.media.mit.edu/images/TerminovaThumb.JPG",
-        "description": "Free-gesture musical controllers suffer from the drawback of having no tactile (and often no visual) reference for their player, hence they are difficult to competently master. This project has developed a hybrid musical controller, consisting of a Theremin-like, free-gesture capacitive hand sensor in the horizontal axis, punctuated by an array of vertically-directed rangefinding lasers on mechanical carriages that can be moved to preassigned positions. The lasers, in light fog, are seen as references (or frets) – the position of the hand is also detected along the laser beams, affording another channel of expressive control.",
+        "description": "Free-gesture musical controllers suffer from the drawback of having no tactile (and often no visual) reference for their player, hence they are difficult to competently master. This project has developed a hybrid musical controller, consisting of a Theremin-like, free-gesture capacitive hand sensor in the horizontal axis, punctuated by an array of vertically-directed rangefinding lasers on mechanical carriages that can be moved to preassigned positions. The lasers, in light fog, are seen as references (or frets)-the position of the hand is also detected along the laser beams, affording another channel of expressive control.",
         "categories": [
             "Expressive Interfaces"
         ]
@@ -662,7 +662,7 @@
         "link": "http://web.media.mit.edu/~joep/SpectrumWeb/captions/Laser.html",
         "name": "The LaserWall",
         "image": "http://resenv.media.mit.edu/images/LaserThumb.jpg",
-        "description": "An inexpensive scanning laser rangefinder has been developed to track bare hands against a large interactive display. This system provides a simple retrofit to any large surface – by putting the rangefinder in one corner, a large virtual “touchscreen” is created, with hand tracking insensitive to background light. This system has been used in public with several interactive applications ranging from information browsers to musical interfaces.",
+        "description": "An inexpensive scanning laser rangefinder has been developed to track bare hands against a large interactive display. This system provides a simple retrofit to any large surface-by putting the rangefinder in one corner, a large virtual “touchscreen” is created, with hand tracking insensitive to background light. This system has been used in public with several interactive applications ranging from information browsers to musical interfaces.",
         "categories": [
             "Interactive Surfaces",
             "Expressive Interfaces"
