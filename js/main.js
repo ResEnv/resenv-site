@@ -35,9 +35,9 @@ $(document).ready(function(){
 
     $(".color-clit").on('click', function(){
         if (black){
-            $(this).css("background","#000");
-            $("body").css({"background-color": "#FEFEFE","color": "#000"});
-            $(".main-container").css({"background": "#FEFEFE","color": "#000","-webkit-box-shadow":"0px 6px 50px 4px #FEFEFE","-moz-box-shadow": "0px 6px 50px 4px #FEFEFE","box-shadow": "0px 6px 50px 4px #FEFEFE"});
+            $(this).css({"background":"#000","transition": "all 0.2s ease"});
+            $("body").css({"background-color": "#FEFEFE","color": "#000","transition": "all 0.3s ease"});
+            $(".main-container").css({"transition": "all 0.3s ease","background": "#FEFEFE","color": "#000","-webkit-box-shadow":"0px 6px 50px 4px #FEFEFE","-moz-box-shadow": "0px 6px 50px 4px #FEFEFE","box-shadow": "0px 6px 50px 4px #FEFEFE"});
             $("path").attr("fill","#000");
             black = false;
         }
