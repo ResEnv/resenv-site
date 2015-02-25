@@ -351,7 +351,7 @@ p{
     font-weight:300;
 }
 a{
-    color:white;
+    color: inherit;
     font-weight:bold;
     text-decoration:none;
 }
@@ -386,7 +386,6 @@ ul.navigation li a {
 ul.navigation li:first-child{
     margin-left:0px;
 }
-
 .main-container{
     padding-top:20px;
     padding-bottom:10px;
@@ -437,6 +436,20 @@ ul.navigation li:first-child{
     font-size: 12px;
     color: #333;
     margin-left: -14px;
+}
+.color-clit{
+    position: fixed;
+    top: 11px;
+    right: 8px;
+    height: 24px;
+    width: 24px;
+    background: #FEFEFE;
+    z-index: 999;
+    opacity: 0.7;
+}
+.color-clit:hover{
+    cursor:pointer;
+    opacity:1;
 }
 .project{
     width: 100%;

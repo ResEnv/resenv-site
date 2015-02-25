@@ -27,10 +27,28 @@ var page = function(name){
 }
 
 $(document).ready(function(){
-
+    var black = true;
     //Click events
     $("#logo").on('click', function(){
         window.location.replace('http://responsive.media.mit.edu/')
+    })
+
+    $(".color-clit").on('click', function(){
+        if (black){
+            $(this).css("background","#000");
+            $("body").css({"background-color": "#FEFEFE","color": "#000"});
+            $(".main-container").css({"background": "#FEFEFE","color": "#000","-webkit-box-shadow":"0px 6px 50px 4px #FEFEFE","-moz-box-shadow": "0px 6px 50px 4px #FEFEFE","box-shadow": "0px 6px 50px 4px #FEFEFE"});
+            $("path").attr("fill","#000");
+            black = false;
+        }
+        else {
+            $(this).css("background","#FEFEFE");
+            $("body").css({"background-color": "#000","color": "#FEFEFE"});
+            $(".main-container").css({"background": "#000","color": "#FEFEFE","-webkit-box-shadow":"0px 6px 50px 4px #000","-moz-box-shadow": "0px 6px 50px 4px #000","box-shadow": "0px 6px 50px 4px #000"});
+            $("path").attr("fill","#FEFEFE");
+            black = true;
+        }
+
     })
 
     //delayed, async, oneByOne or script
