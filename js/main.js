@@ -34,18 +34,26 @@ $(document).ready(function(){
     })
 
     $(".color-clit").on('click', function(){
+        var pathSvg = $("path"),
+            colorBtn = $(this),
+            mainBody = $("body"),
+            mainCont = $(".main-container");
+
         if (black){
-            $(this).css({"background":"#000","transition": "all 0.2s ease"});
-            $("body").css({"background-color": "#FEFEFE","color": "#000","transition": "all 0.3s ease"});
-            $(".main-container").css({"transition": "all 0.3s ease","background": "#FEFEFE","color": "#000","-webkit-box-shadow":"0px 6px 50px 4px #FEFEFE","-moz-box-shadow": "0px 6px 50px 4px #FEFEFE","box-shadow": "0px 6px 50px 4px #FEFEFE"});
-            $("path").attr("fill","#000");
+            pathSvg.attr("fill","#000");
+            pathSvg.attr("stroke","#000");
+            colorBtn.css({"background":"#000","transition": "all 0.1s ease"});
+            mainBody.css({"background-color": "#FEFEFE","color": "#000","transition": "all 0.1s ease"});
+            mainCont.css({"transition": "all 0.1s ease","background": "#FEFEFE","color": "#000","-webkit-box-shadow":"0px 6px 50px 4px #FEFEFE","-moz-box-shadow": "0px 6px 50px 4px #FEFEFE","box-shadow": "0px 6px 50px 4px #FEFEFE"});
+
             black = false;
         }
         else {
-            $(this).css("background","#FEFEFE");
-            $("body").css({"background-color": "#000","color": "#FEFEFE"});
-            $(".main-container").css({"background": "#000","color": "#FEFEFE","-webkit-box-shadow":"0px 6px 50px 4px #000","-moz-box-shadow": "0px 6px 50px 4px #000","box-shadow": "0px 6px 50px 4px #000"});
-            $("path").attr("fill","#FEFEFE");
+            pathSvg.attr("fill","#FEFEFE");
+            pathSvg.attr("stroke","#FEFEFE");
+            colorBtn.css({"background":"#FEFEFE","transition": "all 0.1s ease"});
+            mainBody.css({"transition": "all 0.1s ease","background-color": "#000","color": "#FEFEFE"});
+            mainCont.css({"transition": "all 0.1s ease","background": "#000","color": "#FEFEFE","-webkit-box-shadow":"0px 6px 50px 4px #000","-moz-box-shadow": "0px 6px 50px 4px #000","box-shadow": "0px 6px 50px 4px #000"});
             black = true;
         }
 

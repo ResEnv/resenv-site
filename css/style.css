@@ -446,44 +446,12 @@ ul.navigation li:first-child{
     background: #FEFEFE;
     z-index: 999;
     opacity: 1;
-}
-
-
-@-moz-keyframes blinker {
-    0% { opacity: 1.0; }
-    50% { opacity: 0.4; }
-    100% { opacity: 1.0; }
-}
-
-@-webkit-keyframes blinker {
-    0% { opacity: 1.0; }
-    50% { opacity: 0.4; }
-    100% { opacity: 1.0; }
-}
-
-@keyframes blinker {
-    0% { opacity: 1.0; }
-    50% { opacity: 0.4; }
-    100% { opacity: 1.0; }
+    transition: all 0.5s ease-in-out;
 }
 
 .color-clit:hover{
-    -webkit-animation-name: blinker;
-    -webkit-animation-duration: 1.3s;
-    -webkit-animation-timing-function: ease-in-out;
-    -webkit-animation-iteration-count: infinite;
-
-    -moz-animation-name: blinker;
-    -moz-animation-duration: 1.3s;
-    -moz-animation-timing-function: ease-in-out;
-    -moz-animation-iteration-count: infinite;
-
-    animation-name: blinker;
-    animation-duration: 1.3s;
-    animation-timing-function: ease-in-out;
-    animation-iteration-count: infinite;
-
     cursor:pointer;
+    opacity:0.7;
 }
 .project{
     width: 100%;
