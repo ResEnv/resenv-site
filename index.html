@@ -1,54 +1,50 @@
 <html>
-<head>
-    <title>Responsive Environments</title>
-    <meta name="apple-mobile-web-app-capable" content="yes">
-    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+	<head>
+		<title>Responsive Environments</title>
+		<meta name="apple-mobile-web-app-capable" content="yes">
+		<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+		<link rel="apple-touch-icon" href="images/resenv-icon-iphone.png">
+		<link rel="apple-touch-icon" sizes="76x76" href="images/resenv-icon-ipad.png">
+		<link rel="apple-touch-icon" sizes="120x120" href="images/resenv-icon-iphone-retina.png">
+		<link rel="apple-touch-icon" sizes="152x152" href="images/resenv-icon-ipad-retina.png">
+		<link rel="stylesheet" href="css/style.css" media="screen" charset="utf-8">
+	</head>
+	<body>
+		<div class="main-container" style="z-index:1">
+			<svg id="logo" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" width="357.036px" height="366.037px" viewBox="0 0 357.036 366.037" enable-background="new 0 0 357.036 366.037" xml:space="preserve">
+				<g id="Default">
+								<g>
+									<polygon fill="#FEFEFE" fill-opacity="0" stroke="#000" stroke-width="2" stroke-linecap="square" stroke-linejoin="miter" points="113.785,333.578 329.209,333.578     329.209,290.625 156.666,290.625 156.666,247.62 329.209,247.62 329.209,204.667 156.666,204.667 156.666,161.661     329.209,161.661 329.209,118.709 113.785,118.708   "/>
+									<polygon fill="#FEFEFE" fill-opacity="0" stroke="#000" stroke-width="2" stroke-linecap="square" stroke-linejoin="miter" points="27.827,333.578 70.707,333.578     70.707,75.412 328.936,75.412 328.936,32.458 27.827,32.458   "/> </g>
+				</g>
+				<g id="dim"></g>
+				<g id="Viewport_Boundary"></g>
+			</svg>
 
-    <link rel="apple-touch-icon" href="images/resenv-icon-iphone.png">
-    <link rel="apple-touch-icon" sizes="76x76" href="images/resenv-icon-ipad.png">
-    <link rel="apple-touch-icon" sizes="120x120" href="images/resenv-icon-iphone-retina.png">
-    <link rel="apple-touch-icon" sizes="152x152" href="images/resenv-icon-ipad-retina.png">
-    <link rel="stylesheet" href="css/style.css" media="screen" charset="utf-8">
+			<h2 class='intro-logo hide'>responsive environments</h2>
+			<ul class="navigation hide">
+							<li><a>Projects</a></li>
+							<li><a>Publications</a></li>
+							<li><a>People</a></li>
+							<li><a>Courses</a></li>
+			</ul>
+			<p class="intro-about hide"><span class="intro-exp">resenv <span class='intro-pho'>/rez&#600;nv/</span></span>The responsive environments group explores how sensor networks augment and mediate human experience, interaction and perception. <a href="http://responsive.media.mit.edu/">view more</a></p>
+				</div>
+				<div class="container"></div>
+		<div class="footer"><p>MIT Media Lab &copy; 2015</p></div>
 
-</head>
-<body>
-
-    <div class="main-container" style="z-index:1">
-        <svg id="logo" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" width="357.036px" height="366.037px" viewBox="0 0 357.036 366.037" enable-background="new 0 0 357.036 366.037" xml:space="preserve">
-            <g id="Default">
-                <g>
-                    <polygon fill="#FEFEFE" fill-opacity="0" stroke="#000" stroke-width="2" stroke-linecap="square" stroke-linejoin="miter" points="113.785,333.578 329.209,333.578     329.209,290.625 156.666,290.625 156.666,247.62 329.209,247.62 329.209,204.667 156.666,204.667 156.666,161.661     329.209,161.661 329.209,118.709 113.785,118.708   "/>
-                    <polygon fill="#FEFEFE" fill-opacity="0" stroke="#000" stroke-width="2" stroke-linecap="square" stroke-linejoin="miter" points="27.827,333.578 70.707,333.578     70.707,75.412 328.936,75.412 328.936,32.458 27.827,32.458   "/>
-                </g>
-            </g>
-            <g id="dim">
-            </g>
-            <g id="Viewport_Boundary">
-            </g>
-        </svg>
-        <h2 class='intro-logo hide'>responsive environments</h2>
-        <p class="intro-about hide"><span class="intro-exp">resenv <span class='intro-pho'>/rez&#600;nv/</span></span>The responsive environments group explores how sensor networks augment and mediate human experience, interaction and perception. <a href="http://responsive.media.mit.edu/">view more</a></p>
-    </div>
-
-    <script src="https://code.jquery.com/jquery-2.1.3.min.js" charset="utf-8"></script>
-    <script src="js/vivus.min.js" charset="utf-8"></script>
-    <script src="js/main.js" charset="utf-8"></script>
-    <script charset="utf-8">
-    $(document).ready(function(){
-
-        //Click events
-        $("#logo").on('click', function(){
-            window.location.replace('http://responsive.media.mit.edu/')
-        })
-
-        //delayed, async, oneByOne or script
-        $("#logo polygon").attr("stroke","#FEFEFE");
-        new Vivus('logo', {type: 'async', duration: 100}, function(){
-            $(".intro-logo").fadeIn('fast');
-            $(".intro-about").delay(400).fadeIn('slow');
-            $("#logo path").attr("fill-opacity","1");
-        });
-    })
-    </script>
+		<script id="projects" type="x-tmpl-mustache">
+			<div class='project'>
+				<h3 class="title">{{name}}</h3>
+				<p class="date">{{date}}</p>
+				<img src={{image}} width="100"/>
+				<p class="description">{{description}} <a target="_BLANK" href={{link}}>read more</a> <span class='categories'><strong>Tags</strong>: {{#categories}}{{.}}{{/categories}}</span></p>
+			</div>
+			<div class="clearfix"></div>
+		</script>
+		<script src="https://code.jquery.com/jquery-2.1.3.min.js" charset="utf-8"></script>
+		<script src="js/vivus.min.js" charset="utf-8"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/mustache.js/0.8.1/mustache.min.js"></script>
+		<script src="js/main.js" charset="utf-8"></script>
 </body>
 </html>
