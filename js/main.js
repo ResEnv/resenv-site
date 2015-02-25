@@ -27,6 +27,7 @@ var page = function(name){
 }
 
 $(document).ready(function(){
+
     var black = true;
     //Click events
     $("#logo").on('click', function(){
