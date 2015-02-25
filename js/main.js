@@ -5,9 +5,10 @@ var page = function(name){
         case "Projects":
             var template = $('#projects').html();
             Mustache.parse(template);
+            $('.container').html('');
             $.getJSON('projects.json',function(data){
                 $.each(data, function(i, project){
-                    console.log(project.name);
+                    project.categories = project.categories.join(", ");
                     var rendered = Mustache.render(template, project);
                     $('.container').append(rendered);
                 });
@@ -15,6 +16,16 @@ var page = function(name){
             console.log("projects");
         break;
         case "Publications":
+            var template = $('#publications').html();
+            Mustache.parse(template);
+            $('.container').html('');
+            $('.container').append('<ul class="pub"></ul>')
+            $.getJSON('publications.json',function(data){
+                $.each(data, function(i, pub){
+                    var rendered = Mustache.render(template, pub);
+                    $('.pub').append(rendered);
+                });
+            })
             console.log("publications");
         break;
         case "People":
@@ -37,14 +48,14 @@ $(document).ready(function(){
     $(".color-clit").on('click', function(){
         var pathSvg = $("path"),
             colorBtn = $(this),
-            mainBody = $("body"),
+            mainBody = $("html"),
             mainCont = $(".main-container");
 
         if (black){
             pathSvg.attr("fill","#000");
             pathSvg.attr("stroke","#000");
             colorBtn.css({"background":"#000","transition": "all 0.1s ease"});
-            mainBody.css({"background-color": "#FEFEFE","color": "#000","transition": "all 0.1s ease"});
+            mainBody.css({"background": "#FEFEFE","color": "#000","transition": "all 0.1s ease"});
             mainCont.css({"transition": "all 0.1s ease","background": "#FEFEFE","color": "#000","-webkit-box-shadow":"0px 6px 50px 4px #FEFEFE","-moz-box-shadow": "0px 6px 50px 4px #FEFEFE","box-shadow": "0px 6px 50px 4px #FEFEFE"});
 
             black = false;
@@ -53,7 +64,7 @@ $(document).ready(function(){
             pathSvg.attr("fill","#FEFEFE");
             pathSvg.attr("stroke","#FEFEFE");
             colorBtn.css({"background":"#FEFEFE","transition": "all 0.1s ease"});
-            mainBody.css({"transition": "all 0.1s ease","background-color": "#000","color": "#FEFEFE"});
+            mainBody.css({"transition": "all 0.1s ease","background": "#000","color": "#FEFEFE"});
             mainCont.css({"transition": "all 0.1s ease","background": "#000","color": "#FEFEFE","-webkit-box-shadow":"0px 6px 50px 4px #000","-moz-box-shadow": "0px 6px 50px 4px #000","box-shadow": "0px 6px 50px 4px #000"});
             black = true;
         }
