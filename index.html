@@ -48,6 +48,18 @@
 		<li data-date={{date}}>{{{dom}}}</li>
 		</script>
 
+		<script id="people" type="x-tmpl-mustache">
+			<li>
+				<a href="{{link}}" target="_BLANK">
+				{{#image}}
+					<img width="120" height="120" src={{image}} title="{{name}}"/>
+				{{/image}}
+				{{^image}}
+					<img width="120" height="120" src="/images/default_avatar.png" title={{name}}/>
+				{{/image}}
+				{{name}}</a></li>
+		</script>
+
 		</script>
 		<script src="https://code.jquery.com/jquery-2.1.3.min.js" charset="utf-8"></script>
 		<script src="js/vivus.min.js" charset="utf-8"></script>

@@ -52,54 +52,45 @@
         "name": "Spencer Russell",
         "link": "http://ssfrr.com/",
         "image": "http://responsive.media.mit.edu/wp-content/uploads/sites/5/2013/12/Spencer.jpg",
-        "type":"M.S. Candidate",
+        "type":"Ph.D. Candidate",
         "email":"sfr[@]media[.]mit[.]edu"
-    },
-    {
-        "id": 7,
-        "name": "Vasant Ramasubramanian",
-        "link": "N/A",
-        "image": "N/A",
-        "type":"M.S. Candidate",
-        "email":"N/A"
     },
     {
         "id": 8,
         "name": "Evan Lynch",
-        "link": "N/A",
-        "image": "N/A",
+        "image":"http://www.artsboston.org/sites/artsboston.org/images/event/441659098/evanlynch_category.jpg",
         "type":"M.S. Candidate",
         "email":"eflynch[@]media[.]mit[.]edu"
     },
     {
         "id": 9,
         "name": "Asaph Azaria",
-        "link": "N/A",
-        "image": "N/A",
-        "type":"M.S. Candidate",
-        "email":"N/A"
+        "type":"M.S. Candidate"
     },
     {
         "id": 10,
         "name": "David Ramsay",
         "link": "http://davidbramsay.com/",
-        "image": "N/A",
+        "image": "https://lh6.googleusercontent.com/-x9ZoI7PkPxU/AAAAAAAAAAI/AAAAAAAAAMo/-dkHFozmxBY/s120-c/photo.jpg",
         "type":"M.S. Candidate",
         "email":"dramsay[@]media[.]mit[.]edu"
     },
     {
         "id": 11,
         "name": "Juliana Cherston",
-        "link": "N/A",
-        "image": "N/A",
         "type":"M.S. Candidate",
         "email":"cherston[@]media[.]mit[.]edu"
     },
     {
+        "id": 7,
+        "name": "Vasant Ramasubramanian",
+        "type":"M.S. Candidate"
+    },
+    {
         "id": 12,
         "name": "Nick Lee",
-        "link": "N/A",
-        "image": "N/A",
+        "link": "https://github.com/nicklee-998",
+        "image": "https://avatars2.githubusercontent.com/u/8962785?v=3&s=460",
         "type":"Visiting Researcher",
         "email":"nick_lee[@]media[.]mit[.]edu"
     },
@@ -122,7 +113,6 @@
     {
         "id": 15,
         "name": "Mark Feldmeier",
-        "link": "N/A",
         "image": "http://responsive.media.mit.edu/wp-content/uploads/sites/5/2013/12/mark_feldmeier.jpg",
         "type":"Affiliate",
         "email":"carboxyl[@]media[.]mit[.]edu"
@@ -130,7 +120,6 @@
     {
         "id": 16,
         "name": "Nan Wei Gong",
-        "link": "N/A",
         "image": "http://responsive.media.mit.edu/wp-content/uploads/sites/5/2013/12/nanwei.jpg",
         "type":"Affiliate",
         "email":"nanwei[@]media[.]mit[.]edu"

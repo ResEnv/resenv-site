@@ -541,3 +541,32 @@ ul.pub li a{
 ul.pub li a:hover{
     text-decoration:underline;
 }
+ul.people{
+    list-style:none;
+    padding-bottom: 30px;
+}
+ul.people li{
+    width: 184px;
+    text-align: center;
+    font-size: 0.8em;
+    display: inline-block;
+}
+ul.people li img{
+    padding:12px 24px;
+    -webkit-filter: grayscale(90%);
+    filter: grayscale(90%);
+
+}
+
+ul.people li img:hover{
+    -webkit-filter: grayscale(10%);
+    filter: grayscale(10%);
+}
+
+ul.people .personType{
+    display:block;
+    text-align:left;
+    font-size:1.4em;
+    width:100%;
+    margin: 24px 0 0px 8px;
+}

@@ -13,7 +13,6 @@ var page = function(name){
                     $('.container').append(rendered);
                 });
             })
-            console.log("projects");
         break;
         case "Publications":
             var template = $('#publications').html();
@@ -31,9 +30,23 @@ var page = function(name){
                     dd = pub.date;
                 });
             })
-            console.log("publications");
         break;
         case "People":
+            var template = $('#people').html();
+            Mustache.parse(template);
+            $('.container').html('');
+            $('.container').append('<ul class="people"></ul>')
+            $.getJSON('people.json',function(data){
+                var pp;
+                $.each(data, function(i, person){
+                    var rendered = Mustache.render(template, person);
+                    if(pp == null || pp != person.type) {
+                        $('.people').append("<li class='personType'>"+person.type+"</li>")
+                    }
+                    $('.people').append(rendered);
+                    pp = person.type;
+                });
+            })
             console.log("people");
         break;
         case "Courses":
@@ -130,7 +143,6 @@ $(document).ready(function(){
                 width:"-=286",
                 marginTop:"-=20px"
             },500,function(){
-                console.log("done")
                 page(thisEl.text())
                 $(".container").fadeIn('slow');
             });
