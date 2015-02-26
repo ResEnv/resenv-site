@@ -49,7 +49,8 @@ $(document).ready(function(){
         var pathSvg = $("path"),
             colorBtn = $(this),
             mainBody = $("html"),
-            mainCont = $(".main-container");
+            mainCont = $(".main-container"),
+            date = $(".date");
 
         if (black){
             pathSvg.attr("fill","#000");
@@ -57,6 +58,7 @@ $(document).ready(function(){
             colorBtn.css({"background":"#000","transition": "all 0.1s ease"});
             mainBody.css({"background": "#FEFEFE","color": "#000","transition": "all 0.1s ease"});
             mainCont.css({"transition": "all 0.1s ease","background": "#FEFEFE","color": "#000","-webkit-box-shadow":"0px 6px 50px 4px #FEFEFE","-moz-box-shadow": "0px 6px 50px 4px #FEFEFE","box-shadow": "0px 6px 50px 4px #FEFEFE"});
+            date.css({"transition": "all 0.1s ease","background": "#000", "color":"#FEFEFE"})
 
             black = false;
         }
@@ -66,6 +68,7 @@ $(document).ready(function(){
             colorBtn.css({"background":"#FEFEFE","transition": "all 0.1s ease"});
             mainBody.css({"transition": "all 0.1s ease","background": "#000","color": "#FEFEFE"});
             mainCont.css({"transition": "all 0.1s ease","background": "#000","color": "#FEFEFE","-webkit-box-shadow":"0px 6px 50px 4px #000","-moz-box-shadow": "0px 6px 50px 4px #000","box-shadow": "0px 6px 50px 4px #000"});
+            date.css({"transition": "all 0.1s ease","background": "#FEFEFE", "color":"#000"})
             black = true;
         }
 

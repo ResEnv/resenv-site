@@ -347,7 +347,7 @@ html{
 }
 body{
     font-family: "Lato", Helvetica, Arial, sans-serif;
-    font-size: 18px;
+    font-size: 16px;
 }
 
 h1,h2,h3,h4,h5,h6{
@@ -375,7 +375,7 @@ ul.navigation{
     margin-top:-22px;
     text-align:center;
     opacity:0.7;
-    font-size:16px;
+    font-size:1em;
 }
 
 ul.navigation li a:hover{
@@ -412,12 +412,12 @@ ul.navigation li:first-child{
     display:none;
 }
 .intro-logo{
-    font-size: 32px;
+    font-size: 2em;
     margin-top: -10px;
 }
 .intro-exp{
     font-weight: 600;
-    font-size: 18px;
+    font-size: 1.2em;
     display: inherit;
     margin-bottom: 10px;
 }
@@ -443,7 +443,7 @@ ul.navigation li:first-child{
     width: 100%;
     bottom: 0;
     text-align: right;
-    font-size: 12px;
+    font-size: 0.8em;
     color: #333;
     margin-left: -14px;
 }
@@ -467,24 +467,30 @@ ul.navigation li:first-child{
 .project{
     width: 100%;
     margin: 12px 0;
-    margin-left: 10%;
 }
 .project .title{
-    font-size:24px;
-    margin-bottom: -10px;
+    font-size:1.5em;
+    margin-bottom: 16px;
     text-transform: capitalize;
 }
 .project .date{
-    font-size:12px;
-    margin-bottom:12px;
+    font-size: 12px;
+    float: right;
+    padding: 3px 5px;
+    background: #FEFEFE;
+    color: #000;
+    opacity: 0.7;
+    margin-top: 38px;
 }
 .project .description{
     float: left;
-    font-size:14px;
+    font-size:1em;
     width: 70%;
     margin: 0;
     line-height: 1.4;
     text-align:justify;
+    margin-top: -4px;
+    margin-left: 12px;
 }
 .project .categories{
     display:block;
@@ -495,6 +501,7 @@ ul.navigation li:first-child{
     float: left;
     padding-right: 12px;
     padding-bottom: 12px;
+    padding-left: 3px;;
 }
 .project a:hover{
     text-decoration:underline;
@@ -516,16 +523,18 @@ ul.pub{
     columns: 2;
     -webkit-columns: 2;
     -moz-columns: 2;
-
+    list-style:square;
 }
 ul.pub li{
     opacity: 0.9;
     margin: 0 0 10px 6px;
-    font-size: 14px;
+    font-size: 0.9em;
     text-align: justify;
     line-height: 1.4;
 }
 ul.pub li a{
-    opacity: 0.8;
-    transition: all 0.5s ease-in-out;
+    opacity: 0.7;
+}
+ul.pub li a:hover{
+    text-decoration:underline;
 }
