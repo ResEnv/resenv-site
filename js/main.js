@@ -48,14 +48,14 @@ var toggleTheme = function (black){
         mainCont = $(".main-container"),
         date = $(".date");
 
-    if (black){
+    if (!black){
         pathSvg.attr("fill","#000");
         pathSvg.attr("stroke","#000");
         colorBtn.css({"background":"#000","transition": "all 0.1s ease"});
         mainBody.css({"background": "#FEFEFE","color": "#000","transition": "all 0.1s ease"});
         mainCont.css({"transition": "all 0.1s ease","background": "#FEFEFE","color": "#000","-webkit-box-shadow":"0px 6px 50px 4px #FEFEFE","-moz-box-shadow": "0px 6px 50px 4px #FEFEFE","box-shadow": "0px 6px 50px 4px #FEFEFE"});
         date.css({"transition": "all 0.1s ease","background": "#000", "color":"#FEFEFE"})
-        return false;
+        return true;
     }
     else {
         pathSvg.attr("fill","#FEFEFE");
@@ -64,30 +64,56 @@ var toggleTheme = function (black){
         mainBody.css({"transition": "all 0.1s ease","background": "#000","color": "#FEFEFE"});
         mainCont.css({"transition": "all 0.1s ease","background": "#000","color": "#FEFEFE","-webkit-box-shadow":"0px 6px 50px 4px #000","-moz-box-shadow": "0px 6px 50px 4px #000","box-shadow": "0px 6px 50px 4px #000"});
         date.css({"transition": "all 0.1s ease","background": "#FEFEFE", "color":"#000"})
-        return true;
+        return false;
     }
 }
 $(document).ready(function(){
+    var black;
+    if(localStorage.getItem("black") == undefined || localStorage.getItem("black") == null){
+        localStorage.setItem("black",true);
+        black = true;
+        console.log("asd")
+    }
+    else{
+        if(JSON.parse(localStorage.getItem("black")) === true){
+            $("#logo polygon").attr("stroke","#FEFEFE");
+            black = true;
+        }
+        else{
+            $("#logo polygon").attr("stroke","#000");
+            $("#logo polygon").attr("fill","#000");
+            black = false;
+            }
+        toggleTheme(black);
+    }
 
-    var black = true;
+
     //Click events
     $("#logo").on('click', function(){
         window.location.replace('http://responsive.media.mit.edu/')
     })
 
     $(".color-clit").on('click', function(){
-        black = toggleTheme(black);
+        toggleTheme(!black);
 
+        if(black){
+            black  = false;
+            localStorage.setItem("black", false)
+        }
+        else {
+            black = true;
+            localStorage.setItem("black", true)
+        }
     })
 
+
     //delayed, async, oneByOne or script
-    $("#logo polygon").attr("stroke","#FEFEFE");
     var logoAnimation = new Vivus('logo', {type: 'async', duration: 100}, function(){
         $(".intro-logo").fadeIn('fast');
         $(".navigation").fadeIn('slow');
         $(".intro-about").delay(400).fadeIn('slow');
         $("#logo path").attr("fill-opacity","1");
-    });
+        });
 
     //Navigation Control
     $('li').on('click', function(e){
