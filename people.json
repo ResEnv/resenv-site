@@ -12,7 +12,7 @@
         "name": "Gershon Dublon",
         "link": "http://gershondublon.com/",
         "image": "http://responsive.media.mit.edu/wp-content/uploads/sites/5/2013/12/gershon1-300x300.jpg",
-        "type":"Ph.D. Candidate",
+        "type":"Ph.D. Candidates",
         "email":"gershon[@]media[.]mit[.]edu"
     },
     {
@@ -20,7 +20,7 @@
         "name": "Brian Mayton",
         "link": "http://bdm.cc/",
         "image": "http://responsive.media.mit.edu/wp-content/uploads/sites/5/2013/12/bmayton.jpg",
-        "type":"Ph.D. Candidate",
+        "type":"Ph.D. Candidates",
         "email":"bmayton[@]media[.]mit[.]edu"
     },
     {
@@ -28,7 +28,7 @@
         "name": "Jie Qi",
         "link": "http://technolojie.com/",
         "image": "http://responsive.media.mit.edu/wp-content/uploads/sites/5/2013/12/jieqi.png",
-        "type":"Ph.D. Candidate",
+        "type":"Ph.D. Candidates",
         "email":"jieqi[@]media[.]mit[.]edu"
     },
     {
@@ -36,7 +36,7 @@
         "name": "Nan Zhao",
         "link": "http://web.media.mit.edu/~nanzhao/",
         "image": "http://responsive.media.mit.edu/wp-content/uploads/sites/5/2013/12/nanzhao.jpg",
-        "type":"Ph.D. Candidate",
+        "type":"Ph.D. Candidates",
         "email":"nanzhao[@]media[.]mit[.]edu"
     },
     {
@@ -44,7 +44,7 @@
         "name": "Artem Dementyev",
         "link": "http://artem.dementyev.us/",
         "image": "http://responsive.media.mit.edu/wp-content/uploads/sites/5/2013/12/artem.jpg",
-        "type":"Ph.D. Candidate",
+        "type":"Ph.D. Candidates",
         "email":"artemd[@]media[.]mit[.]edu"
     },
     {
@@ -52,46 +52,46 @@
         "name": "Spencer Russell",
         "link": "http://ssfrr.com/",
         "image": "http://responsive.media.mit.edu/wp-content/uploads/sites/5/2013/12/Spencer.jpg",
-        "type":"Ph.D. Candidate",
+        "type":"Ph.D. Candidates",
         "email":"sfr[@]media[.]mit[.]edu"
     },
     {
         "id": 8,
         "name": "Evan Lynch",
         "image":"http://www.artsboston.org/sites/artsboston.org/images/event/441659098/evanlynch_category.jpg",
-        "type":"M.S. Candidate",
+        "type":"M.S. Candidates",
         "email":"eflynch[@]media[.]mit[.]edu"
     },
     {
         "id": 9,
         "name": "Asaph Azaria",
-        "type":"M.S. Candidate"
+        "type":"M.S. Candidates"
     },
     {
         "id": 10,
         "name": "David Ramsay",
         "link": "http://davidbramsay.com/",
         "image": "https://lh6.googleusercontent.com/-x9ZoI7PkPxU/AAAAAAAAAAI/AAAAAAAAAMo/-dkHFozmxBY/s120-c/photo.jpg",
-        "type":"M.S. Candidate",
+        "type":"M.S. Candidates",
         "email":"dramsay[@]media[.]mit[.]edu"
     },
     {
         "id": 11,
         "name": "Juliana Cherston",
-        "type":"M.S. Candidate",
+        "type":"M.S. Candidates",
         "email":"cherston[@]media[.]mit[.]edu"
     },
     {
         "id": 7,
         "name": "Vasant Ramasubramanian",
-        "type":"M.S. Candidate"
+        "type":"M.S. Candidates"
     },
     {
         "id": 12,
         "name": "Nick Lee",
         "link": "https://github.com/nicklee-998",
         "image": "https://avatars2.githubusercontent.com/u/8962785?v=3&s=460",
-        "type":"Visiting Researcher",
+        "type":"Visiting Researchers",
         "email":"nick_lee[@]media[.]mit[.]edu"
     },
     {
@@ -99,7 +99,7 @@
         "name": "Donald Derek Haddad",
         "link": "http://www.donaldderek.com",
         "image": "https://pbs.twimg.com/profile_images/567319890819055616/cS0IhHXM_400x400.jpeg",
-        "type":"Visiting Researcher",
+        "type":"Visiting Researchers",
         "email":"ddh[@]mit[.]edu"
     },
     {
@@ -107,21 +107,21 @@
         "name": "Akiko Fujise",
         "link": "",
         "image": "",
-        "type":"Visiting Researcher",
+        "type":"Visiting Researchers",
         "email":"Fujise[@]mit[.]edu"
     },
     {
         "id": 15,
         "name": "Mark Feldmeier",
         "image": "http://responsive.media.mit.edu/wp-content/uploads/sites/5/2013/12/mark_feldmeier.jpg",
-        "type":"Affiliate",
+        "type":"Affiliates",
         "email":"carboxyl[@]media[.]mit[.]edu"
     },
     {
         "id": 16,
         "name": "Nan Wei Gong",
         "image": "http://responsive.media.mit.edu/wp-content/uploads/sites/5/2013/12/nanwei.jpg",
-        "type":"Affiliate",
+        "type":"Affiliates",
         "email":"nanwei[@]media[.]mit[.]edu"
     },
     {
@@ -129,7 +129,7 @@
         "name": "Pragun Goyal",
         "link": "http://pragungoyal.com/",
         "image": "http://responsive.media.mit.edu/wp-content/uploads/sites/5/2013/12/pragun.png",
-        "type":"Affiliate",
+        "type":"Affiliates",
         "email":"pragun[@]media[.]mit[.]edu"
     },
     {
