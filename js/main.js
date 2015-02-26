@@ -21,9 +21,14 @@ var page = function(name){
             $('.container').html('');
             $('.container').append('<ul class="pub"></ul>')
             $.getJSON('publications.json',function(data){
+                var dd;
                 $.each(data, function(i, pub){
                     var rendered = Mustache.render(template, pub);
+                    if(dd == null || dd != pub.date) {
+                        $('.pub').append("<li class='datePub'>"+pub.date+"</li>")
+                    }
                     $('.pub').append(rendered);
+                    dd = pub.date;
                 });
             })
             console.log("publications");
@@ -36,7 +41,32 @@ var page = function(name){
         break;
     }
 }
+var toggleTheme = function (black){
+    var pathSvg = $("path"),
+        colorBtn = $(".color-clit"),
+        mainBody = $("html"),
+        mainCont = $(".main-container"),
+        date = $(".date");
 
+    if (black){
+        pathSvg.attr("fill","#000");
+        pathSvg.attr("stroke","#000");
+        colorBtn.css({"background":"#000","transition": "all 0.1s ease"});
+        mainBody.css({"background": "#FEFEFE","color": "#000","transition": "all 0.1s ease"});
+        mainCont.css({"transition": "all 0.1s ease","background": "#FEFEFE","color": "#000","-webkit-box-shadow":"0px 6px 50px 4px #FEFEFE","-moz-box-shadow": "0px 6px 50px 4px #FEFEFE","box-shadow": "0px 6px 50px 4px #FEFEFE"});
+        date.css({"transition": "all 0.1s ease","background": "#000", "color":"#FEFEFE"})
+        return false;
+    }
+    else {
+        pathSvg.attr("fill","#FEFEFE");
+        pathSvg.attr("stroke","#FEFEFE");
+        colorBtn.css({"background":"#FEFEFE","transition": "all 0.1s ease"});
+        mainBody.css({"transition": "all 0.1s ease","background": "#000","color": "#FEFEFE"});
+        mainCont.css({"transition": "all 0.1s ease","background": "#000","color": "#FEFEFE","-webkit-box-shadow":"0px 6px 50px 4px #000","-moz-box-shadow": "0px 6px 50px 4px #000","box-shadow": "0px 6px 50px 4px #000"});
+        date.css({"transition": "all 0.1s ease","background": "#FEFEFE", "color":"#000"})
+        return true;
+    }
+}
 $(document).ready(function(){
 
     var black = true;
@@ -46,31 +76,7 @@ $(document).ready(function(){
     })
 
     $(".color-clit").on('click', function(){
-        var pathSvg = $("path"),
-            colorBtn = $(this),
-            mainBody = $("html"),
-            mainCont = $(".main-container"),
-            date = $(".date");
-
-        if (black){
-            pathSvg.attr("fill","#000");
-            pathSvg.attr("stroke","#000");
-            colorBtn.css({"background":"#000","transition": "all 0.1s ease"});
-            mainBody.css({"background": "#FEFEFE","color": "#000","transition": "all 0.1s ease"});
-            mainCont.css({"transition": "all 0.1s ease","background": "#FEFEFE","color": "#000","-webkit-box-shadow":"0px 6px 50px 4px #FEFEFE","-moz-box-shadow": "0px 6px 50px 4px #FEFEFE","box-shadow": "0px 6px 50px 4px #FEFEFE"});
-            date.css({"transition": "all 0.1s ease","background": "#000", "color":"#FEFEFE"})
-
-            black = false;
-        }
-        else {
-            pathSvg.attr("fill","#FEFEFE");
-            pathSvg.attr("stroke","#FEFEFE");
-            colorBtn.css({"background":"#FEFEFE","transition": "all 0.1s ease"});
-            mainBody.css({"transition": "all 0.1s ease","background": "#000","color": "#FEFEFE"});
-            mainCont.css({"transition": "all 0.1s ease","background": "#000","color": "#FEFEFE","-webkit-box-shadow":"0px 6px 50px 4px #000","-moz-box-shadow": "0px 6px 50px 4px #000","box-shadow": "0px 6px 50px 4px #000"});
-            date.css({"transition": "all 0.1s ease","background": "#FEFEFE", "color":"#000"})
-            black = true;
-        }
+        black = toggleTheme(black);
 
     })
 

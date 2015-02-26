@@ -4,7 +4,7 @@
         "dom": "<a title=\"Hypermedia APIs for Sensor Data\" href=\"http://responsive.media.mit.edu/wp-content/uploads/sites/5/2013/12/ChainAPI_Mobiquitous2014_camera-ready.pdf\">Hypermedia APIs for Sensor Data</a>, Spencer Russell, Joseph A. Paradiso,&nbsp;<em>Mobiquitous 2014</em>, London, December 2014.",
         "title": "Hypermedia APIs for Sensor Data",
         "link": "http://responsive.media.mit.edu/wp-content/uploads/sites/5/2013/12/ChainAPI_Mobiquitous2014_camera-ready.pdf",
-        "date": "2013"
+        "date": "2014"
     },
     {
         "id": 1,
@@ -17,7 +17,7 @@
         "dom": "<a href=\"http://responsive.media.mit.edu/wp-content/uploads/sites/5/2013/12/2014-6-GillianPerDis20141.pdf\">Gestures Everywhere: A Multimodal Sensor Fusion and Analysis Framework for Pervasive Displays</a>, Nicholas Gillian, Sara Pfenninger, Spencer Russell, and Joseph Paradiso, in&nbsp;<em>Proceedings of the International Symposium on Pervasive Displays</em>, Copenhagen, June 2014.",
         "title": "Gestures Everywhere: A Multimodal Sensor Fusion and Analysis Framework for Pervasive Displays",
         "link": "http://responsive.media.mit.edu/wp-content/uploads/sites/5/2013/12/2014-6-GillianPerDis20141.pdf",
-        "date": "2013"
+        "date": "2014"
     },
     {
         "id": 3,
@@ -31,7 +31,7 @@
         "dom": "<a href=\"http://responsive.media.mit.edu/wp-content/uploads/sites/5/2013/12/PrintSense-Sensing-Technique-to-Support-Multimodal-Flexible-Surface-Interaction.pdf\">PrintSense: A Versatile Sensing Technique to Support Multimodal Flexible Surface Interaction</a><em>,&nbsp;</em>Gong,&nbsp;N.-W., Steimle,&nbsp;J., Olberding, S., Hodges, S.,&nbsp;Gillian, N., Kawahara, Y., and Paradiso, J., <em>&nbsp;in Proceedings&nbsp;of &nbsp;CHI, 2014.&nbsp;</em>",
         "title": "PrintSense: A Versatile Sensing Technique to Support Multimodal Flexible Surface Interaction",
         "link": "http://responsive.media.mit.edu/wp-content/uploads/sites/5/2013/12/PrintSense-Sensing-Technique-to-Support-Multimodal-Flexible-Surface-Interaction.pdf",
-        "date": "2013"
+        "date": "2014"
     },
     {
         "id": 5,
@@ -225,7 +225,8 @@
         "id": 32,
         "dom": "<a href=\"http://resenv.media.mit.edu/pubs/papers/p45-gong.pdf\">Leveraging Conductive InkjetTechnology to Build a Scalable and Versatile Surface for Ubiquitous Sensing</a>, Gong, N.-W., Hodges, S, and Paradiso, J.A., In Proc. of the 13th international conference on Ubiquitous computing (UbiComp ’11), pp 45-54.",
         "title": "Leveraging Conductive InkjetTechnology to Build a Scalable and Versatile Surface for Ubiquitous Sensing",
-        "link": "http://resenv.media.mit.edu/pubs/papers/p45-gong.pdf"
+        "link": "http://resenv.media.mit.edu/pubs/papers/p45-gong.pdf",
+        "date": "2011"
     },
     {
         "id": 33,
@@ -246,7 +247,7 @@
         "dom": "<a href=\"http://resenv.media.mit.edu/pubs/papers/2010-04-mittal-ubicorder.pdf\">Ubicorder: A Mobile Device for Situated Interactions with Sensor Networks</a>, Mittal, M.., and Paradiso, J.A., to appear in&nbsp;<em>IEEE Sensors Journal</em>, Special issue on Cognitive Sensor Networks, 2011.",
         "title": "Ubicorder: A Mobile Device for Situated Interactions with Sensor Networks",
         "link": "http://resenv.media.mit.edu/pubs/papers/2010-04-mittal-ubicorder.pdf",
-        "date": "2010"
+        "date": "2011"
     },
     {
         "id": 36,
@@ -463,7 +464,7 @@
         "dom": "<a href=\"http://www.mitpressjournals.org/doi/pdf/10.1162/comj.2007.31.1.50\">An Interactive Music Environment for Large Groups with Giveaway Wireless Motion Sensors</a>, Feldmeier, M. and Paradiso, J.A., Computer Music Journal, Vol. 31, No. 1 (Spring 2007), pp. 50-67.",
         "title": "An Interactive Music Environment for Large Groups with Giveaway Wireless Motion Sensors",
         "link": "http://www.mitpressjournals.org/doi/pdf/10.1162/comj.2007.31.1.50",
-        "date": "1162"
+        "date": "2007"
     },
     {
         "id": 67,
@@ -848,7 +849,7 @@
         "dom": "<a href=\"http://resenv.media.mit.edu/pubs/papers/2000_12_ISEA_Shoe.pdf\">FootNotes: Personal Reflections on the Development of Instrumented Dance Shoes and their Musical Applications</a>. J. Paradiso, in Quinz, E., ed.,&nbsp;<i>Digital Performance,</i>&nbsp;Anomalie, digital_arts Vol. 2, Anomos, Paris, 2002, pp. 34-49.",
         "title": "FootNotes: Personal Reflections on the Development of Instrumented Dance Shoes and their Musical Applications",
         "link": "http://resenv.media.mit.edu/pubs/papers/2000_12_ISEA_Shoe.pdf",
-        "date": "2000"
+        "date": "2002"
     },
     {
         "id": 122,
@@ -1092,6 +1093,7 @@
         "id": 156,
         "dom": "<em>Note: Prof. Paradiso’s prior publications are listed at his <a href=\"http://web.media.mit.edu/~joep/pubs.pdf\">publications website</a>.</em>",
         "title": "publications website",
-        "link": "http://web.media.mit.edu/~joep/pubs.pdf"
+        "link": "http://web.media.mit.edu/~joep/pubs.pdf",
+        "date":""
     }
 ]

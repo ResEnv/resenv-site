@@ -523,14 +523,17 @@ ul.pub{
     columns: 2;
     -webkit-columns: 2;
     -moz-columns: 2;
-    list-style:square;
+    list-style:none;
 }
 ul.pub li{
     opacity: 0.9;
-    margin: 0 0 10px 6px;
+    margin: 0 0 14px 6px;
     font-size: 0.9em;
     text-align: justify;
     line-height: 1.4;
+}
+ul.pub li.datePub{
+    font-size:1.4em;
 }
 ul.pub li a{
     opacity: 0.7;
