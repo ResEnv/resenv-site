@@ -76,7 +76,7 @@ $(document).ready(function(){
     }
     else{
         if(JSON.parse(localStorage.getItem("black")) === true){
-
+            $("#logo polygon").attr("stroke","#FEFEFE");
             black = true;
         }
         else{
