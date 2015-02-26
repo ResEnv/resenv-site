@@ -72,11 +72,11 @@ $(document).ready(function(){
     if(localStorage.getItem("black") == undefined || localStorage.getItem("black") == null){
         localStorage.setItem("black",true);
         black = true;
-        console.log("asd")
+        $("#logo polygon").attr("stroke","#FEFEFE");
     }
     else{
         if(JSON.parse(localStorage.getItem("black")) === true){
-            $("#logo polygon").attr("stroke","#FEFEFE");
+
             black = true;
         }
         else{
