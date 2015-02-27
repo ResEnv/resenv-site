@@ -191,7 +191,7 @@ $(document).ready(function(){
         });
 
     //Navigation Control
-    $('li').on('click', function(e){
+    $('li, #morep').on('click', function(e){
         e.preventDefault();
         var thisEl = $(this);
         $('.navigation li').css('opacity','0.7');
