@@ -150,7 +150,20 @@ $(document).ready(function(){
 
     //Click events
     $("#logo").on('click', function(){
-        window.location.replace('http://responsive.media.mit.edu/')
+        window.location.replace('#');
+        $('.navigation li').css('opacity','0.7');
+        $('.container').fadeOut("fast").html('');
+        $("svg").animate({
+            height:"+=266",
+            width:"+=286",
+            marginTop:"+=20px"
+        },500,function(){
+            $(".container").fadeIn('slow');
+            $(".intro-about").fadeIn('fast');
+        });
+
+        $(".navigation").removeClass('onIt');
+        $(".main-container").removeClass("fixSnap");
     })
 
     $(".color-clit").on('click', function(){
