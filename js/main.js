@@ -31,6 +31,10 @@ var page = function(name){
                         $('.pub').append("<li class='datePub'>"+pub.date+"</li>")
                     }
                     $('.pub').append(rendered);
+                    if(JSON.parse(localStorage.getItem("black")) == true)
+                        $(".datePub").addClass("white")
+                    else
+                        $(".datePub").addClass("black")
                     dd = pub.date;
                 });
             })
@@ -87,6 +91,8 @@ var toggleTheme = function (black){
         mainBody.css({"background": "#FEFEFE","color": "#000","transition": "all 0.1s ease"});
         mainCont.css({"transition": "all 0.1s ease","background": "#FEFEFE","color": "#000","-webkit-box-shadow":"0px 6px 50px 4px #FEFEFE","-moz-box-shadow": "0px 6px 50px 4px #FEFEFE","box-shadow": "0px 6px 50px 4px #FEFEFE"});
         date.css({"transition": "all 0.1s ease","background": "#000", "color":"#FEFEFE"})
+        $(".datePub").addClass("black")
+        $(".datePub").removeClass("white")
         return true;
     }
     else {
@@ -96,6 +102,8 @@ var toggleTheme = function (black){
         mainBody.css({"transition": "all 0.1s ease","background": "#000","color": "#FEFEFE"});
         mainCont.css({"transition": "all 0.1s ease","background": "#000","color": "#FEFEFE","-webkit-box-shadow":"0px 6px 50px 4px #000","-moz-box-shadow": "0px 6px 50px 4px #000","box-shadow": "0px 6px 50px 4px #000"});
         date.css({"transition": "all 0.1s ease","background": "#FEFEFE", "color":"#000"})
+        $(".datePub").removeClass("black")
+        $(".datePub").addClass("white")
         return false;
     }
 }

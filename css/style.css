@@ -533,6 +533,7 @@ ul.pub li{
 }
 ul.pub li.datePub{
     font-size:1.4em;
+    padding: 2px 4px;
 }
 ul.pub li a{
     opacity: 0.7;
@@ -586,7 +587,8 @@ ul.courses .name{
 }
 ul.courses .date{
     font-size:0.8em;
-    opacity:0.9
+    opacity:0.9;
+    padding: 2px 4px;
 }
 ul.courses a{
     font-size:0.7em;
