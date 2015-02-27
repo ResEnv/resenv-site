@@ -628,3 +628,25 @@ ul.courses a:hover{
     -o-animation: loading 1s infinite;
     animation: loading 1s infinite;
 }
+.social-links{
+    position: fixed;
+    top: 42px;
+    right: 12px;
+    z-index: 999;
+
+}
+.social-links a:hover{
+    transition: all 0.2s ease-in-out;
+    opacity:0.7;
+}
+.social-links i{
+    
+}
+.social-links .fui-vimeo{
+    padding:4px;
+
+}
+.social-links .fui-github{
+    margin-left:3px;
+    padding:4px;
+}

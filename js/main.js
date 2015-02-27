@@ -98,6 +98,7 @@ var toggleTheme = function (black){
         mainBody = $("html"),
         mainCont = $(".main-container"),
         date = $(".date");
+        icons = $("i");
 
     if (!black){
         pathSvg.attr("fill","#000");
@@ -107,7 +108,9 @@ var toggleTheme = function (black){
         mainCont.css({"transition": "all 0.1s ease","background": "#FEFEFE","color": "#000","-webkit-box-shadow":"0px 6px 50px 4px #FEFEFE","-moz-box-shadow": "0px 6px 50px 4px #FEFEFE","box-shadow": "0px 6px 50px 4px #FEFEFE"});
         date.css({"transition": "all 0.1s ease","background": "#000", "color":"#FEFEFE"})
         $(".datePub").addClass("black")
+        icons.addClass("black");
         $(".datePub").removeClass("white")
+        icons.removeClass("white");
         return true;
     }
     else {
@@ -118,7 +121,9 @@ var toggleTheme = function (black){
         mainCont.css({"transition": "all 0.1s ease","background": "#000","color": "#FEFEFE","-webkit-box-shadow":"0px 6px 50px 4px #000","-moz-box-shadow": "0px 6px 50px 4px #000","box-shadow": "0px 6px 50px 4px #000"});
         date.css({"transition": "all 0.1s ease","background": "#FEFEFE", "color":"#000"})
         $(".datePub").removeClass("black")
+        icons.removeClass("black");
         $(".datePub").addClass("white")
+        icons.addClass("white");
         return false;
     }
 }
