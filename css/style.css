@@ -516,6 +516,7 @@ ul.navigation li:first-child{
     display:none;
     width: 60%;
     margin: 0 20%;
+    display:none;
 }
 ul.pub{
     columns: 2;
@@ -574,6 +575,7 @@ ul.courses{
     columns: 2;
     -webkit-columns: 2;
     -moz-columns: 2;
+    list-style:none;
 }
 ul.courses li{
     margin-bottom: 24px;

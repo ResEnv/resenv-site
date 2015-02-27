@@ -5,13 +5,14 @@ var page = function(name){
         case "Projects":
             var template = $('#projects').html();
             Mustache.parse(template);
+            $(".container").hide();
             $('.container').html('');
             $("#logo").addClass("loader");
             $.getJSON('projects.json',function(data){
                 $.each(data, function(i, project){
                     project.categories = project.categories.join(", ");
                     var rendered = Mustache.render(template, project);
-                    $('.container').append(rendered);
+                    $('.container').append(rendered).fadeIn("fast");
                     if(JSON.parse(localStorage.getItem("black")) == true)
                         $(".container").find(".date").addClass("white")
                     else
@@ -23,6 +24,7 @@ var page = function(name){
         case "Publications":
             var template = $('#publications').html();
             Mustache.parse(template);
+            $(".container").hide();
             $('.container').html('');
             $('.container').append('<ul class="pub"></ul>')
             $("#logo").addClass("loader");
@@ -39,6 +41,7 @@ var page = function(name){
                     else
                         $(".datePub").addClass("black")
                     dd = pub.date;
+                    $(".container").fadeIn("fast");
                 });
                 $("#logo").removeClass("loader");
             })
@@ -46,6 +49,7 @@ var page = function(name){
         case "People":
             var template = $('#people').html();
             Mustache.parse(template);
+            $(".container").hide();
             $('.container').html('');
             $('.container').append('<ul class="people"></ul>')
             $("#logo").addClass("loader");
@@ -60,12 +64,14 @@ var page = function(name){
                     pp = person.type;
                 });
                 $("#logo").removeClass("loader");
+                $(".container").fadeIn("fast");
             })
             console.log("people");
         break;
         case "Courses":
             var template = $('#courses').html();
             Mustache.parse(template);
+            $(".container").hide();
             $('.container').html('');
             $('.container').append('<ul class="courses"></ul>')
             $("#logo").addClass("loader");
@@ -80,6 +86,7 @@ var page = function(name){
                         $(".courses").find(".date").addClass("black")
                 });
                 $("#logo").removeClass("loader");
+                $(".container").fadeIn("fast");
             })
             console.log("courses");
         break;
