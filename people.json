@@ -133,6 +133,13 @@
         "email":"pragun[@]media[.]mit[.]edu"
     },
     {
+        "id": 18,
+        "name": "Amna Carreiro",
+        "image": "http://fluid.media.mit.edu/sites/default/files/styles/person_image_people_page/public/Amna1_0.jpg",
+        "type":"Affiliates",
+        "email":"amnac[@]media[.]mit[.]edu"
+    },
+    {
         "id": 31,
         "image": "http://responsive.media.mit.edu/wp-content/uploads/sites/5/2013/12/matt.jpg",
         "name": "Matt Aldrich",
