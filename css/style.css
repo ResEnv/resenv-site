@@ -477,8 +477,6 @@ ul.navigation li:first-child{
     font-size: 12px;
     float: right;
     padding: 3px 5px;
-    background: #FEFEFE;
-    color: #000;
     opacity: 0.7;
     margin-top: 38px;
 }
@@ -524,6 +522,7 @@ ul.pub{
     -webkit-columns: 2;
     -moz-columns: 2;
     list-style:none;
+    padding-bottom: 20px;
 }
 ul.pub li{
     opacity: 0.9;
@@ -569,4 +568,37 @@ ul.people .personType{
     font-size:1.4em;
     width:100%;
     margin: 24px 0 0px 8px;
+}
+ul.courses{
+    columns: 2;
+    -webkit-columns: 2;
+    -moz-columns: 2;
+}
+ul.courses li{
+    margin-bottom: 24px;
+}
+ul.courses span{
+    display: block;
+}
+ul.courses .name{
+    font-size:1.2em;
+    font-weight:200;
+}
+ul.courses .date{
+    font-size:0.8em;
+    opacity:0.9
+}
+ul.courses a{
+    font-size:0.7em;
+}
+ul.courses a:hover{
+    text-decoration:underline;
+}
+.black{
+    color: rgb(254, 254, 254);
+    background: rgb(0, 0, 0);
+}
+.white{
+    background: rgb(254, 254, 254);
+    color: rgb(0, 0, 0);
 }

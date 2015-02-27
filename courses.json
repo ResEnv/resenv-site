@@ -1,0 +1,85 @@
+[
+    {
+        "name": "MAS836",
+        "title": "Sensor Technologies for Interactive Environments",
+        "link": "http://www.media.mit.edu/resenv/classarchive/MAS836/",
+        "date": "Regular class – Spring term"
+    },
+    {
+        "name": "MAS960",
+        "title": "Principles of Electronic Music Controllers",
+        "link": "https://www.media.mit.edu/resenv/classarchive/MAS960",
+        "date": "Every other year – Fall term"
+    },
+    {
+        "name": "MAS.S63",
+        "title": "Silicon Menagerie - From Bioinspiration to Biomimetics",
+        "link": "http://mass63.media.mit.edu/home/",
+        "date": "Spring 2014"
+    },
+    {
+        "name": "4.S23",
+        "title": "SECOND NATURE - Design of Low Power Environmental Sensors and Networks",
+        "link": "http://stellar.mit.edu/S/course/4/fa13/4.S23/index.html",
+        "date": "Fall 2013"
+    },
+    {
+        "name": "MASS61",
+        "title": "Emerging Technologies in Location-Aware Computing",
+        "link": "http://resenv.media.mit.edu/classarchive/S61.2011/",
+        "date": "Fall 2011"
+    },
+    {
+        "name": "MAS969",
+        "title": "Building Cross Reality Applications",
+        "link": "http://resenv.media.mit.edu/classarchive/MAS969/FrontPage-CrossrealityWiki.html",
+        "date": "Spring 2009"
+    },
+    {
+        "name": "MAS961",
+        "title": "Developing Applications for Sensor Networks",
+        "link": "http://www.media.mit.edu/resenv/classarchive/MAS961/",
+        "date": "Fall 2005"
+    },
+    {
+        "name": "MAS965",
+        "title": "Electronic Skins and Dense Sensor Networks",
+        "link": "http://www.media.mit.edu/resenv/classarchive/MAS965",
+        "date": "Spring 2003"
+    },
+    {
+        "name": "MAS.500b",
+        "title": "Fundamentals – Intro to Electronics Module",
+        "link": "http://responsive.media.mit.edu/machine-learning-module/",
+        "date": "Fall terms"
+    },
+    {
+        "name": "MAS.500c",
+        "title": "Fundamentals – Intro to Applied Sensor Technology Module (Fall terms)",
+        "link": "http://web.media.mit.edu/~geppetto/vids/",
+        "date": "Fall terms"
+    },
+    {
+        "name": "MAS.500d",
+        "title": "  Fundamentals – Intro to Applied Machine Learning Module",
+        "link": "http://responsive.media.mit.edu/classes/machine-learning-module/",
+        "date": "Spring terms"
+    },
+    {
+        "name": "MAS.500f",
+        "title": "Fundamentals – Intro to Applied Controls Module ",
+        "link": "http://responsive.media.mit.edu/classes/mas-500f-fundamentals-intro-to-applied-controls-module-spring-terms/",
+        "date": "Spring terms"
+    },
+    {
+        "name": "Invited Seminar",
+        "title": "Modeling and Estimation of Uncertain Systems by Dr. Rich Kolacinski, Draper Laboratory",
+        "date":"2011"
+    },
+    {
+        "name": "Informal Seminar",
+        "title": "Avant-Prog Rock Video Concert Series",
+        "link": "http://resenv.media.mit.edu/classarchive/Prog2011/Introduction.htm",
+        "date": "2011 and occasionally ongoing"
+    }
+]

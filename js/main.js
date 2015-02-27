@@ -11,6 +11,10 @@ var page = function(name){
                     project.categories = project.categories.join(", ");
                     var rendered = Mustache.render(template, project);
                     $('.container').append(rendered);
+                    if(JSON.parse(localStorage.getItem("black")) == true)
+                        $(".container").find(".date").addClass("white")
+                    else
+                        $(".container").find(".date").addClass("black")
                 });
             })
         break;
@@ -50,6 +54,21 @@ var page = function(name){
             console.log("people");
         break;
         case "Courses":
+            var template = $('#courses').html();
+            Mustache.parse(template);
+            $('.container').html('');
+            $('.container').append('<ul class="courses"></ul>')
+            $.getJSON('courses.json',function(data){
+                var pp;
+                $.each(data, function(i, person){
+                    var rendered = Mustache.render(template, person);
+                    $('.courses').append(rendered);
+                    if(JSON.parse(localStorage.getItem("black")) == true)
+                        $(".courses").find(".date").addClass("white")
+                    else
+                        $(".courses").find(".date").addClass("black")
+                });
+            })
             console.log("courses");
         break;
     }

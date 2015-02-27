@@ -36,12 +36,12 @@
 		<div class="bottomBorder"></div>
 
 		<script id="projects" type="x-tmpl-mustache">
-		<div class='project'>
-		<h3 class="title">{{name}} <span class="date">{{date}}</span></h3>
-		<img src={{image}} width="100" height="76"/>
-		<p class="description">{{description}} <a target="_BLANK" href={{link}}>read more</a> <span class='categories'><strong>Tags</strong>: {{categories}}.</span></p>
-		</div>
-		<div class="clearfix"></div>
+			<div class='project'>
+			<h3 class="title">{{name}} <span class="date">{{date}}</span></h3>
+			<img src={{image}} width="100" height="76"/>
+			<p class="description">{{description}} <a target="_BLANK" href={{link}}>read more</a> <span class='categories'><strong>Tags</strong>: {{categories}}.</span></p>
+			</div>
+			<div class="clearfix"></div>
 		</script>
 
 		<script id="publications" type="x-tmpl-mustache">
@@ -57,7 +57,15 @@
 				{{^image}}
 					<img width="120" height="120" src="images/default_avatar.png" title={{name}}/>
 				{{/image}}
-				{{name}}</a></li>
+				{{name}}</a>
+			</li>
+		</script>
+		<script id="courses" type="x-tmpl-mustache">
+			<li><span class="name">{{name}}</span>
+				<span class="date">{{date}}</span>
+				<span class="title">{{title}}</span>
+				<a href="{{link}}">course site.</a>
+			</li>
 		</script>
 
 		</script>
