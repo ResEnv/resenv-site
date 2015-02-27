@@ -6,6 +6,7 @@ var page = function(name){
             var template = $('#projects').html();
             Mustache.parse(template);
             $('.container').html('');
+            $("#logo").addClass("loader");
             $.getJSON('projects.json',function(data){
                 $.each(data, function(i, project){
                     project.categories = project.categories.join(", ");
@@ -16,6 +17,7 @@ var page = function(name){
                     else
                         $(".container").find(".date").addClass("black")
                 });
+                $("#logo").removeClass("loader");
             })
         break;
         case "Publications":
@@ -23,6 +25,7 @@ var page = function(name){
             Mustache.parse(template);
             $('.container').html('');
             $('.container').append('<ul class="pub"></ul>')
+            $("#logo").addClass("loader");
             $.getJSON('publications.json',function(data){
                 var dd;
                 $.each(data, function(i, pub){
@@ -37,6 +40,7 @@ var page = function(name){
                         $(".datePub").addClass("black")
                     dd = pub.date;
                 });
+                $("#logo").removeClass("loader");
             })
         break;
         case "People":
@@ -44,6 +48,7 @@ var page = function(name){
             Mustache.parse(template);
             $('.container').html('');
             $('.container').append('<ul class="people"></ul>')
+            $("#logo").addClass("loader");
             $.getJSON('people.json',function(data){
                 var pp;
                 $.each(data, function(i, person){
@@ -54,6 +59,7 @@ var page = function(name){
                     $('.people').append(rendered);
                     pp = person.type;
                 });
+                $("#logo").removeClass("loader");
             })
             console.log("people");
         break;
@@ -62,6 +68,7 @@ var page = function(name){
             Mustache.parse(template);
             $('.container').html('');
             $('.container').append('<ul class="courses"></ul>')
+            $("#logo").addClass("loader");
             $.getJSON('courses.json',function(data){
                 var pp;
                 $.each(data, function(i, person){
@@ -72,6 +79,7 @@ var page = function(name){
                     else
                         $(".courses").find(".date").addClass("black")
                 });
+                $("#logo").removeClass("loader");
             })
             console.log("courses");
         break;

@@ -604,3 +604,25 @@ ul.courses a:hover{
     background: rgb(254, 254, 254);
     color: rgb(0, 0, 0);
 }
+@-webkit-keyframes loading {
+  0%   { opacity: 0.3; }
+  100% { opacity: 1; }
+}
+@-moz-keyframes loading {
+  0%   { opacity: 0.3; }
+  100% { opacity: 1; }
+}
+@-o-keyframes loading {
+  0%   { opacity: 0.3; }
+  100% { opacity: 1; }
+}
+@keyframes loading {
+  0%   { opacity: 0.3; }
+  100% { opacity: 1; }
+}
+.loader{
+    -webkit-animation: loading 1s infinite;
+    -moz-animation: loading 1s infinite;
+    -o-animation: loading 1s infinite;
+    animation: loading 1s infinite;
+}
