@@ -98,7 +98,7 @@ var toggleTheme = function (black){
         mainBody = $("html"),
         mainCont = $(".main-container"),
         date = $(".date");
-        icons = $(".social-links i");
+        icons = $(".social-links span");
 
     if (!black){
         pathSvg.attr("fill","#000");
