@@ -129,24 +129,37 @@ var toggleTheme = function (black){
 }
 $(document).ready(function(){
     var black;
-    if(localStorage.getItem("black") == undefined || localStorage.getItem("black") == null){
-        localStorage.setItem("black",true);
-        black = true;
-        $("#logo polygon").attr("stroke","#FEFEFE");
-    }
-    else{
-        if(JSON.parse(localStorage.getItem("black")) === true){
-            $("#logo polygon").attr("stroke","#FEFEFE");
+    if (typeof localStorage !== "undefined") {
+        if(localStorage.getItem("black") == undefined || localStorage.getItem("black") == null){
+            try {
+                localStorage.setItem("black",true);
+                return true;
+            }
+            catch (err) {
+                return false;
+            }
             black = true;
+            toggleTheme(black);
+            $("#logo polygon").attr("stroke","#FEFEFE");
         }
         else{
-            $("#logo polygon").attr("stroke","#000");
-            $("#logo polygon").attr("fill","#000");
-            black = false;
+            if(JSON.parse(localStorage.getItem("black")) === true){
+                $("#logo polygon").attr("stroke","#FEFEFE");
+                black = true;
             }
+            else{
+                $("#logo polygon").attr("stroke","#000");
+                $("#logo polygon").attr("fill","#000");
+                black = false;
+                }
+            toggleTheme(black);
+        }
+    }
+    else {
+        black = true;
+        $("#logo polygon").attr("stroke","#FEFEFE");
         toggleTheme(black);
     }
-
 
     //Click events
     $("#logo").on('click', function(){
@@ -173,11 +186,23 @@ $(document).ready(function(){
 
         if(black){
             black  = false;
-            localStorage.setItem("black", false)
+            try {
+                localStorage.setItem("black", false);
+                return true;
+            }
+            catch (err) {
+                return false;
+            }
         }
         else {
             black = true;
-            localStorage.setItem("black", true)
+            try {
+                localStorage.setItem("black", true);
+                return true;
+            }
+            catch (err) {
+                return false;
+            }
         }
     })
 
