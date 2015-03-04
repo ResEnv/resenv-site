@@ -1,33 +1,28 @@
 var page = function(name){
     location.hash = name;
-
+    var container = $(".container");
     switch (name){
         case "Projects":
             var template = $('#tpl-projects').html();
             Mustache.parse(template);
-            $(".container").hide();
-            $('.container').html('');
-            $("#logo").addClass("loader");
+            container.hide().html('');
             $.getJSON('projects.json',function(data){
                 $.each(data, function(i, project){
                     project.categories = project.categories.join(", ");
                     var rendered = Mustache.render(template, project);
-                    $('.container').append(rendered).fadeIn("fast");
+                    container.append(rendered).fadeIn("fast");
                     if(JSON.parse(localStorage.getItem("black")) == true)
-                        $(".container").find(".date").addClass("white")
+                        container.find(".date").addClass("white")
                     else
-                        $(".container").find(".date").addClass("black")
+                        container.find(".date").addClass("black")
                 });
-                $("#logo").removeClass("loader");
             })
         break;
         case "Publications":
             var template = $('#tpl-publications').html();
             Mustache.parse(template);
-            $(".container").hide();
-            $('.container').html('');
-            $('.container').append('<ul class="pub"></ul>')
-            $("#logo").addClass("loader");
+            container.hide().html('');
+            container.append('<ul class="pub"></ul>')
             $.getJSON('publications.json',function(data){
                 var dd;
                 $.each(data, function(i, pub){
@@ -41,18 +36,15 @@ var page = function(name){
                     else
                         $(".datePub").addClass("black")
                     dd = pub.date;
-                    $(".container").fadeIn("fast");
+                    container.fadeIn("fast");
                 });
-                $("#logo").removeClass("loader");
             })
         break;
         case "People":
             var template = $('#tpl-people').html();
             Mustache.parse(template);
-            $(".container").hide();
-            $('.container').html('');
-            $('.container').append('<ul class="people"></ul>')
-            $("#logo").addClass("loader");
+            container.hide().html('');
+            container.append('<ul class="people"></ul>')
             $.getJSON('people.json',function(data){
                 var pp;
                 $.each(data, function(i, person){
@@ -63,17 +55,14 @@ var page = function(name){
                     $('.people').append(rendered);
                     pp = person.type;
                 });
-                $("#logo").removeClass("loader");
-                $(".container").fadeIn("fast");
+                container.fadeIn("fast");
             })
         break;
         case "Courses":
             var template = $('#tpl-courses').html();
             Mustache.parse(template);
-            $(".container").hide();
-            $('.container').html('');
-            $('.container').append('<ul class="courses"></ul>')
-            $("#logo").addClass("loader");
+            container.hide().html('');
+            container.append('<ul class="courses"></ul>')
             $.getJSON('courses.json',function(data){
                 var pp;
                 $.each(data, function(i, person){
@@ -84,8 +73,7 @@ var page = function(name){
                     else
                         $(".courses").find(".date").addClass("black")
                 });
-                $("#logo").removeClass("loader");
-                $(".container").fadeIn("fast");
+                container.fadeIn("fast");
             })
         break;
         default:
