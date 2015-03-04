@@ -3,7 +3,7 @@ var page = function(name){
 
     switch (name){
         case "Projects":
-            var template = $('#projects').html();
+            var template = $('#tpl-projects').html();
             Mustache.parse(template);
             $(".container").hide();
             $('.container').html('');
@@ -22,7 +22,7 @@ var page = function(name){
             })
         break;
         case "Publications":
-            var template = $('#publications').html();
+            var template = $('#tpl-publications').html();
             Mustache.parse(template);
             $(".container").hide();
             $('.container').html('');
@@ -47,7 +47,7 @@ var page = function(name){
             })
         break;
         case "People":
-            var template = $('#people').html();
+            var template = $('#tpl-people').html();
             Mustache.parse(template);
             $(".container").hide();
             $('.container').html('');
@@ -66,10 +66,9 @@ var page = function(name){
                 $("#logo").removeClass("loader");
                 $(".container").fadeIn("fast");
             })
-            console.log("people");
         break;
         case "Courses":
-            var template = $('#courses').html();
+            var template = $('#tpl-courses').html();
             Mustache.parse(template);
             $(".container").hide();
             $('.container').html('');
@@ -88,7 +87,8 @@ var page = function(name){
                 $("#logo").removeClass("loader");
                 $(".container").fadeIn("fast");
             })
-            console.log("courses");
+        break;
+        default:
         break;
     }
 }
@@ -128,6 +128,7 @@ var toggleTheme = function (black){
     }
 }
 $(document).ready(function(){
+
     var black;
     if (typeof localStorage !== "undefined") {
         if(localStorage.getItem("black") == undefined || localStorage.getItem("black") == null){
@@ -188,36 +189,35 @@ $(document).ready(function(){
                 localStorage.setItem("black", false);
             }
             catch (err) {
-                return false;
+                console.log(err)
             }
         }
         else {
             black = true;
             try {
                 localStorage.setItem("black", true);
-                return true;
             }
             catch (err) {
-                return false;
+                console.log(err)
             }
         }
     })
 
 
     //delayed, async, oneByOne or script
-    var logoAnimation = new Vivus('logo', {type: 'async', duration: 100}, function(){
+    var logoAnimation = new Vivus('logo', {type: 'async', duration: 50}, function(){
         $(".intro-logo").fadeIn('fast');
         $(".navigation").fadeIn('slow');
-        $(".intro-about").delay(400).fadeIn('slow');
         $("#logo path").attr("fill-opacity","1");
+        if(location.hash.length != 0) $(location.hash.toLocaleLowerCase()).trigger("click")
+        else $(".intro-about").delay(400).fadeIn('slow');
         });
 
     //Navigation Control
-    $('li, #morep').on('click', function(e){
+    $('li').on('click', function(e){
         e.preventDefault();
         var thisEl = $(this);
         $('.navigation li').css('opacity','0.7');
-        $(thisEl).css('opacity','1')
         if($(this).parent().hasClass('onIt')){
             page(thisEl.text())
         }
@@ -234,5 +234,6 @@ $(document).ready(function(){
             $(this).parent().addClass('onIt');
             $(".main-container").addClass("fixSnap");
         }
+        $(thisEl).css('opacity','1');
     })
 });

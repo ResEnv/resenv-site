@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang=en>
 <head>
 	<title>Responsive Environments</title>
@@ -26,10 +25,10 @@
 
 			<h2 class='intro-logo hide'>responsive environments</h2>
 			<ul class="navigation hide">
-				<li><a>Projects</a></li>
-				<li><a>Publications</a></li>
-				<li><a>People</a></li>
-				<li><a>Courses</a></li>
+				<li id="projects"><a href="#Projects">Projects</a></li>
+				<li id="publications"><a href="#Publications">Publications</a></li>
+				<li id="people"><a href="#People">People</a></li>
+				<li id="courses"><a href="#Courses">Courses</a></li>
 			</ul>
 			<p class="intro-about hide"><span class="intro-exp">resenv <span class='intro-pho'>/rez&#600;nv/</span></span>The responsive environments group explores how sensor networks augment and mediate human experience, interaction and perception.</p>
 		</div>
@@ -42,7 +41,7 @@
 		<div class="footer"><p>MIT Media Lab &copy; 2015</p></div>
 		<div class="bottomBorder"></div>
 
-		<script id="projects" type="x-tmpl-mustache">
+		<script id="tpl-projects" type="x-tmpl-mustache">
 			<div class='project'>
 			<h3 class="title">{{name}} <span class="date">{{date}}</span></h3>
 			<img src={{image}} width="100" height="76"/>
@@ -51,11 +50,11 @@
 			<div class="clearfix"></div>
 		</script>
 
-		<script id="publications" type="x-tmpl-mustache">
+		<script id="tpl-publications" type="x-tmpl-mustache">
 		<li data-date={{date}}>{{{dom}}}</li>
 		</script>
 
-		<script id="people" type="x-tmpl-mustache">
+		<script id="tpl-people" type="x-tmpl-mustache">
 			<li>
 				<a href="{{link}}" target="_BLANK">
 				{{#image}}
@@ -67,7 +66,7 @@
 				{{name}}</a>
 			</li>
 		</script>
-		<script id="courses" type="x-tmpl-mustache">
+		<script id="tpl-courses" type="x-tmpl-mustache">
 			<li><span class="name">{{name}}</span>
 				<span class="date">{{date}}</span>
 				<span class="title">{{title}}</span>
