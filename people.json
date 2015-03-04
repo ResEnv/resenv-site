@@ -3,7 +3,7 @@
         "id": 0,
         "name": "Prof. Joseph A. Paradiso",
         "link": "http://web.media.mit.edu/~joep/",
-        "image": "http://responsive.media.mit.edu/wp-content/uploads/sites/5/2013/12/joep.gif",
+        "image": "/images/joeparadiso.jpg",
         "type" : "Director",
         "email":"joep[@]media[.]mit[.]edu"
     },
@@ -51,7 +51,7 @@
         "id": 6,
         "name": "Spencer Russell",
         "link": "http://ssfrr.com/",
-        "image": "http://responsive.media.mit.edu/wp-content/uploads/sites/5/2013/12/Spencer.jpg",
+        "image": "/images/spencer.JPG",
         "type":"Ph.D. Candidates",
         "email":"sfr[@]media[.]mit[.]edu"
     },
