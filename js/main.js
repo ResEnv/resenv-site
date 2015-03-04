@@ -131,27 +131,26 @@ $(document).ready(function(){
     var black;
     if (typeof localStorage !== "undefined") {
         if(localStorage.getItem("black") == undefined || localStorage.getItem("black") == null){
-            try {
-                localStorage.setItem("black",true);
-                return true;
-            }
-            catch (err) {
-                return false;
-            }
             black = true;
             toggleTheme(black);
             $("#logo polygon").attr("stroke","#FEFEFE");
+            try {
+                localStorage.setItem("black",true);
+            }
+            catch (err) {
+                console.log(err)
+            }
         }
         else{
             if(JSON.parse(localStorage.getItem("black")) === true){
                 $("#logo polygon").attr("stroke","#FEFEFE");
                 black = true;
             }
-            else{
+            else {
                 $("#logo polygon").attr("stroke","#000");
                 $("#logo polygon").attr("fill","#000");
                 black = false;
-                }
+            }
             toggleTheme(black);
         }
     }
@@ -183,12 +182,10 @@ $(document).ready(function(){
 
     $(".color-clit").on('click', function(){
         toggleTheme(!black);
-
         if(black){
             black  = false;
             try {
                 localStorage.setItem("black", false);
-                return true;
             }
             catch (err) {
                 return false;

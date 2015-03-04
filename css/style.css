@@ -500,7 +500,7 @@ ul.navigation li:first-child{
     float: left;
     padding-right: 12px;
     padding-bottom: 12px;
-    padding-left: 3px;;
+    padding-left: 3px;
 }
 .project a:hover{
     text-decoration:underline;
