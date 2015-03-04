@@ -11,7 +11,7 @@
         "id": 1,
         "name": "Gershon Dublon",
         "link": "http://gershondublon.com/",
-        "image": "http://responsive.media.mit.edu/wp-content/uploads/sites/5/2013/12/gershon1-300x300.jpg",
+        "image": "./images/people/gershon.jpg",
         "type":"Ph.D. Candidates",
         "email":"gershon[@]media[.]mit[.]edu"
     },
@@ -19,7 +19,7 @@
         "id": 2,
         "name": "Brian Mayton",
         "link": "http://bdm.cc/",
-        "image": "http://responsive.media.mit.edu/wp-content/uploads/sites/5/2013/12/bmayton.jpg",
+        "image": "./images/people/bmayton.jpg",
         "type":"Ph.D. Candidates",
         "email":"bmayton[@]media[.]mit[.]edu"
     },
@@ -27,7 +27,7 @@
         "id": 3,
         "name": "Jie Qi",
         "link": "http://technolojie.com/",
-        "image": "http://responsive.media.mit.edu/wp-content/uploads/sites/5/2013/12/jieqi.png",
+        "image": "./images/people/jieqi.jpg",
         "type":"Ph.D. Candidates",
         "email":"jieqi[@]media[.]mit[.]edu"
     },
@@ -35,7 +35,7 @@
         "id": 4,
         "name": "Nan Zhao",
         "link": "http://web.media.mit.edu/~nanzhao/",
-        "image": "http://responsive.media.mit.edu/wp-content/uploads/sites/5/2013/12/nanzhao.jpg",
+        "image": "./images/people/nanzhao.jpg",
         "type":"Ph.D. Candidates",
         "email":"nanzhao[@]media[.]mit[.]edu"
     },
@@ -43,7 +43,7 @@
         "id": 5,
         "name": "Artem Dementyev",
         "link": "http://artem.dementyev.us/",
-        "image": "http://responsive.media.mit.edu/wp-content/uploads/sites/5/2013/12/artem.jpg",
+        "image": "./images/people/artem.jpg",
         "type":"Ph.D. Candidates",
         "email":"artemd[@]media[.]mit[.]edu"
     },
@@ -51,33 +51,35 @@
         "id": 6,
         "name": "Spencer Russell",
         "link": "http://ssfrr.com/",
-        "image": "./images/spencer.JPG",
+        "image": "./images/people/spencer.jpg",
         "type":"Ph.D. Candidates",
         "email":"sfr[@]media[.]mit[.]edu"
     },
     {
         "id": 8,
         "name": "Evan Lynch",
-        "image":"http://www.artsboston.org/sites/artsboston.org/images/event/441659098/evanlynch_category.jpg",
+        "image":"./images/people/evanlynch.jpg",
         "type":"M.S. Candidates",
         "email":"eflynch[@]media[.]mit[.]edu"
     },
     {
         "id": 9,
         "name": "Asaph Azaria",
+        "image":"./images/people/asaph.jpg",
         "type":"M.S. Candidates"
     },
     {
         "id": 10,
         "name": "David Ramsay",
         "link": "http://davidbramsay.com/",
-        "image": "https://lh6.googleusercontent.com/-x9ZoI7PkPxU/AAAAAAAAAAI/AAAAAAAAAMo/-dkHFozmxBY/s120-c/photo.jpg",
+        "image": "./images/people/davidram.jpg",
         "type":"M.S. Candidates",
         "email":"dramsay[@]media[.]mit[.]edu"
     },
     {
         "id": 11,
         "name": "Juliana Cherston",
+        "image": "./images/people/juliana.jpg",
         "type":"M.S. Candidates",
         "email":"cherston[@]media[.]mit[.]edu"
     },
@@ -90,7 +92,7 @@
         "id": 12,
         "name": "Nick Lee",
         "link": "https://github.com/nicklee-998",
-        "image": "https://avatars2.githubusercontent.com/u/8962785?v=3&s=460",
+        "image": "./images/people/nicklee.jpg",
         "type":"Visiting Researchers",
         "email":"nick_lee[@]media[.]mit[.]edu"
     },
@@ -98,7 +100,7 @@
         "id": 13,
         "name": "Donald Derek",
         "link": "http://www.donaldderek.com",
-        "image": "https://pbs.twimg.com/profile_images/567319890819055616/cS0IhHXM_400x400.jpeg",
+        "image": "./images/people/donald.jpeg",
         "type":"Visiting Researchers",
         "email":"ddh[@]mit[.]edu"
     },
@@ -106,21 +108,20 @@
         "id": 14,
         "name": "Akiko Fujise",
         "link": "",
-        "image": "",
         "type":"Visiting Researchers",
         "email":"Fujise[@]mit[.]edu"
     },
     {
         "id": 15,
         "name": "Mark Feldmeier",
-        "image": "http://responsive.media.mit.edu/wp-content/uploads/sites/5/2013/12/mark_feldmeier.jpg",
+        "image": "./images/people/mark_feldmeier.jpg",
         "type":"Affiliates",
         "email":"carboxyl[@]media[.]mit[.]edu"
     },
     {
         "id": 16,
         "name": "Nan Wei Gong",
-        "image": "http://responsive.media.mit.edu/wp-content/uploads/sites/5/2013/12/nanwei.jpg",
+        "image": "./images/people/nanwei.jpg",
         "type":"Affiliates",
         "email":"nanwei[@]media[.]mit[.]edu"
     },
@@ -128,223 +129,223 @@
         "id": 17,
         "name": "Pragun Goyal",
         "link": "http://pragungoyal.com/",
-        "image": "http://responsive.media.mit.edu/wp-content/uploads/sites/5/2013/12/pragun.png",
+        "image": "./images/people/pragun.jpg",
         "type":"Affiliates",
         "email":"pragun[@]media[.]mit[.]edu"
     },
     {
         "id": 18,
         "name": "Amna Carreiro",
-        "image": "http://fluid.media.mit.edu/sites/default/files/styles/person_image_people_page/public/Amna1_0.jpg",
+        "image": "./images/people/amna.jpg",
         "type":"Affiliates",
         "email":"amnac[@]media[.]mit[.]edu"
     },
     {
         "id": 31,
-        "image": "http://responsive.media.mit.edu/wp-content/uploads/sites/5/2013/12/matt.jpg",
+        "image": "./images/people/matt.jpg",
         "name": "Matt Aldrich",
         "email": "maldrich[@]media[.]mit[.]edu",
         "type": "alumni"
     },
     {
         "id": 32,
-        "image": "http://responsive.media.mit.edu/wp-content/uploads/sites/5/2014/06/aadler.jpg",
+        "image": "./images/people/aadler.jpg",
         "name": "Ari Adler",
         "email": "aadler[@]media[.]mit[.]edu",
         "type": "alumni"
     },
     {
         "id": 33,
-        "image": "http://responsive.media.mit.edu/wp-content/uploads/sites/5/2014/06/ara.jpg",
+        "image": "./images/people/ara.jpg",
         "name": "Ara Knaian",
         "email": "ara[@]media[.]mit[.]edu",
         "type": "alumni"
     },
     {
         "id": 34,
-        "image": "http://responsive.media.mit.edu/wp-content/uploads/sites/5/2014/06/jeffhay-300x300.jpg",
+        "image": "./images/people/jeffhay.jpg",
         "name": "Jeff Hayashida",
         "email": "jeffhay[@]media[.]mit[.]edu",
         "type": "alumni"
     },
     {
         "id": 35,
-        "image": "http://responsive.media.mit.edu/wp-content/uploads/sites/5/2014/06/zct.jpg",
+        "image": "./images/people/zct.jpg",
         "name": "Zoe Teegarden",
         "email": "zct[@]media[.]mit[.]edu",
         "type": "alumni"
     },
     {
         "id": 36,
-        "image": "http://responsive.media.mit.edu/wp-content/uploads/sites/5/2014/06/eepness.gif",
+        "image": "./images/people/eepness.gif",
         "name": "Kai-yuh Hsiao",
         "email": "khsiao[@]mit[.]edu",
         "type": "alumni"
     },
     {
         "id": 37,
-        "image": "http://responsive.media.mit.edu/wp-content/uploads/sites/5/2014/06/laurel.jpg",
+        "image": "./images/people/laurel.jpg",
         "name": "Laurel Smith",
         "email": "lpsmit[@]mit[.]edu",
         "type": "alumni"
     },
     {
         "id": 38,
-        "image": "http://responsive.media.mit.edu/wp-content/uploads/sites/5/2014/06/ctyang.jpg",
+        "image": "./images/people/ctyang.jpg",
         "name": "Chris Yang",
         "email": "ctyang[@]media[.]mit[.]edu",
         "type": "alumni"
     },
     {
         "id": 39,
-        "image": "http://responsive.media.mit.edu/wp-content/uploads/sites/5/2014/06/nchecka.jpg",
+        "image": "./images/people/nchecka.jpg",
         "name": "Nisha Checka",
         "email": "nchecka[@]media[.]mit[.]edu",
         "type": "alumni"
     },
     {
         "id": 40,
-        "image": "http://responsive.media.mit.edu/wp-content/uploads/sites/5/2014/06/cheking.jpg",
+        "image": "./images/people/cheking.jpg",
         "name": "Che King Leo",
         "email": "cheking[@]media[.]mit[.]edu",
         "type": "alumni"
     },
     {
         "id": 41,
-        "image": "http://responsive.media.mit.edu/wp-content/uploads/sites/5/2014/06/leila.jpg",
+        "image": "./images/people/leila.jpg",
         "name": "Leila Hasan",
         "email": "leila[@]media[.]mit[.]edu",
         "type": "alumni"
     },
     {
         "id": 42,
-        "image": "http://responsive.media.mit.edu/wp-content/uploads/sites/5/2014/06/hong.jpg",
+        "image": "./images/people/hong.jpg",
         "name": "Hong Ma",
         "email": "hongma[@]media[.]mit[.]edu",
         "type": "alumni"
     },
     {
         "id": 43,
-        "image": "http://responsive.media.mit.edu/wp-content/uploads/sites/5/2014/06/david.jpg",
+        "image": "./images/people/david.jpg",
         "name": "David Merrill",
         "email": "dmerrill[@]media[.]mit[.]edu",
         "type": "alumni"
     },
     {
         "id": 44,
-        "image": "http://responsive.media.mit.edu/wp-content/uploads/sites/5/2014/06/sjm.jpg",
+        "image": "./images/people/sjm.jpg",
         "name": "Stacy Morris",
         "email": "sjm[@]mit[.]edu",
         "type": "alumni"
     },
     {
         "id": 45,
-        "image": "http://responsive.media.mit.edu/wp-content/uploads/sites/5/2014/06/broxton.jpg",
+        "image": "./images/people/broxton.jpg",
         "name": "Michael Broxton",
         "email": "mbroxton[@]media[.]mit[.]edu",
         "type": "alumni"
     },
     {
         "id": 46,
-        "image": "http://responsive.media.mit.edu/wp-content/uploads/sites/5/2014/06/dlovell.jpg",
+        "image": "./images/people/dlovell.jpg",
         "name": "Dan Lovell",
         "email": "dlovell[@]media[.]mit[.]edu",
         "type": "alumni"
     },
     {
         "id": 47,
-        "image": "http://responsive.media.mit.edu/wp-content/uploads/sites/5/2014/06/aylward.jpg",
+        "image": "./images/people/aylward.jpg",
         "name": "Ryan Aylward",
         "email": "aylward[@]media[.]mit[.]edu",
         "type": "alumni"
     },
     {
         "id": 48,
-        "image": "http://responsive.media.mit.edu/wp-content/uploads/sites/5/2014/06/jerry_bp.jpg",
+        "image": "./images/people/jerry_bp.jpg",
         "name": "Gerardo Barroeta",
         "email": "jerry_bp[@]media[.]mit[.]edu",
         "type": "alumni"
     },
     {
         "id": 49,
-        "image": "http://responsive.media.mit.edu/wp-content/uploads/sites/5/2014/06/ayb.jpg",
+        "image": "./images/people/ayb.jpg",
         "name": "Ari Y. Benbasa",
         "email": "ayb[@]media[.]mit[.]edu",
         "type": "alumni"
     },
     {
         "id": 50,
-        "image": "http://responsive.media.mit.edu/wp-content/uploads/sites/5/2014/06/lifton.jpg",
+        "image": "./images/people/lifton.jpg",
         "name": "Josh Lifton",
         "email": "lifton[@]media[.]mit[.]edu",
         "type": "alumni"
     },
     {
         "id": 51,
-        "image": "http://responsive.media.mit.edu/wp-content/uploads/sites/5/2014/06/matt_malinowski.jpg",
+        "image": "./images/people/matt_malinowski.jpg",
         "name": "Matt Malinowski",
         "email": "mattxmal[@]media[.]mit[.]edu",
         "type": "alumni"
     },
     {
         "id": 52,
-        "image": "http://responsive.media.mit.edu/wp-content/uploads/sites/5/2014/06/jason_lapenta.jpg",
+        "image": "./images/people/jason_lapenta.jpg",
         "name": "Jason LaPenta",
         "email": "the5[@]media[.]mit[.]edu",
         "type": "alumni"
     },
     {
         "id": 53,
-        "image": "http://responsive.media.mit.edu/wp-content/uploads/sites/5/2014/06/manas_mittal.jpg",
+        "image": "./images/people/manas_mittal.jpg",
         "name": "Manas Mittal",
         "email": "manas[@]media[.]mit[.]edu",
         "type": "alumni"
     },
     {
         "id": 54,
-        "image": "http://responsive.media.mit.edu/wp-content/uploads/sites/5/2014/06/behram.jpg",
+        "image": "./images/people/behram.jpg",
         "name": "Behram Mistree",
         "email": "bmistree[@]mit[.]edu",
         "type": "alumni"
     },
     {
         "id": 55,
-        "image": "http://responsive.media.mit.edu/wp-content/uploads/sites/5/2014/06/mat.jpg",
+        "image": "./images/people/mat.jpg",
         "name": "Mat Laibowitz",
         "email": "mat[@]media[.]mit[.]edu",
         "type": "alumni"
     },
     {
         "id": 56,
-        "image": "http://responsive.media.mit.edu/wp-content/uploads/sites/5/2014/06/alex.jpg",
+        "image": "./images/people/alex.jpg",
         "name": "Alexander Reben",
         "email": "areben[@]media[.]mit[.]edu",
         "type": "alumni"
     },
     {
         "id": 57,
-        "image": "http://responsive.media.mit.edu/wp-content/uploads/sites/5/2014/06/nate.jpg",
+        "image": "./images/people/nate.jpg",
         "name": "Nathan S. Shenck",
         "email": "nate[@]media[.]mit[.]edu",
         "type": "alumni"
     },
     {
         "id": 58,
-        "image": "http://responsive.media.mit.edu/wp-content/uploads/sites/5/2014/06/human.gif",
+        "image": "./images/people/human.gif",
         "name": "Eric Hu",
         "email": "human[@]media[.]mit[.]edu",
         "type": "alumni"
     },
     {
         "id": 59,
-        "image": "http://responsive.media.mit.edu/wp-content/uploads/sites/5/2014/06/pjrowe.jpg",
+        "image": "./images/people/pjrowe.jpg",
         "name": "Phillip J. Rowe",
         "email": "pjrowe[@]media[.]mit[.]edu",
         "type": "alumni"
     },
     {
         "id": 60,
-        "image": "http://responsive.media.mit.edu/wp-content/uploads/sites/5/2014/06/strickon.gif",
+        "image": "./images/people/strickon.gif",
         "name": "Joshua Strickon",
         "email": "strickon[@]media[.]mit[.]edu",
         "type": "alumni"
