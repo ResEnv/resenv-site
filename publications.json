@@ -1,9 +1,9 @@
 [
     {
         "id": 0,
-        "dom": "<a title=\"Hypermedia APIs for Sensor Data\" href=\"http://responsive.media.mit.edu/wp-content/uploads/sites/5/2013/12/ChainAPI_Mobiquitous2014_camera-ready.pdf\">Hypermedia APIs for Sensor Data</a>, Spencer Russell, Joseph A. Paradiso,&nbsp;<em>Mobiquitous 2014</em>, London, December 2014.",
+        "dom": "<a title=\"Hypermedia APIs for Sensor Data\" href=\"http://resenv.media.mit.edu/pubs/papers/ChainAPI_Mobiquitous2014_camera-ready.pdf\">Hypermedia APIs for Sensor Data</a>, Spencer Russell, Joseph A. Paradiso,&nbsp;<em>Mobiquitous 2014</em>, London, December 2014.",
         "title": "Hypermedia APIs for Sensor Data",
-        "link": "http://responsive.media.mit.edu/wp-content/uploads/sites/5/2013/12/ChainAPI_Mobiquitous2014_camera-ready.pdf",
+        "link": "http://resenv.media.mit.edu/pubs/papers/ChainAPI_Mobiquitous2014_camera-ready.pdf",
         "date": "2014"
     },
     {
@@ -14,23 +14,23 @@
     },
     {
         "id": 2,
-        "dom": "<a href=\"http://responsive.media.mit.edu/wp-content/uploads/sites/5/2013/12/2014-6-GillianPerDis20141.pdf\">Gestures Everywhere: A Multimodal Sensor Fusion and Analysis Framework for Pervasive Displays</a>, Nicholas Gillian, Sara Pfenninger, Spencer Russell, and Joseph Paradiso, in&nbsp;<em>Proceedings of the International Symposium on Pervasive Displays</em>, Copenhagen, June 2014.",
+        "dom": "<a href=\"http://resenv.media.mit.edu/pubs/papers/2014-6-GillianPerDis20141.pdf\">Gestures Everywhere: A Multimodal Sensor Fusion and Analysis Framework for Pervasive Displays</a>, Nicholas Gillian, Sara Pfenninger, Spencer Russell, and Joseph Paradiso, in&nbsp;<em>Proceedings of the International Symposium on Pervasive Displays</em>, Copenhagen, June 2014.",
         "title": "Gestures Everywhere: A Multimodal Sensor Fusion and Analysis Framework for Pervasive Displays",
-        "link": "http://responsive.media.mit.edu/wp-content/uploads/sites/5/2013/12/2014-6-GillianPerDis20141.pdf",
+        "link": "http://resenv.media.mit.edu/pubs/papers/2014-6-GillianPerDis20141.pdf",
         "date": "2014"
     },
     {
         "id": 3,
         "dom": "A Usability User Study Concerning Free-Hand Microgesture and Wrist-Worn Sensors, David Way and Joseph Paradiso<em>, in Proc. of BSN 2014</em>, Zurich Switzerland, June 2014. &nbsp;See poster <a href=\"http://www.bsn2014.org/poster/BSN2014-poster21p-way.pdf\">here</a>.",
         "title": "here",
-        "link": "http://www.bsn2014.org/poster/BSN2014-poster21p-way.pdf",
+        "link": "http://resenv.media.mit.edu/pubs/posters/BSN2014-poster21p-way.pdf",
         "date": "2014"
     },
     {
         "id": 4,
-        "dom": "<a href=\"http://responsive.media.mit.edu/wp-content/uploads/sites/5/2013/12/PrintSense-Sensing-Technique-to-Support-Multimodal-Flexible-Surface-Interaction.pdf\">PrintSense: A Versatile Sensing Technique to Support Multimodal Flexible Surface Interaction</a><em>,&nbsp;</em>Gong,&nbsp;N.-W., Steimle,&nbsp;J., Olberding, S., Hodges, S.,&nbsp;Gillian, N., Kawahara, Y., and Paradiso, J., <em>&nbsp;in Proceedings&nbsp;of &nbsp;CHI, 2014.&nbsp;</em>",
+        "dom": "<a href=\"http://resenv.media.mit.edu/pubs/papers/PrintSense-Sensing-Technique-to-Support-Multimodal-Flexible-Surface-Interaction.pdf\">PrintSense: A Versatile Sensing Technique to Support Multimodal Flexible Surface Interaction</a><em>,&nbsp;</em>Gong,&nbsp;N.-W., Steimle,&nbsp;J., Olberding, S., Hodges, S.,&nbsp;Gillian, N., Kawahara, Y., and Paradiso, J., <em>&nbsp;in Proceedings&nbsp;of &nbsp;CHI, 2014.&nbsp;</em>",
         "title": "PrintSense: A Versatile Sensing Technique to Support Multimodal Flexible Surface Interaction",
-        "link": "http://responsive.media.mit.edu/wp-content/uploads/sites/5/2013/12/PrintSense-Sensing-Technique-to-Support-Multimodal-Flexible-Surface-Interaction.pdf",
+        "link": "http://resenv.media.mit.edu/pubs/papers/PrintSense-Sensing-Technique-to-Support-Multimodal-Flexible-Surface-Interaction.pdf",
         "date": "2014"
     },
     {
@@ -41,9 +41,9 @@
     },
     {
         "id": 6,
-        "dom": "<a href=\"http://responsive.media.mit.edu/wp-content/uploads/sites/5/2013/12/2013-aldrich-sensors.pdf\">Random Walk and Lighting Control</a>,&nbsp;Aldrich, M., Badshah, A., Mayton, B., Paradiso, J.A., in&nbsp;<em>in Proceedings of the IEEE Sensors Conference, Baltimore, MD</em>, 2013<i>.</i>",
+        "dom": "<a href=\"http://resenv.media.mit.edu/pubs/papers/2013-aldrich-sensors.pdf\">Random Walk and Lighting Control</a>,&nbsp;Aldrich, M., Badshah, A., Mayton, B., Paradiso, J.A., in&nbsp;<em>in Proceedings of the IEEE Sensors Conference, Baltimore, MD</em>, 2013<i>.</i>",
         "title": "Random Walk and Lighting Control",
-        "link": "http://responsive.media.mit.edu/wp-content/uploads/sites/5/2013/12/2013-aldrich-sensors.pdf",
+        "link": "http://resenv.media.mit.edu/pubs/papers/2013-aldrich-sensors.pdf",
         "date": "2013"
     },
     {
