@@ -520,9 +520,9 @@ ul.navigation li:first-child{
     display:none;
 }
 ul.pub{
-    columns: 2;
-    -webkit-columns: 2;
-    -moz-columns: 2;
+    columns: 1;
+    -webkit-columns: 1;
+    -moz-columns: 1;
     list-style:none;
     padding-bottom: 20px;
 }
@@ -538,7 +538,7 @@ ul.pub li.datePub{
     padding: 2px 4px;
 }
 ul.pub li a{
-    opacity: 0.7;
+    opacity: 1;
 }
 ul.pub li a:hover{
     text-decoration:underline;
@@ -554,9 +554,9 @@ ul.people li{
     display: inline-block;
 }
 ul.people li img{
-    padding:12px 24px;
-    -webkit-filter: grayscale(90%);
-    filter: grayscale(90%);
+    padding: 16px 24px;
+    -webkit-filter: grayscale(100%);
+    filter: grayscale(100%);
 
 }
 
@@ -566,11 +566,17 @@ ul.people li img:hover{
 }
 
 ul.people .personType{
-    display:block;
-    text-align:left;
-    font-size:1.4em;
-    width:100%;
-    margin: 24px 0 0px 8px;
+    display: block;
+    text-align: left;
+    font-size: 1.4em;
+    width: auto;
+    margin: 15px 0 0px 8px;
+    padding: 8px 4px;
+    text-transform: capitalize;
+    font-weight: 300;
+}
+ul.people .personType:first-child{
+    margin-top:0;
 }
 ul.courses{
     columns: 2;

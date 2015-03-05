@@ -55,6 +55,10 @@ var page = function(name){
                     $('.people').append(rendered);
                     pp = person.type;
                 });
+                if(JSON.parse(localStorage.getItem("black")) == true)
+                    $(".personType").addClass("white")
+                else
+                    $(".personType").addClass("black")
                 container.fadeIn("fast");
             })
         break;
@@ -85,8 +89,10 @@ var toggleTheme = function (black){
         colorBtn = $(".color-clit"),
         mainBody = $("html"),
         mainCont = $(".main-container"),
-        date = $(".date");
-        icons = $(".social-links span");
+        date = $(".date"),
+        icons = $(".social-links span"),
+        pType = $(".personType"),
+        datePub = $(".datePub");
 
     if (!black){
         pathSvg.attr("fill","#000");
@@ -95,10 +101,12 @@ var toggleTheme = function (black){
         mainBody.css({"background": "#FEFEFE","color": "#000","transition": "all 0.1s ease"});
         mainCont.css({"transition": "all 0.1s ease","background": "#FEFEFE","color": "#000","-webkit-box-shadow":"0px 6px 50px 4px #FEFEFE","-moz-box-shadow": "0px 6px 50px 4px #FEFEFE","box-shadow": "0px 6px 50px 4px #FEFEFE"});
         date.css({"transition": "all 0.1s ease","background": "#000", "color":"#FEFEFE"})
-        $(".datePub").addClass("black")
+        datePub.addClass("black");
+        pType.addClass("black");
         icons.addClass("black");
-        $(".datePub").removeClass("white")
+        datePub.removeClass("white")
         icons.removeClass("white");
+        pType.removeClass("white");
         return true;
     }
     else {
@@ -108,16 +116,18 @@ var toggleTheme = function (black){
         mainBody.css({"transition": "all 0.1s ease","background": "#000","color": "#FEFEFE"});
         mainCont.css({"transition": "all 0.1s ease","background": "#000","color": "#FEFEFE","-webkit-box-shadow":"0px 6px 50px 4px #000","-moz-box-shadow": "0px 6px 50px 4px #000","box-shadow": "0px 6px 50px 4px #000"});
         date.css({"transition": "all 0.1s ease","background": "#FEFEFE", "color":"#000"})
-        $(".datePub").removeClass("black")
-        icons.removeClass("black");
-        $(".datePub").addClass("white")
+        pType.addClass("white");
+        datePub.addClass("white")
         icons.addClass("white");
+        pType.removeClass("black");
+        datePub.removeClass("black")
+        icons.removeClass("black");
         return false;
     }
 }
 $(document).ready(function(){
 
-    var black;
+    var black, animDur = 100;
     if (typeof localStorage !== "undefined") {
         if(localStorage.getItem("black") == undefined || localStorage.getItem("black") == null){
             black = true;
@@ -191,9 +201,10 @@ $(document).ready(function(){
         }
     })
 
+    if(location.hash.length != 0 ) animDur = 50;
 
     //delayed, async, oneByOne or script
-    var logoAnimation = new Vivus('logo', {type: 'async', duration: 50}, function(){
+    var logoAnimation = new Vivus('logo', {type: 'async', duration: animDur}, function(){
         $(".intro-logo").fadeIn('fast');
         $(".navigation").fadeIn('slow');
         $("#logo path").attr("fill-opacity","1");
