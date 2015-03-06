@@ -1,3 +1,5 @@
+var black, feedback = null, animDur = 100;
+
 var page = function(name){
     location.hash = name;
     var container = $(".container");
@@ -125,9 +127,78 @@ var toggleTheme = function (black){
         return false;
     }
 }
-$(document).ready(function(){
 
-    var black, animDur = 100;
+var tilttolive = function (delay, stop){
+
+    // Precentage Variables
+    var px = 0;
+    var py = 0;
+
+     // Acceleration
+     var ax = 0;
+     var ay = 0;
+
+     var vMultiplier = 0.01;
+
+       if (window.DeviceMotionEvent==undefined) {
+
+       } else {
+           window.ondevicemotion = function(event) {
+
+               ax = event.accelerationIncludingGravity.x;
+               ay = event.accelerationIncludingGravity.y;
+           }
+            if(stop){
+
+                clearInterval(feedback);
+            }
+            else {
+           feedback = setInterval(function() {
+               var thisPage = location.header
+               px = ax*100/6;
+               py = ay*100/6;
+                if(py<=50){
+                    black = true;
+                    toggleTheme(black);
+                }
+                else if(py>=50){
+                    black = false;
+                    toggleTheme(black);
+                    }
+
+                if(px<20&&px>=0 ){
+                    thisPage = 0;
+                    if(location.hash.length != 0 )
+                        $("#logo").trigger("click")
+                }
+                else if(px<40&&px>=20){
+                    thisPage = 1;
+                    if(location.hash != "#Projects" )
+                        $("#projects").trigger("click")
+                }
+                else if(px<60&&px>=40){
+                    thisPage = 2;
+                    if(location.hash != "#Publications" )
+                        $("#publications").trigger("click")
+                }
+                else if(px<80&&px>=60){
+                    thisPage = 3;
+                    if(location.hash != "#People" )
+                        $("#people").trigger("click")
+                }
+                else if(px<100&&px>=80){
+                    thisPage = 4;
+                    if(location.hash != "#Courses" )
+                        $("#courses").trigger("click");
+
+                }
+           }, delay);}
+       }
+}
+$(document).ready(function(){
+    if (window.DeviceMotionEvent!=undefined) {
+        $(".tilt-tolive").show();
+    }
     if (typeof localStorage !== "undefined") {
         if(localStorage.getItem("black") == undefined || localStorage.getItem("black") == null){
             black = true;
@@ -200,7 +271,17 @@ $(document).ready(function(){
             }
         }
     })
-
+    var tilt=false;
+    $(".tilt-tolive").on("click", function(){
+        tilt=!tilt;
+        if(tilt)
+            tilttolive(100,false)
+        else{
+            $(".color-clit").trigger("click");
+            tilttolive(100,true)
+        }
+        $(this).toggleClass("tilt-select");
+    })
     if(location.hash.length != 0 ) animDur = 50;
 
     //delayed, async, oneByOne or script
