@@ -484,7 +484,7 @@ ul.navigation li:first-child{
 }
 .project .title{
     font-size:1.5em;
-    margin-bottom: 16px;
+    margin-bottom: 12px;
     text-transform: capitalize;
 }
 .project .date{

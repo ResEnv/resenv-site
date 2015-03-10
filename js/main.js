@@ -132,6 +132,24 @@ var toggleTheme = function (black){
     }
 }
 
+var randomCol = function(col1, col2){
+    var pathSvg = $("path"),
+        colorBtn = $(".color-clit"),
+        mainBody = $("html"),
+        mainCont = $(".main-container"),
+        date = $(".date"),
+        icons = $(".social-links span"),
+        pType = $(".personType"),
+        datePub = $(".datePub");
+
+    pathSvg.attr("fill",col2);
+    pathSvg.attr("stroke",col2);
+    colorBtn.css({"background":col2,"transition": "all 0.1s ease"});
+    mainBody.css({"transition": "all 0.1s ease","background": col1,"color": col2});
+    mainCont.css({"transition": "all 0.1s ease","background": col1,"color": col2,"-webkit-box-shadow":"0px 6px 50px 4px "+col1,"-moz-box-shadow": "0px 6px 50px 4px "+col1,"box-shadow": "0px 6px 50px 4px "+col1});
+    date.css({"transition": "all 0.1s ease","background": col2, "color":col1})
+    icons.css({"background":col2, "color":col1})
+}
 var tilttolive = function (delay, stop){
 
     // Precentage Variables
@@ -141,6 +159,8 @@ var tilttolive = function (delay, stop){
      // Acceleration
      var ax = 0;
      var ay = 0;
+
+     var thisPage = 0;
 
      var vMultiplier = 0.01;
 
@@ -158,44 +178,17 @@ var tilttolive = function (delay, stop){
             }
             else {
            feedback = setInterval(function() {
-               var thisPage = location.header
+
+
                px = ax*100/6;
                py = ay*100/6;
                 if(py<=50){
-                    black = true;
-                    toggleTheme(black);
+                    //randomCol('#'+Math.floor(Math.random()*16777215).toString(16),'#'+Math.floor(Math.random()*16777215).toString(16))
                 }
                 else if(py>=50){
-                    black = false;
-                    toggleTheme(black);
+                    randomCol('#'+Math.floor(Math.random()*16777215).toString(16),'#'+Math.floor(Math.random()*16777215).toString(16))
                     }
 
-                if(px<20&&px>=0 ){
-                    thisPage = 0;
-                    if(location.hash.length != 0 )
-                        $("#logo").trigger("click")
-                }
-                else if(px<40&&px>=20){
-                    thisPage = 1;
-                    if(location.hash != "#Projects" )
-                        $("#projects").trigger("click")
-                }
-                else if(px<60&&px>=40){
-                    thisPage = 2;
-                    if(location.hash != "#Publications" )
-                        $("#publications").trigger("click")
-                }
-                else if(px<80&&px>=60){
-                    thisPage = 3;
-                    if(location.hash != "#People" )
-                        $("#people").trigger("click")
-                }
-                else if(px<100&&px>=80){
-                    thisPage = 4;
-                    if(location.hash != "#Courses" )
-                        $("#courses").trigger("click");
-
-                }
            }, delay);}
        }
 }
