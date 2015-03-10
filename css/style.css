@@ -552,16 +552,9 @@ ul.pub li.datePub{
     font-size:1.4em;
     padding: 2px 4px;
     margin-top: 20px;
-    width: 50%;
+    width: 100%;
 }
 
-ul.pub li.even{
-    text-align: left;
-}
-ul.pub li.odd {
-    text-align:right;
-    margin-left:50%;
-}
 
 ul.pub li a{
     opacity: 1;
