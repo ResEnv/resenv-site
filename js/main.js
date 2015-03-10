@@ -26,12 +26,15 @@ var page = function(name){
             container.hide().html('');
             container.append('<ul class="pub"></ul>')
             $.getJSON('publications.json',function(data){
-                var dd;
+                var dd, c=0;
                 $.each(data, function(i, pub){
                     var rendered = Mustache.render(template, pub);
                     if(dd == null || dd != pub.date) {
                         $('.pub').append("<li data-date='"+pub.date+"' class='datePub'>"+pub.date+"</li>");
+                        if(c%2==0) $(".datePub:last-child").addClass("even")
+                        else $(".datePub:last-child").addClass("odd")
                         $('.pub').append("<ul class='pub-"+pub.date+"' </ul>");
+                        c++;
                     }
                     $('.pub-'+pub.date).append(rendered);
                     if(JSON.parse(localStorage.getItem("black")) == true)
