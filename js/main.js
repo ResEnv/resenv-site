@@ -30,9 +30,10 @@ var page = function(name){
                 $.each(data, function(i, pub){
                     var rendered = Mustache.render(template, pub);
                     if(dd == null || dd != pub.date) {
-                        $('.pub').append("<li class='datePub'>"+pub.date+"</li>")
+                        $('.pub').append("<li data-date='"+pub.date+"' class='datePub'>"+pub.date+"</li>");
+                        $('.pub').append("<ul class='pub-"+pub.date+"' </ul>");
                     }
-                    $('.pub').append(rendered);
+                    $('.pub-'+pub.date).append(rendered);
                     if(JSON.parse(localStorage.getItem("black")) == true)
                         $(".datePub").addClass("white")
                     else

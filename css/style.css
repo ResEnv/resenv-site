@@ -533,11 +533,13 @@ ul.navigation li:first-child{
     display:none;
 }
 ul.pub{
-    columns: 1;
-    -webkit-columns: 1;
-    -moz-columns: 1;
     list-style:none;
     padding-bottom: 20px;
+}
+ul.pub ul{
+        columns: 2;
+        -webkit-columns: 2;
+        -moz-columns: 2;
 }
 ul.pub li{
     opacity: 0.9;
@@ -549,6 +551,7 @@ ul.pub li{
 ul.pub li.datePub{
     font-size:1.4em;
     padding: 2px 4px;
+    margin-top: 20px;
 }
 ul.pub li a{
     opacity: 1;

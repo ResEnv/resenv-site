@@ -126,19 +126,19 @@
         "email":"nanwei[@]media[.]mit[.]edu"
     },
     {
-        "id": 17,
-        "name": "Pragun Goyal",
-        "link": "http://pragungoyal.com/",
-        "image": "./images/people/pragun.jpg",
-        "type":"Affiliates",
-        "email":"pragun[@]media[.]mit[.]edu"
-    },
-    {
         "id": 18,
         "name": "Amna Carreiro",
         "image": "./images/people/amna.jpg",
         "type":"Affiliates",
         "email":"amnac[@]media[.]mit[.]edu"
+    },
+    {
+        "id": 17,
+        "name": "Pragun Goyal",
+        "link": "http://pragungoyal.com/",
+        "image": "./images/people/pragun.jpg",
+        "type":"alumni",
+        "email":"pragun[@]media[.]mit[.]edu"
     },
     {
         "id": 31,
