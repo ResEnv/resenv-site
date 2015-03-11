@@ -133,6 +133,13 @@
         "email":"amnac[@]media[.]mit[.]edu"
     },
     {
+        "id": 19,
+        "name": "Susanne Seitinger",
+        "image": "./images/people/susanne.jpg",
+        "type":"Affiliates",
+        "link":"http://fluid.media.mit.edu/people/susanne-seitinger"
+    },
+    {
         "id": 17,
         "name": "Pragun Goyal",
         "link": "http://pragungoyal.com/",
