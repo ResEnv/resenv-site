@@ -282,6 +282,8 @@
 }
 .fui-vimeo:before {
     content: "\e648";
+    height:16px;
+    width:16px;
 }
 .fui-twitter:before {
     content: "\e649";
@@ -321,6 +323,8 @@
 }
 .fui-github:before {
     content: "\e65c";
+    height:16px;
+    width:17px;
 }
 
 html{
@@ -345,6 +349,7 @@ html{
     background:#000;
     color:#FEFEFE;
 }
+a{color:#FEFEFE;}
 body{
     font-family: "Lato", Helvetica, Arial, sans-serif;
     font-size: 16px;
@@ -665,8 +670,12 @@ ul.courses a:hover{
     transition: all 0.2s ease-in-out;
     opacity:0.7;
 }
-.social-links a{
-
+.social-links a:nth-child(0){
+    width:30px;
+    display: inline-block;
+}
+.social-links a:nth-child(1){
+    width:30px;
 }
 .social-links .fui-vimeo{
     padding:4px;
