@@ -25,8 +25,8 @@ var page = function(name){
             var thesisTemplate = $('#tpl-thesis').html();
             Mustache.parse(template);
             container.hide().html('');
-            container.append('<ul class="filter"><li id="ss-thesis">Thesis</li></ul><ul class="pub"></ul><ul id="thesis" class="thesis"></ul>');
-            $(".thesis").append("<li data-date='stdt' class='stdThesis datePub'>Student Thesis <span>+</span></li>");
+            container.append('<ul class="filter"><li id="ss-thesis">Theses</li></ul><ul class="pub"></ul><ul id="thesis" class="thesis"></ul>');
+            $(".thesis").append("<li data-date='stdt' class='stdThesis datePub'>Student Theses <span>+</span></li>");
             $.getJSON('thesis.json',function(data){
                 $.each(data, function(i, thesis){
                     var rendered = Mustache.render(thesisTemplate, thesis);
