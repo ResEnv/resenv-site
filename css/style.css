@@ -354,7 +354,6 @@ body{
     font-family: "Lato", Helvetica, Arial, sans-serif;
     font-size: 16px;
 }
-
 h1,h2,h3,h4,h5,h6{
     font-family: inherit;
     font-weight: 300;
@@ -370,7 +369,7 @@ a{
     text-decoration:none;
 }
 ul{
-    list-style:square;
+    list-style:none;
     padding:0;
     margin:0;
 }
@@ -537,21 +536,23 @@ ul.navigation li:first-child{
     margin: 0 20%;
     display:none;
 }
-ul.pub{
-    list-style:none;
-    padding-bottom: 20px;
-}
 ul.pub ul{
         columns: 2;
         -webkit-columns: 2;
         -moz-columns: 2;
 }
-ul.pub li{
+ul.pub li, ul.thesis li{
     opacity: 0.9;
     margin: 0 0 14px 6px;
     font-size: 0.9em;
     text-align: justify;
     line-height: 1.4;
+}
+ul.thesis .stdThesis{
+    font-size:1.4em;
+    padding: 2px 4px;
+    margin-top: 20px;
+    width: 100%;
 }
 ul.pub li.datePub{
     font-size:1.4em;
@@ -560,11 +561,31 @@ ul.pub li.datePub{
     width: 100%;
 }
 
+ul.filter {
+    position: fixed;
+    right: 20%;
+    margin-right: -57px;
+    top: 30%;
+    margin-top: 2px;
+    width: 40px;
+}
 
+ul.filter li{
+    font-weight:200;
+    font-size:0.8em;
+    opacity: 0.7;
+    cursor:pointer;
+    height:20px;
+    transition: all 0.05s ease-in-out;
+}
+ul.filter li:hover{
+    opacity:1;
+    font-size:1em;
+}
 ul.pub li a{
     opacity: 1;
 }
-ul.pub li a:hover{
+ul.pub li a:hover, ul.thesis li a:hover{
     text-decoration:underline;
 }
 ul.people{

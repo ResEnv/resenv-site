@@ -22,15 +22,25 @@ var page = function(name){
         break;
         case "Publications":
             var template = $('#tpl-publications').html();
+            var thesisTemplate = $('#tpl-thesis').html();
             Mustache.parse(template);
             container.hide().html('');
-            container.append('<ul class="pub"></ul>')
+            container.append('<ul class="filter"><li id="ss-thesis">Thesis</li></ul><ul class="pub"></ul><ul id="thesis" class="thesis"></ul>');
+            $(".thesis").append("<li data-date='stdt' class='stdThesis datePub'>Student Thesis <span>+</span></li>");
+            $.getJSON('thesis.json',function(data){
+                $.each(data, function(i, thesis){
+                    var rendered = Mustache.render(thesisTemplate, thesis);
+                    $(".thesis").append(rendered);
+                });
+            })
             $.getJSON('publications.json',function(data){
                 var dd, c=0;
                 $.each(data, function(i, pub){
                     var rendered = Mustache.render(template, pub);
                     if(dd == null || dd != pub.date) {
-                        $('.pub').append("<li data-date='"+pub.date+"' class='datePub'>"+pub.date+"</li>");
+                        $('.pub').append("<li id='"+pub.date+"' class='datePub'>"+pub.date+"</li>");
+                        if(pub.date != '')
+                            $('.filter').append("<li id='ss-"+pub.date+"'>"+pub.date+"</li>");
                         if(c%2==0) $(".datePub:last-child").addClass("even")
                         else $(".datePub:last-child").addClass("odd")
                         $('.pub').append("<ul class='pub-"+pub.date+"' </ul>");
@@ -43,7 +53,12 @@ var page = function(name){
                         $(".datePub").addClass("black")
                     dd = pub.date;
                     container.fadeIn("fast");
+
                 });
+                $(".filter li").on('click', function(){
+                    var year = $(this).attr("id").split('-')[1];
+                    $('html, body').animate({scrollTop: $("#"+year).offset().top - 200},1000);
+                })
             })
         break;
         case "People":
