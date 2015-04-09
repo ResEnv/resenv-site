@@ -2,6 +2,7 @@ var black, feedback = null, animDur = 100;
 
 var page = function(name){
     location.hash = name;
+
     var container = $(".container");
     switch (name){
         case "Projects":
@@ -25,9 +26,9 @@ var page = function(name){
             var thesisTemplate = $('#tpl-thesis').html();
             Mustache.parse(template);
             container.hide().html('');
-            container.append('<ul class="filter"><li id="ss-thesis">Theses</li></ul><ul class="pub"></ul><ul id="thesis" class="thesis"></ul>');
-            $(".thesis").append("<li data-date='stdt' class='stdThesis datePub'>Student Theses <span>+</span></li>");
-            $.getJSON('thesis.json',function(data){
+            container.append('<ul class="filter"></ul><ul class="pub"></ul><ul id="thesis" class="thesis"></ul>');
+            $(".thesis").append("<li data-date='stdt' class='stdThesis datePub'>Student Theses</li>");
+            $.getJSON('thesis.json?1',function(data){
                 $.each(data, function(i, thesis){
                     var rendered = Mustache.render(thesisTemplate, thesis);
                     $(".thesis").append(rendered);
@@ -55,10 +56,12 @@ var page = function(name){
                     container.fadeIn("fast");
 
                 });
+                $('.filter').append('<li id="ss-thesis">Theses</li>')
                 $(".filter li").on('click', function(){
                     var year = $(this).attr("id").split('-')[1];
                     $('html, body').animate({scrollTop: $("#"+year).offset().top - 200},1000);
                 })
+                loadSub();
             })
         break;
         case "People":
@@ -207,7 +210,11 @@ var tilttolive = function (delay, stop){
            }, delay);}
        }
 }
+var loadSub = function(){
+    $('html, body').animate({scrollTop: $("#"+location.hash.split('/')[1]).offset().top - 200},1000);
+}
 $(document).ready(function(){
+
     if (window.DeviceMotionEvent!=undefined) {
         $(".tilt-tolive").show();
     }
@@ -301,7 +308,14 @@ $(document).ready(function(){
         $(".intro-logo").fadeIn('fast');
         $(".navigation").fadeIn('slow');
         $("#logo path").attr("fill-opacity","1");
-        if(location.hash.length != 0) $(location.hash.toLocaleLowerCase()).trigger("click")
+        if(location.hash.length != 0){
+            if(location.hash.split('/').length == 1)
+                $(location.hash.toLocaleLowerCase()).trigger("click")
+            else if(location.hash.split('/').length == 2) {
+                $(location.hash.split('/')[0].toLocaleLowerCase()).trigger("click")
+
+            }
+        }
         else $(".intro-about").delay(400).fadeIn('slow');
         });
 

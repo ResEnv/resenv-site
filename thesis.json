@@ -1,5 +1,14 @@
 [
     {
+        "id": 52,
+        "author": "Matt Aldrich",
+        "title": "Experiential Lighting - Development and Validation of Perception-based Lighting Controls",
+        "link": "./pubs/theses/aldrich-phd.2014.pdf",
+        "type": "PhD",
+        "date": " August 2014.",
+        "text": "Matt Aldrich – Experiential Lighting - Development and Validation of Perception-based Lighting Controls August 2014."
+    },
+    {
         "id": 0,
         "author": "Nan-Wei Gong ",
         "title": "Design and Applications of Inkjet-Printed Flexible Sensate Surfaces",

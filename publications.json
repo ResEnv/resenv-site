@@ -1,5 +1,19 @@
 [
     {
+        "id": -2,
+        "dom": "<a target='BLANK'  href=\"./pubs/papers/Sticker_circuits_hodges.pdf\">Circuit stickers:</a> peel-and-stick construction of interactive electronic prototypes,  Steve Hodges, Nicolas Villar, Nicholas Chen, Tushar Chugh, Jie Qi, Diana Nowacka, Yoshihiro Kawahara, CHI 2014, Toronto, April 2014",
+        "title": "Circuit stickers",
+        "link": "./pubs/papers/Sticker_circuits_hodges.pdf",
+        "date": "2014"
+    },
+    {
+        "id": -1,
+        "dom": "<a target='BLANK'  href=\"./pubs/papers/Circuit_sketchbook_Final_small.pdf\">Sketching in circuits:</a> designing and building electronics on paper, Jie Qi, Leah Buechley, CHI 2014, Toronto, April 2014",
+        "title": "Sketching in circuits",
+        "link": "./pubs/papers/Circuit_sketchbook_Final_small.pdf",
+        "date": "2014"
+    },
+    {
         "id": 0,
         "dom": "<a target='BLANK'  title=\"Hypermedia APIs for Sensor Data\" href=\"./pubs/papers/ChainAPI_Mobiquitous2014_camera-ready.pdf\">Hypermedia APIs for Sensor Data</a>, Spencer Russell, Joseph A. Paradiso,&nbsp;<em>Mobiquitous 2014</em>, London, December 2014.",
         "title": "Hypermedia APIs for Sensor Data",
@@ -8,8 +22,9 @@
     },
     {
         "id": 1,
-        "dom": "Extra Sensory Perception – How a world filled with sensors will change the way we see, hear, think and live, Gershon Dublon and Joseph A. Paradiso, Scientific American, Vol. 311, No. 1, July 2014 <strong>&nbsp;(cover article)</strong>, pp. 36-41.",
+        "dom": "<a href='http://www.scientificamerican.com/article/how-a-sensor-filled-world-will-change-human-consciousness/'>Extra Sensory Perception</a> – How a world filled with sensors will change the way we see, hear, think and live, Gershon Dublon and Joseph A. Paradiso, Scientific American, Vol. 311, No. 1, July 2014 <strong>&nbsp;(cover article)</strong>, pp. 36-41.",
         "title": "Extra Sensory Perception",
+        "link":"http://www.scientificamerican.com/article/how-a-sensor-filled-world-will-change-human-consciousness/",
         "date": "2014"
     },
     {
@@ -28,9 +43,9 @@
     },
     {
         "id": 4,
-        "dom": "PrintSense: A Versatile Sensing Technique to Support Multimodal Flexible Surface Interaction <em>,&nbsp;</em>Gong,&nbsp;N.-W., Steimle,&nbsp;J., Olberding, S., Hodges, S.,&nbsp;Gillian, N., Kawahara, Y., and Paradiso, J., <em>&nbsp;in Proceedings&nbsp;of &nbsp;CHI, 2014.&nbsp;</em>",
+        "dom": "<a href=\"./pubs/papers/CHI2014-printsense%20camera-ready.pdf\">PrintSense: </a> A Versatile Sensing Technique to Support Multimodal Flexible Surface Interaction <em>,&nbsp;</em>Gong,&nbsp;N.-W., Steimle,&nbsp;J., Olberding, S., Hodges, S.,&nbsp;Gillian, N., Kawahara, Y., and Paradiso, J., <em>&nbsp;in Proceedings&nbsp;of &nbsp;CHI, 2014.&nbsp;</em>",
         "title": "PrintSense: A Versatile Sensing Technique to Support Multimodal Flexible Surface Interaction",
-        "link": "",
+        "link": "./pubs/papers/CHI2014-printsense%20camera-ready.pdf",
         "date": "2014"
     },
     {
@@ -874,9 +889,9 @@
     },
     {
         "id": 125,
-        "dom": "<a target='BLANK'  href=\"http://www.computer.org/micro/homepage/may_june/shenck/\">Energy Scavenging with Shoe-Mounted Piezoelectrics</a>&nbsp;Nathan S. Shenck, Joseph A. Paradiso. IEEE Micro, Vol. 21, No. 3, May-June 2001, pp. 30-42.",
+        "dom": "<a target='BLANK'  href=\"./pubs/papers/98_08_PP_wearcon_final.pdf\">Energy Scavenging with Shoe-Mounted Piezoelectrics</a>&nbsp;Nathan S. Shenck, Joseph A. Paradiso. IEEE Micro, Vol. 21, No. 3, May-June 2001, pp. 30-42.",
         "title": "Energy Scavenging with Shoe-Mounted Piezoelectrics",
-        "link": "http://www.computer.org/micro/homepage/may_june/shenck/",
+        "link": "./pubs/papers/98_08_PP_wearcon_final.pdf",
         "date": "2001"
     },
     {
@@ -902,16 +917,16 @@
     },
     {
         "id": 129,
-        "dom": "<a target='BLANK'  href=\"http://www.research.ibm.com/journal/sj/393/part3/paradiso.html\">Sensor Systems for Interactive Surfaces</a>. J. Paradiso, K. Hsiao, J. Strickon, J. Lifton, and A. Adler, IBM Systems Journal, Volume 39, Nos. 3 &amp; 4, October 2000, pp. 892-914.",
+        "dom": "<a target='BLANK'  href=\"./pubs/papers/ISJ-Surfaces.pdf\">Sensor Systems for Interactive Surfaces</a>. J. Paradiso, K. Hsiao, J. Strickon, J. Lifton, and A. Adler, IBM Systems Journal, Volume 39, Nos. 3 &amp; 4, October 2000, pp. 892-914.",
         "title": "Sensor Systems for Interactive Surfaces",
-        "link": "http://www.research.ibm.com/journal/sj/393/part3/paradiso.html",
+        "link": "./pubs/papers/ISJ-Surfaces.pdf",
         "date": "2000"
     },
     {
         "id": 130,
-        "dom": "<a target='BLANK'  href=\"http://www.research.ibm.com/journal/sj/393/part1/paradiso.html\">Design and Implementation of Expressive Footwear</a>. J. Paradiso, K. Hsiao, A. Benbasat, Z. Teegarden, IBM Systems Journal, Volume 39, Nos. 3 &amp; 4, October 2000, pp. 511-529.",
+        "dom": "<a target='BLANK'  href=\"./pubs/papers/ISJ-Shoe-1-Paradiso1cjs.pdf\">Design and Implementation of Expressive Footwear</a>. J. Paradiso, K. Hsiao, A. Benbasat, Z. Teegarden, IBM Systems Journal, Volume 39, Nos. 3 &amp; 4, October 2000, pp. 511-529.",
         "title": "Design and Implementation of Expressive Footwear",
-        "link": "http://www.research.ibm.com/journal/sj/393/part1/paradiso.html",
+        "link": "./pubs/papers/ISJ-Shoe-1-Paradiso1cjs.pdf",
         "date": "2000"
     },
     {
@@ -930,7 +945,7 @@
     },
     {
         "id": 133,
-        "dom": "<a target='BLANK'  href=\"http://wean1.ulib.org/Lectures/Symposia/Intel%20Computer%20Continuum%20Conference/20.0%20Joe%20Paradiso/6SLIDES/2_-_Dr_Joe_Paradiso.ppt\">Renewable Energy Sources for the Future of Mobile and Embedded Computing</a>&nbsp;J. Paradiso, Invited talk given at the&nbsp;<a target='BLANK'  href=\"http://www.intel.com/intel/cccon/\">Computing Continuum Conference</a>, San Francisco, CA, March 16, 2000.",
+        "dom": "<a target='BLANK'  href=\"./pubs/papers/Intel%20CC-2.pdf\">Renewable Energy Sources for the Future of Mobile and Embedded Computing</a>&nbsp;J. Paradiso, Invited talk given at the&nbsp;<a target='BLANK'  href=\"http://www.intel.com/intel/cccon/\">Computing Continuum Conference</a>, San Francisco, CA, March 16, 2000.",
         "title": "Renewable Energy Sources for the Future of Mobile and Embedded ComputingComputing Continuum Conference",
         "link": "http://wean1.ulib.org/Lectures/Symposia/Intel%20Computer%20Continuum%20Conference/20.0%20Joe%20Paradiso/6SLIDES/2_-_Dr_Joe_Paradiso.ppt",
         "date": "2000"
