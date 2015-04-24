@@ -1,5 +1,19 @@
 [
     {
+        "id": -4,
+        "dom": "<a target='BLANK'  href=\"./pubs/papers/mmodm-massively-multiplayer-drum-machine.pdf\">MMODM: </a> massively multiplayer online drum machine, Basheer Tome, Don Derek Haddad, Tod Machover, Joe Paradiso. In Proc. of NIME 2015",
+        "title": "MMODM",
+        "link": "./pubs/papers/mmodm-massively-multiplayer-drum-machine.pdf",
+        "date": "2015"
+    },
+    {
+        "id": -3,
+        "dom": "<a target='BLANK'  href=\"./pubs/papers/NailO-Fingernails-as-an-Input-Surface.pdf\">NailO: </a> Fingernails as an Input Surface, H.-L. C. Kao, A. Dementyev, J. Paradiso, C. Schmandt. In Proc. of CHI 2015. <em>honorable mention award.</em>",
+        "title": "Circuit stickers",
+        "link": "./pubs/papers/Sticker_circuits_hodges.pdf",
+        "date": "2015"
+    },
+    {
         "id": -2,
         "dom": "<a target='BLANK'  href=\"./pubs/papers/Sticker_circuits_hodges.pdf\">Circuit stickers:</a> peel-and-stick construction of interactive electronic prototypes,  Steve Hodges, Nicolas Villar, Nicholas Chen, Tushar Chugh, Jie Qi, Diana Nowacka, Yoshihiro Kawahara, CHI 2014, Toronto, April 2014",
         "title": "Circuit stickers",
@@ -22,7 +36,7 @@
     },
     {
         "id": 1,
-        "dom": "<a href='http://www.scientificamerican.com/article/how-a-sensor-filled-world-will-change-human-consciousness/'>Extra Sensory Perception</a> – How a world filled with sensors will change the way we see, hear, think and live, Gershon Dublon and Joseph A. Paradiso, Scientific American, Vol. 311, No. 1, July 2014 <strong>&nbsp;(cover article)</strong>, pp. 36-41.",
+        "dom": "<a target='_BLANK' href='http://www.scientificamerican.com/article/how-a-sensor-filled-world-will-change-human-consciousness/'>Extra Sensory Perception</a> – How a world filled with sensors will change the way we see, hear, think and live, Gershon Dublon and Joseph A. Paradiso, Scientific American, Vol. 311, No. 1, July 2014 <strong>&nbsp;(cover article)</strong>, pp. 36-41.",
         "title": "Extra Sensory Perception",
         "link":"http://www.scientificamerican.com/article/how-a-sensor-filled-world-will-change-human-consciousness/",
         "date": "2014"
@@ -43,15 +57,16 @@
     },
     {
         "id": 4,
-        "dom": "<a href=\"./pubs/papers/CHI2014-printsense%20camera-ready.pdf\">PrintSense: </a> A Versatile Sensing Technique to Support Multimodal Flexible Surface Interaction <em>,&nbsp;</em>Gong,&nbsp;N.-W., Steimle,&nbsp;J., Olberding, S., Hodges, S.,&nbsp;Gillian, N., Kawahara, Y., and Paradiso, J., <em>&nbsp;in Proceedings&nbsp;of &nbsp;CHI, 2014.&nbsp;</em>",
+        "dom": "<a href=\"./pubs/papers/CHI2014-printsense%20camera-ready.pdf\" target='_BLANK'>PrintSense: </a> A Versatile Sensing Technique to Support Multimodal Flexible Surface Interaction <em>,&nbsp;</em>Gong,&nbsp;N.-W., Steimle,&nbsp;J., Olberding, S., Hodges, S.,&nbsp;Gillian, N., Kawahara, Y., and Paradiso, J., <em>&nbsp;in Proceedings&nbsp;of &nbsp;CHI, 2014.&nbsp;</em>",
         "title": "PrintSense: A Versatile Sensing Technique to Support Multimodal Flexible Surface Interaction",
         "link": "./pubs/papers/CHI2014-printsense%20camera-ready.pdf",
         "date": "2014"
     },
     {
         "id": 5,
-        "dom": "WristFlex: Low-Power Gesture Input with Wrist-Worn Pressure Sensors, Artem Dementyev and Joseph Paradiso, <em>&nbsp;in Proceedings of UIST, 2014. (To appear)</em>",
+        "dom": "<a href='/pubs/papers/WristFlex_UIST_2014.pdf' target='_BLANK'>WristFlex: </a> Low-Power Gesture Input with Wrist-Worn Pressure Sensors, Artem Dementyev and Joseph Paradiso, <em>&nbsp;in Proceedings of UIST, 2014.</em>",
         "title": "WristFlex",
+        "link":"./pubs/papers/WristFlex_UIST_2014.pdf",
         "date": "2014"
     },
     {

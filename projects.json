@@ -1,5 +1,16 @@
 [
     {
+        "id": -1,
+        "date": "2014-present",
+        "link": "http://web.media.mit.edu/~nanzhao/webfiles/perception/perception.html",
+        "name": "Experiential Lighting ",
+        "image": "./images/projects/exp-lighting.jpg",
+        "description": "Data-driven methodology, using people and sensors, to enable an entirely new method of lighting control",
+        "categories": [
+            "HCI", "Lighting", "Smart-building"
+        ]
+    },
+    {
         "id": 0,
         "date": "2010-present",
         "link": "http://doppellab.media.mit.edu/",
