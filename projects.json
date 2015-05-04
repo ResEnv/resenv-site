@@ -1,5 +1,27 @@
 [
     {
+        "id": -3,
+        "date": "2014-present",
+        "link": "http://nailo.media.mit.edu/",
+        "name": "NailO",
+        "image": "./images/projects/nailo.jpg",
+        "description": "NailO is a wearable input device in the form of a commercialized nail art sticker. NailO leverages the fingernail as an input surface. NailO allows one handed and always-available input, while being unobtrusive and discrete. NailO merges culture, fashion and technology to drive an different perspective on wearables.",
+        "categories": [
+            "Gesture Recognition","Printed Electronics", "HCI"
+        ]
+    },
+    {
+        "id": -2,
+        "date": "2014-present",
+        "link": "http://artem.dementyev.us/?page_id=327",
+        "name": "SensorTape",
+        "image": "./images/projects/sensortape.jpg",
+        "description": "SensorTape is a modular and dense sensor network in a form factor of a tape. It enables intuitive deployment of sensor arrays, as SensorTape is modular, it can be cut and joined in an arbitrary order.",
+        "categories": [
+            "Sensor Networks", "Craft", "Printed electronics", "flexible"
+        ]
+    },
+    {
         "id": -1,
         "date": "2014-present",
         "link": "http://web.media.mit.edu/~nanzhao/webfiles/perception/perception.html",
