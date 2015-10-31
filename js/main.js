@@ -1,4 +1,4 @@
-var black, feedback = null, animDur = 100;
+var black, feedback = null, animDur = 100,logoAnimation;
 
 var page = function(name){
     location.hash = name;
@@ -309,7 +309,7 @@ $(document).ready(function(){
     if(location.hash.length != 0 ) animDur = 50;
 
     //delayed, async, oneByOne or script
-    var logoAnimation = new Vivus('logo', {type: 'async', duration: animDur}, function(){
+    logoAnimation = new Vivus('logo', {type: 'async', duration: animDur}, function(){
         $(".intro-logo").fadeIn('fast');
         $(".navigation").fadeIn('slow');
         $("#logo path").attr("fill-opacity","1");
