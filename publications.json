@@ -1,15 +1,37 @@
 [
+	{
+        "id": -7,
+        "dom": "<a target='BLANK'  href=\"./pubs/papers/GroupLoop_NIME_2015.pdf\">GroupLoop:</a> A Collaborative, Network-Enabled Audio Feedback Instrument,  David Ramsay and Joseph A. Paradiso.  NIME 2015.",
+        "title": "GroupLoop",
+        "link": "./pubs/papers/GroupLoop_NIME_2015.pdf",
+        "date": "2015"
+    },
+
+   {
+        "id": -6,
+        "dom": "<a target='BLANK'  href=\"./pubs/papers/Circuit_stickers_toolkit.pdf\">Circuit Stickers Toolkit:</a> Crafting Technology with Circuit Stickers. Jie Qi, Andrew 'bunnie' Huang, Joseph A. Paradiso. In Proc. of Interaction Design and Children 2015.",
+        "title": "Circuit Stickers Toolkit",
+        "link": "./pubs/papers/Circuit_stickers_toolkit.pdf",
+        "date": "2015"
+    },
+    {
+        "id": -5,
+        "dom": "<a target='BLANK' href=\"./pubs/papers/hybrid_craft_amit_zoran_siggraph2015.pdf\"> Hybrid Craft:</a> Showcase of Physical and Digital Integration of Design and Craft Skills. Amit Zoran. In Proc. ACM SIGGRAPH Art Gallery 2015.",
+        "title": "Hybrid Craft",
+        "link": "./pubs/papers/pubs/papers/hybrid_craft_amit_zoran_siggraph2015.pdf",
+        "date": "2015"
+    },
     {
         "id": -4,
-        "dom": "<a target='BLANK'  href=\"./pubs/papers/mmodm-massively-multiplayer-drum-machine.pdf\">MMODM: </a> massively multiplayer online drum machine, Basheer Tome, Don Derek Haddad, Tod Machover, Joe Paradiso. In Proc. of NIME 2015",
+        "dom": "<a target='BLANK'  href=\"./pubs/papers/mmodm-massively-multiplayer-drum-machine.pdf\">MMODM:</a> massively multiplayer online drum machine, Basheer Tome, Don Derek Haddad, Tod Machover, Joeseph A. Paradiso. NIME 2015.",
         "title": "MMODM",
         "link": "./pubs/papers/mmodm-massively-multiplayer-drum-machine.pdf",
         "date": "2015"
     },
     {
         "id": -3,
-        "dom": "<a target='BLANK'  href=\"./pubs/papers/NailO-Fingernails-as-an-Input-Surface.pdf\">NailO: </a> Fingernails as an Input Surface, H.-L. C. Kao, A. Dementyev, J. Paradiso, C. Schmandt. In Proc. of CHI 2015. <em>honorable mention award.</em>",
-        "title": "Circuit stickers",
+        "dom": "<a target='BLANK'  href=\"./pubs/papers/NailO-Fingernails-as-an-Input-Surface.pdf\">NailO:</a> Fingernails as an Input Surface, H.-L. C. Kao, A. Dementyev, J. Paradiso, C. Schmandt. CHI 2015. <em>honorable mention award.</em>",
+        "title": "NailO",
         "link": "./pubs/papers/Sticker_circuits_hodges.pdf",
         "date": "2015"
     },

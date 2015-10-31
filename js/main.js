@@ -2,14 +2,13 @@ var black, feedback = null, animDur = 100;
 
 var page = function(name){
     location.hash = name;
-
     var container = $(".container");
     switch (name){
         case "Projects":
             var template = $('#tpl-projects').html();
             Mustache.parse(template);
             container.hide().html('');
-            $.getJSON('projects.json',function(data){
+            $.getJSON('projects.json?'+~~(Math.random()*1000),function(data){
                 $.each(data, function(i, project){
                     project.categories = project.categories.join(", ");
                     var rendered = Mustache.render(template, project);
@@ -28,13 +27,13 @@ var page = function(name){
             container.hide().html('');
             container.append('<ul class="filter"></ul><ul class="pub"></ul><ul id="thesis" class="thesis"></ul>');
             $(".thesis").append("<li data-date='stdt' class='stdThesis datePub'>Student Theses</li>");
-            $.getJSON('thesis.json?1',function(data){
+            $.getJSON('thesis.json?'+~~(Math.random()*1000),function(data){
                 $.each(data, function(i, thesis){
                     var rendered = Mustache.render(thesisTemplate, thesis);
                     $(".thesis").append(rendered);
                 });
             })
-            $.getJSON('publications.json',function(data){
+            $.getJSON('publications.json?'+~~(Math.random()*1000),function(data){
                 var dd, c=0;
                 $.each(data, function(i, pub){
                     var rendered = Mustache.render(template, pub);
@@ -56,12 +55,11 @@ var page = function(name){
                     container.fadeIn("fast");
 
                 });
-                $('.filter').append('<li id="ss-thesis">Theses</li>')
+                $('.filter').append('<li id="ss-thesis">Theses</li>');
                 $(".filter li").on('click', function(){
                     var year = $(this).attr("id").split('-')[1];
                     $('html, body').animate({scrollTop: $("#"+year).offset().top - 200},1000);
                 })
-                loadSub();
             })
         break;
         case "People":
@@ -69,7 +67,7 @@ var page = function(name){
             Mustache.parse(template);
             container.hide().html('');
             container.append('<ul class="people"></ul>')
-            $.getJSON('people.json',function(data){
+            $.getJSON('people.json?'+~~(Math.random()*1000),function(data){
                 var pp;
                 $.each(data, function(i, person){
                     var rendered = Mustache.render(template, person);
@@ -91,7 +89,7 @@ var page = function(name){
             Mustache.parse(template);
             container.hide().html('');
             container.append('<ul class="courses"></ul>')
-            $.getJSON('courses.json',function(data){
+            $.getJSON('courses.json?'+~~(Math.random()*1000),function(data){
                 var pp;
                 $.each(data, function(i, person){
                     var rendered = Mustache.render(template, person);
@@ -210,11 +208,7 @@ var tilttolive = function (delay, stop){
            }, delay);}
        }
 }
-var loadSub = function(){
-    $('html, body').animate({scrollTop: $("#"+location.hash.split('/')[1]).offset().top - 200},1000);
-}
 $(document).ready(function(){
-
     if (window.DeviceMotionEvent!=undefined) {
         $(".tilt-tolive").show();
     }
@@ -308,14 +302,7 @@ $(document).ready(function(){
         $(".intro-logo").fadeIn('fast');
         $(".navigation").fadeIn('slow');
         $("#logo path").attr("fill-opacity","1");
-        if(location.hash.length != 0){
-            if(location.hash.split('/').length == 1)
-                $(location.hash.toLocaleLowerCase()).trigger("click")
-            else if(location.hash.split('/').length == 2) {
-                $(location.hash.split('/')[0].toLocaleLowerCase()).trigger("click")
-
-            }
-        }
+        if(location.hash.length != 0) $(location.hash.toLocaleLowerCase()).trigger("click")
         else $(".intro-about").delay(400).fadeIn('slow');
         });
 

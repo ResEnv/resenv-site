@@ -89,20 +89,28 @@
         "type":"M.S. Candidates"
     },
     {
+        "id": 8,
+        "name": "Donald Derek",
+        "link": "http://www.donaldderek.com",
+        "image": "./images/people/donald.jpeg",
+        "type":"M.S. Candidates",
+        "email":"ddh[@]mit[.]edu"
+    },
+    {
+        "id": 200,
+        "name": "Katia Canepa Vega",
+        "link": "http://katiavega.com/",
+        "image": "./images/people/katia.jpeg",
+        "type" : "Postdoc",
+        "email":"katia[@]katiavega[.]com"
+    },
+ 	{
         "id": 12,
         "name": "Nick Lee",
         "link": "https://github.com/nicklee-998",
         "image": "./images/people/nicklee.jpg",
         "type":"Visiting Researchers",
         "email":"nick_lee[@]media[.]mit[.]edu"
-    },
-    {
-        "id": 13,
-        "name": "Donald Derek",
-        "link": "http://www.donaldderek.com",
-        "image": "./images/people/donald.jpeg",
-        "type":"Visiting Researchers",
-        "email":"ddh[@]mit[.]edu"
     },
     {
         "id": 14,

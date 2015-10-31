@@ -1,4 +1,26 @@
 [
+	{
+	    "id": -5,
+	    "date": "2015-present",
+	    "name": "disCERN",
+	    "image": "./images/projects/dicern.jpg",
+		"description": "A data-driven musical composition platform built in collaboration with the ATLAS experiment outreach team at CERN. Composers can encode particle collision event information into audio, generating a real-time auditory display of physics data. In its initial stages, the tool will be used for outreach purposes. Our longer-term goal is to develop sonification tools that facilitate the auditory perception of hidden regularities in high dimensional datasets and thus evolve into a useful analysis tool for physicists as well.",
+	    "categories": [
+	        "Perception", "Sonification", "Physics"
+	    ]
+	},
+
+	{
+	    "id": -4,
+	    "date": "2015-present",
+	    "link": "http://resenv.media.mit.edu/halo",
+	    "name": "Halo",
+	    "image": "./images/projects/halo.jpg",
+	    "description": "What if lighting were not fixed to our architecture but becomes part of our body? Halo is a wearable lighting device that aims to investigate this question. Halo explores the potential of body-centered lighting technology to alter appearance and create a personal space for its wearer. A ring of colored LEDs frames the wearer’s face, putting her into the light she desires.",
+	    "categories": [
+	        "Wearable Technology","Lighting", "Perception", "Algorithms"
+	    ]
+	},
     {
         "id": -3,
         "date": "2014-present",
@@ -79,10 +101,10 @@
     {
         "id": 4,
         "date": "2013-present",
-        "link": "http://technolojie.com/circuit-stickers/",
+        "link": "http://simonetti.media.mit.edu/~jieqi/2015/10/circuit-stickers/",
         "name": "Circuit Stickers",
         "image": "./images/projects/circuitStickers-small100.jpg",
-        "description": "Circuit stickers are peel-and-stick electronics for crafting circuits.",
+		"description": "Circuit Stickers is a toolkit for crafting electronics using flexible and sticky electronic pieces. These stickers are created by printing traces on flexible polyamide substrates and adding conductive adhesive to the pads. These lightweight, flexible, and sticky circuit boards allow us to begin sticking interactivity onto new spaces and interfaces such as clothing, instruments, buildings, and even our bodies.",
         "categories": [
             "technology for artistic expression","Craft"
         ]
