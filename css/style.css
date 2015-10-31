@@ -462,17 +462,35 @@ ul.navigation li:first-child{
     z-index: 999;
     opacity: 1;
     transition: all 0.5s ease-in-out;
-
 }
+
 .tilt-tolive{
+    /*background-image: url('../images/color-switch.png');*/
     display:none;
     position: fixed;
     top: 8px;
-    padding: 2px 8px 4px 8px;
+    width: 24px;
+    height: 24px;
+    padding: 0;
     right: 42px;
     z-index: 999;
     opacity: 1;
     transition: all 0.5s ease-in-out;
+}
+
+.rect1{
+    position: fixed;
+    width:12px;
+    height:24px;
+    right:42px;
+    background: #333;
+}
+.rect2{
+    position: fixed;
+    width:12px;
+    height:24px;
+    right:54px;
+    background: #666;
 }
 
 .color-clit:hover, .tilt-tolive:hover{
@@ -480,7 +498,7 @@ ul.navigation li:first-child{
     opacity:0.7;
 }
 .tilt-tolive:hover, .tilt-select{
-    border:1px solid #333;
+
 }
 .project{
     width: 100%;

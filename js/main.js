@@ -126,6 +126,7 @@ var toggleTheme = function (black){
         datePub.addClass("black");
         pType.addClass("black");
         icons.addClass("black");
+        icons.css({"background":'black', "color":'white'});
         datePub.removeClass("white")
         icons.removeClass("white");
         pType.removeClass("white");
@@ -144,6 +145,7 @@ var toggleTheme = function (black){
         pType.removeClass("black");
         datePub.removeClass("black")
         icons.removeClass("black");
+        icons.css({"background":'white', "color":'black'})
         return false;
     }
 }
@@ -166,48 +168,54 @@ var randomCol = function(col1, col2){
     date.css({"transition": "all 0.1s ease","background": col2, "color":col1})
     icons.css({"background":col2, "color":col1})
 }
-var tilttolive = function (delay, stop){
 
-    // Precentage Variables
-    var px = 0;
-    var py = 0;
+// var tilttolive = function (delay, stop){
+//
+//     // Precentage Variables
+//     var px = 0;
+//     var py = 0;
+//
+//      // Acceleration
+//      var ax = 0;
+//      var ay = 0;
+//
+//      var thisPage = 0;
+//
+//      var vMultiplier = 0.01;
+//
+//        if (window.DeviceMotionEvent==undefined) {
+//
+//        } else {
+//            window.ondevicemotion = function(event) {
+//
+//                ax = event.accelerationIncludingGravity.x;
+//                ay = event.accelerationIncludingGravity.y;
+//            }
+//             if(stop){
+//
+//                 clearInterval(feedback);
+//             }
+//             else {
+//            feedback = setInterval(function() {
+//
+//
+//                px = ax*100/6;
+//                py = ay*100/6;
+//                 if(py<=50){
+//                     //randomCol('#'+Math.floor(Math.random()*16777215).toString(16),'#'+Math.floor(Math.random()*16777215).toString(16))
+//                 }
+//                 else if(py>=50){
+//                     randomCol('#'+Math.floor(Math.random()*16777215).toString(16),'#'+Math.floor(Math.random()*16777215).toString(16))
+//                     }
+//
+//            }, delay);}
+//        }
+// }
 
-     // Acceleration
-     var ax = 0;
-     var ay = 0;
-
-     var thisPage = 0;
-
-     var vMultiplier = 0.01;
-
-       if (window.DeviceMotionEvent==undefined) {
-
-       } else {
-           window.ondevicemotion = function(event) {
-
-               ax = event.accelerationIncludingGravity.x;
-               ay = event.accelerationIncludingGravity.y;
-           }
-            if(stop){
-
-                clearInterval(feedback);
-            }
-            else {
-           feedback = setInterval(function() {
-
-
-               px = ax*100/6;
-               py = ay*100/6;
-                if(py<=50){
-                    //randomCol('#'+Math.floor(Math.random()*16777215).toString(16),'#'+Math.floor(Math.random()*16777215).toString(16))
-                }
-                else if(py>=50){
-                    randomCol('#'+Math.floor(Math.random()*16777215).toString(16),'#'+Math.floor(Math.random()*16777215).toString(16))
-                    }
-
-           }, delay);}
-       }
+var randomTheme = function(){
+    randomCol('#'+Math.floor(Math.random()*16777215).toString(16),'#'+Math.floor(Math.random()*16777215).toString(16));
 }
+
 $(document).ready(function(){
     if (window.DeviceMotionEvent!=undefined) {
         $(".tilt-tolive").show();
@@ -284,17 +292,20 @@ $(document).ready(function(){
             }
         }
     })
-    var tilt=false;
-    $(".tilt-tolive").on("click", function(){
-        tilt=!tilt;
-        if(tilt)
-            tilttolive(100,false)
-        else{
-            $(".color-clit").trigger("click");
-            tilttolive(100,true)
-        }
-        $(this).toggleClass("tilt-select");
-    })
+    // var tilt=false;
+    // $(".tilt-tolive").on("click", function(){
+    //     tilt=!tilt;
+    //     if(tilt)
+    //         tilttolive(100,false)
+    //     else{
+    //         $(".color-clit").trigger("click");
+    //         tilttolive(100,true)
+    //     }
+    //     $(this).toggleClass("tilt-select");
+    // });
+
+    $(".tilt-tolive").on("click", function(){randomTheme();})
+
     if(location.hash.length != 0 ) animDur = 50;
 
     //delayed, async, oneByOne or script
