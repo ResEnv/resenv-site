@@ -213,7 +213,7 @@ var randomCol = function(col1, col2){
 // }
 
 var randomTheme = function(){
-    randomCol('#'+Math.floor(Math.random()*16777215).toString(16),'#'+Math.floor(Math.random()*16777215).toString(16));
+    randomCol('#'+(~~(Math.random()*16777215)).toString(16),'#'+(~~(Math.random()*16777215)).toString(16));
 }
 
 $(document).ready(function(){

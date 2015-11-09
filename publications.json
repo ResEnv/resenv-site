@@ -1,12 +1,32 @@
 [
 	{
+		"id": -10,
+		"dom": "<a target='BLANK'  href=\"./pubs/papers/multidimensional-continuous-contextual.pdf\">A Multidimensional Continuous Contextual Lighting Control System Using Google Glass</a>, Nan Zhao, Matt Aldrich, Christoph Reinhart, Joe Paradiso,  BuildSys’15, Seoul, South Korea.",
+		"title": "Lighting Control System Using Google Glass",
+		"link": "./pubs/papers/multidimensional-continuous-contextual.pdf",
+		"date": "2015"
+	},
+	{
+        "id": -9,
+        "dom": "<a target='BLANK'  href=\"./pubs/papers/emi-spy-harnessing.pdf\">EMI Spy:</a> Harnessing Electromagnetic Interference for Low-Cost, Rapid Prototyping of Proxemic Interaction, N. Zhao, G. Dublon, A. Dementyev, N. Gillian, and J.A. Paradiso, IEEE Conference on Body Sensor Networks (BSN) 2015, Cambridge, MA",
+        "title": "EMI-Spy",
+        "link": "./pubs/papers/emi-spy-harnessing.pdf",
+        "date": "2015"
+    },
+	{
+        "id": -8,
+        "dom": "<a target='BLANK'  href=\"./pubs/papers/halo.pdf\">HALO:</a> Wearable Lighting, Nan Zhao, Joe Paradiso, ISWC Design Exhibition 2015, Osaka, Japan",
+        "title": "HALO",
+        "link": "./pubs/papers/halo.pdf",
+        "date": "2015"
+    },
+	{
         "id": -7,
         "dom": "<a target='BLANK'  href=\"./pubs/papers/GroupLoop_NIME_2015.pdf\">GroupLoop:</a> A Collaborative, Network-Enabled Audio Feedback Instrument,  David Ramsay and Joseph A. Paradiso.  NIME 2015.",
         "title": "GroupLoop",
         "link": "./pubs/papers/GroupLoop_NIME_2015.pdf",
         "date": "2015"
     },
-
    {
         "id": -6,
         "dom": "<a target='BLANK'  href=\"./pubs/papers/Circuit_stickers_toolkit.pdf\">Circuit Stickers Toolkit:</a> Crafting Technology with Circuit Stickers. Jie Qi, Andrew 'bunnie' Huang, Joseph A. Paradiso. In Proc. of Interaction Design and Children 2015.",
