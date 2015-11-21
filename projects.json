@@ -83,7 +83,7 @@
     {
         "id": 2,
         "date": "2013-present",
-        "link": "http://ssfrr.github.io/chain-api/",
+        "link": "http://resenv.github.io/chain-api/",
         "name": "ChainAPI",
         "image": "./images/projects/chain-api.jpg",
         "description": "A hypermedia-focused API supporting request/response via HTTP and realtime via WebSockets.",
