@@ -514,7 +514,7 @@ ul.navigation li:first-child{
     float: right;
     padding: 3px 5px;
     opacity: 1;
-    margin-top: 38px;
+    margin-top: 10px;
 }
 .project .description{
     float: left;
@@ -725,4 +725,68 @@ ul.courses a:hover{
     margin-left:3px;
     padding:4px;
     width: 25px;
+}
+.sub-container{
+    z-index: 999;
+    width: 74%;
+    position: fixed;
+    height:90%;
+    top:5%;
+    left:13%;
+    opacity: 0.96;
+    display: none;
+    background: #fefefe;
+    border:8px solid #212121;
+    overflow: auto;
+}
+.exit{
+    cursor: pointer;
+    height:28px;
+    width: 28px;
+    position: absolute;
+    right: 10px;
+    top:10px;
+    background: #000;
+    background-image: url('../images/clear-menu.png');
+}
+.sub-container .panel{
+    padding:30px 20px;
+}
+.sub-container .right-panel{
+    float:right;
+    width:80%;
+    padding: 0;
+}
+.sub-container .right-panel h1{
+    margin: 0;
+}
+.sub-container .right-panel p{
+    padding: 0;
+    margin: 4px 0;
+}
+.sub-container .left-panel{
+    float:left;
+    width:20%;
+    text-align: center;
+}
+.sub-container .description{
+    font-weight: lighter;
+    line-height: 1.4;
+    text-align: justify;
+}
+.sub-container h4{
+    font-weight: 600;
+    margin: 10px 0 4px 0px;
+}
+.sub-container .external a{
+    font-weight: lighter;
+    text-decoration: underline;
+    font-size: 0.8em;
+}
+.sub-container .publications p{
+    margin: 0;
+}
+.sub-container .video{
+    text-align: center;
+    margin-top: 20px;
 }

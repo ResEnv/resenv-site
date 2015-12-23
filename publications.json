@@ -1,1168 +1,1168 @@
 [
 	{
-		"id": -10,
-		"dom": "<a target='BLANK'  href=\"./pubs/papers/multidimensional-continuous-contextual.pdf\">A Multidimensional Continuous Contextual Lighting Control System Using Google Glass</a>, Nan Zhao, Matt Aldrich, Christoph Reinhart, Joe Paradiso,  BuildSys’15, Seoul, South Korea.",
+
+		"dom": "<a target='BLANK'  href=\"./pubs/papers/multidimensional-continuous-contextual.pdf\">A Multidimensional Continuous Contextual Lighting Control System Using Google Glass</a>, Nan Zhao, Matt Aldrich, Christoph Reinhart, Joe Paradiso,  BuildSys’15, Seoul, South Korea. Best presentation.",
 		"title": "Lighting Control System Using Google Glass",
 		"link": "./pubs/papers/multidimensional-continuous-contextual.pdf",
 		"date": "2015"
 	},
 	{
-        "id": -9,
+
         "dom": "<a target='BLANK'  href=\"./pubs/papers/emi-spy-harnessing.pdf\">EMI Spy:</a> Harnessing Electromagnetic Interference for Low-Cost, Rapid Prototyping of Proxemic Interaction, N. Zhao, G. Dublon, A. Dementyev, N. Gillian, and J.A. Paradiso, IEEE Conference on Body Sensor Networks (BSN) 2015, Cambridge, MA",
         "title": "EMI-Spy",
         "link": "./pubs/papers/emi-spy-harnessing.pdf",
         "date": "2015"
     },
 	{
-        "id": -8,
+        
         "dom": "<a target='BLANK'  href=\"./pubs/papers/halo.pdf\">HALO:</a> Wearable Lighting, Nan Zhao, Joe Paradiso, ISWC Design Exhibition 2015, Osaka, Japan",
         "title": "HALO",
         "link": "./pubs/papers/halo.pdf",
         "date": "2015"
     },
 	{
-        "id": -7,
+
         "dom": "<a target='BLANK'  href=\"./pubs/papers/GroupLoop_NIME_2015.pdf\">GroupLoop:</a> A Collaborative, Network-Enabled Audio Feedback Instrument,  David Ramsay and Joseph A. Paradiso.  NIME 2015.",
         "title": "GroupLoop",
         "link": "./pubs/papers/GroupLoop_NIME_2015.pdf",
         "date": "2015"
     },
    {
-        "id": -6,
+
         "dom": "<a target='BLANK'  href=\"./pubs/papers/Circuit_stickers_toolkit.pdf\">Circuit Stickers Toolkit:</a> Crafting Technology with Circuit Stickers. Jie Qi, Andrew 'bunnie' Huang, Joseph A. Paradiso. In Proc. of Interaction Design and Children 2015.",
         "title": "Circuit Stickers Toolkit",
         "link": "./pubs/papers/Circuit_stickers_toolkit.pdf",
         "date": "2015"
     },
     {
-        "id": -5,
+
         "dom": "<a target='BLANK' href=\"./pubs/papers/hybrid_craft_amit_zoran_siggraph2015.pdf\"> Hybrid Craft:</a> Showcase of Physical and Digital Integration of Design and Craft Skills. Amit Zoran. In Proc. ACM SIGGRAPH Art Gallery 2015.",
         "title": "Hybrid Craft",
         "link": "./pubs/papers/pubs/papers/hybrid_craft_amit_zoran_siggraph2015.pdf",
         "date": "2015"
     },
     {
-        "id": -4,
+
         "dom": "<a target='BLANK'  href=\"./pubs/papers/mmodm-massively-multiplayer-drum-machine.pdf\">MMODM:</a> massively multiplayer online drum machine, Basheer Tome, Don Derek Haddad, Tod Machover, Joeseph A. Paradiso. NIME 2015.",
         "title": "MMODM",
         "link": "./pubs/papers/mmodm-massively-multiplayer-drum-machine.pdf",
         "date": "2015"
     },
     {
-        "id": -3,
+
         "dom": "<a target='BLANK'  href=\"./pubs/papers/NailO-Fingernails-as-an-Input-Surface.pdf\">NailO:</a> Fingernails as an Input Surface, H.-L. C. Kao, A. Dementyev, J. Paradiso, C. Schmandt. CHI 2015. <em>honorable mention award.</em>",
         "title": "NailO",
         "link": "./pubs/papers/Sticker_circuits_hodges.pdf",
         "date": "2015"
     },
     {
-        "id": -2,
+
         "dom": "<a target='BLANK'  href=\"./pubs/papers/Sticker_circuits_hodges.pdf\">Circuit stickers:</a> peel-and-stick construction of interactive electronic prototypes,  Steve Hodges, Nicolas Villar, Nicholas Chen, Tushar Chugh, Jie Qi, Diana Nowacka, Yoshihiro Kawahara, CHI 2014, Toronto, April 2014",
         "title": "Circuit stickers",
         "link": "./pubs/papers/Sticker_circuits_hodges.pdf",
         "date": "2014"
     },
     {
-        "id": -1,
+
         "dom": "<a target='BLANK'  href=\"./pubs/papers/Circuit_sketchbook_Final_small.pdf\">Sketching in circuits:</a> designing and building electronics on paper, Jie Qi, Leah Buechley, CHI 2014, Toronto, April 2014",
         "title": "Sketching in circuits",
         "link": "./pubs/papers/Circuit_sketchbook_Final_small.pdf",
         "date": "2014"
     },
     {
-        "id": 0,
+
         "dom": "<a target='BLANK'  title=\"Hypermedia APIs for Sensor Data\" href=\"./pubs/papers/ChainAPI_Mobiquitous2014_camera-ready.pdf\">Hypermedia APIs for Sensor Data</a>, Spencer Russell, Joseph A. Paradiso,&nbsp;<em>Mobiquitous 2014</em>, London, December 2014.",
         "title": "Hypermedia APIs for Sensor Data",
         "link": "./pubs/papers/ChainAPI_Mobiquitous2014_camera-ready.pdf",
         "date": "2014"
     },
     {
-        "id": 1,
+
         "dom": "<a target='_BLANK' href='http://www.scientificamerican.com/article/how-a-sensor-filled-world-will-change-human-consciousness/'>Extra Sensory Perception</a> – How a world filled with sensors will change the way we see, hear, think and live, Gershon Dublon and Joseph A. Paradiso, Scientific American, Vol. 311, No. 1, July 2014 <strong>&nbsp;(cover article)</strong>, pp. 36-41.",
         "title": "Extra Sensory Perception",
         "link":"http://www.scientificamerican.com/article/how-a-sensor-filled-world-will-change-human-consciousness/",
         "date": "2014"
     },
     {
-        "id": 2,
+
         "dom": "<a target='BLANK'  href=\"./pubs/papers/2014-6-GillianPerDis20141.pdf\">Gestures Everywhere: A Multimodal Sensor Fusion and Analysis Framework for Pervasive Displays</a>, Nicholas Gillian, Sara Pfenninger, Spencer Russell, and Joseph Paradiso, in&nbsp;<em>Proceedings of the International Symposium on Pervasive Displays</em>, Copenhagen, June 2014.",
         "title": "Gestures Everywhere: A Multimodal Sensor Fusion and Analysis Framework for Pervasive Displays",
         "link": "./pubs/papers/2014-6-GillianPerDis20141.pdf",
         "date": "2014"
     },
     {
-        "id": 3,
+
         "dom": "A Usability User Study Concerning Free-Hand Microgesture and Wrist-Worn Sensors, David Way and Joseph Paradiso<em>, in Proc. of BSN 2014</em>, Zurich Switzerland, June 2014. &nbsp;See <a target='BLANK'  href='./pubs/posters/BSN2014-poster21p-way.pdf'>poster</a>.",
         "title": "A Usability User Study Concerning Free-Hand Microgesture and Wrist-Worn Sensors",
         "link": "./pubs/posters/BSN2014-poster21p-way.pdf",
         "date": "2014"
     },
     {
-        "id": 4,
+
         "dom": "<a href=\"./pubs/papers/CHI2014-printsense%20camera-ready.pdf\" target='_BLANK'>PrintSense: </a> A Versatile Sensing Technique to Support Multimodal Flexible Surface Interaction <em>,&nbsp;</em>Gong,&nbsp;N.-W., Steimle,&nbsp;J., Olberding, S., Hodges, S.,&nbsp;Gillian, N., Kawahara, Y., and Paradiso, J., <em>&nbsp;in Proceedings&nbsp;of &nbsp;CHI, 2014.&nbsp;</em>",
         "title": "PrintSense: A Versatile Sensing Technique to Support Multimodal Flexible Surface Interaction",
         "link": "./pubs/papers/CHI2014-printsense%20camera-ready.pdf",
         "date": "2014"
     },
     {
-        "id": 5,
+
         "dom": "<a href='/pubs/papers/WristFlex_UIST_2014.pdf' target='_BLANK'>WristFlex: </a> Low-Power Gesture Input with Wrist-Worn Pressure Sensors, Artem Dementyev and Joseph Paradiso, <em>&nbsp;in Proceedings of UIST, 2014.</em>",
         "title": "WristFlex",
         "link":"./pubs/papers/WristFlex_UIST_2014.pdf",
         "date": "2014"
     },
     {
-        "id": 6,
+
         "dom": "<a target='BLANK'  href=\"./pubs/papers/2013-aldrich-sensors.pdf\">Random Walk and Lighting Control</a>,&nbsp;Aldrich, M., Badshah, A., Mayton, B., Paradiso, J.A., in&nbsp;<em>in Proceedings of the IEEE Sensors Conference, Baltimore, MD</em>, 2013<i>.</i>",
         "title": "Random Walk and Lighting Control",
         "link": "./pubs/papers/2013-aldrich-sensors.pdf",
         "date": "2013"
     },
     {
-        "id": 7,
+
         "dom": "<a target='BLANK'  href=\"./pubs/papers/2013.zoran.uist.hcicarving.pdf\">Human-computer interaction for hybrid carving</a>., Zoran, Amit, Roy Shilkrot and Joseph A. Paradiso in in Proceedings of the 26th annual ACM symposium on User interface software and technology UIST, 2013.<i></i>",
         "title": "Human-computer interaction for hybrid carving",
         "link": "./pubs/papers/2013.zoran.uist.hcicarving.pdf",
         "date": "2013"
     },
     {
-        "id": 8,
+
         "dom": "<a target='BLANK'  href=\"./pubs/papers/goyal.uist.2013.boardlab.pdf\">BoardLab: PCB as an Interface to EDA Software</a>., Pragun Goyal, Harshit Agrawal, Joseph A. Paradiso and Pattie Maes in <em>in Proceedings of the adjunct publication of the 26th annual ACM symposium on User interface software and technology UIST,</em> 2013.<i></i>",
         "title": "BoardLab: PCB as an Interface to EDA Software",
         "link": "./pubs/papers/goyal.uist.2013.boardlab.pdf",
         "date": "2013"
     },
     {
-        "id": 9,
+
         "dom": "<a target='BLANK'  href=\"./pubs/papers/2013.UIST.olberding.pdf\">A Cuttable Multi-touch Sensor</a>., S. Olberding, N.-W. Gong, J. Tiab, J. A. Paradiso, J. Steimle in&nbsp;<em>in Proceedings of the 26th annual ACM symposium on User interface software and technology UIST</em>, 2013<i>.</i>",
         "title": "A Cuttable Multi-touch Sensor",
         "link": "./pubs/papers/2013.UIST.olberding.pdf",
         "date": "2013"
     },
     {
-        "id": 10,
+
         "dom": "<a target='BLANK'  href=\"./pubs/papers/gong_uist2013_demo.pdf\">Inkjet-printed Conductive Patterns for Physical Manipulation of Audio Signals.</a>, N.-W. Gong, A. Zoran and J. A. Paradiso in&nbsp;<em>in Proceedings of the 26th annual ACM symposium on User interface software and technology UIST, 2013<i>.</i></em>",
         "title": "Inkjet-printed Conductive Patterns for Physical Manipulation of Audio Signals.",
         "link": "./pubs/papers/gong_uist2013_demo.pdf",
         "date": "2013"
     },
     {
-        "id": 11,
+
         "dom": "<a target='BLANK'  href=\"./pubs/papers/2013.mayton.bsn.pdf\">WristQue: A personal sensor wristband.</a>, Mayton, Brian D., Zhao, N., Aldrich, M., Gillian, N., Paradiso, Joseph A. in&nbsp;<em>Body Sensor Networks (BSN), 2013 IEEE International Conference on , vol., no., pp.1,6</em>, 2013<i>.</i>",
         "title": "WristQue: A personal sensor wristband.",
         "link": "./pubs/papers/2013.mayton.bsn.pdf",
         "date": "2013"
     },
     {
-        "id": 12,
+
         "dom": "<a target='BLANK'  href=\"./pubs/papers/2013-ZORAN_SIGGRAPH_HybridBasketry.pdf\">Hybrid Basketry: Interweaving digital practice within contemporary craft.</a>, Zoran, A., in&nbsp;<em>In ACM SIGGRAPH 2013 Art Gallery (SIGGRAPH ’13). ACM, New York, NY, USA</em>, 2013<i>.</i>",
         "title": "Hybrid Basketry: Interweaving digital practice within contemporary craft.",
         "link": "./pubs/papers/2013-ZORAN_SIGGRAPH_HybridBasketry.pdf",
         "date": "2013"
     },
     {
-        "id": 13,
+
         "dom": "<a target='BLANK'  href=\"./pubs/papers/2013-ZORAN_CHI_FREED.pdf\">FreeD – A Freehand Digital Sculpting Tool.</a>,Zoran, Amit and Joseph A. Paradiso, in&nbsp;<em>The 31th international conference extended abstracts on Human factors in computing systems (CHI ’13). ACM, Paris, France</em>, 2013 <strong>(Best Paper Award)<i>.</i></strong>",
         "title": "FreeD – A Freehand Digital Sculpting Tool.",
         "link": "./pubs/papers/2013-ZORAN_CHI_FREED.pdf",
         "date": "2013"
     },
     {
-        "id": 14,
+
         "dom": "<a target='BLANK'  href=\"./pubs/papers/2013.icad.njoliatl.pdf\">Spatialized Anonymous Audio for Browsing Sensor Networks Via Virtual Worlds&nbsp;</a>,Joliat, N.,Mayton, B., Paradiso, J.A., in&nbsp;<em>The 19th international conference on Auditory Display (ICAD), Lodz, Poland</em>, 2013&nbsp;<i>.</i>",
         "title": "Spatialized Anonymous Audio for Browsing Sensor Networks Via Virtual Worlds ",
         "link": "./pubs/papers/2013.icad.njoliatl.pdf",
         "date": "2013"
     },
     {
-        "id": 15,
+
         "dom": "<a target='BLANK'  href=\"./pubs/papers/2012-IEEE_SENSORS_2012_PRSENSORS.pdf\">Low-cost Sensor Tape for Environmental Sensing Based on Roll-to-roll Manufacturing Process</a>, Gong, N-W., Wang, CY, and Paradiso, J.A., in<em>&nbsp;IEEE SENSORS Conference</em>, 2012<i>.</i>",
         "title": "Low-cost Sensor Tape for Environmental Sensing Based on Roll-to-roll Manufacturing Process",
         "link": "./pubs/papers/2012-IEEE_SENSORS_2012_PRSENSORS.pdf",
         "date": "2012"
     },
     {
-        "id": 16,
+
         "dom": "<a target='BLANK'  href=\"./pubs/papers/2012-IEEE-SENSORS-GONG-3DSPACE.pdf\">Dense, Low-Power Sensor Network for Three-Dimensional Thermal Characterization of Large-Scale Atria Spaces</a>, Gong, NW., Ware, L., Ray, S., Ware, G., Leida, B., Ren, T., London, P., Turza, A., Way, D., Glicksman, L. and Paradiso in&nbsp;<em>IEEE SENSORS</em>&nbsp;2012&nbsp;<i>.</i>",
         "title": "Dense, Low-Power Sensor Network for Three-Dimensional Thermal Characterization of Large-Scale Atria Spaces",
         "link": "./pubs/papers/2012-IEEE-SENSORS-GONG-3DSPACE.pdf",
         "date": "2012"
     },
     {
-        "id": 17,
+
         "dom": "<a target='BLANK'  href=\"./pubs/papers/2012_IEEE-SENSORS-MAYTON.pdf\">TRUSS: Tracking Risk with Ubiquitous Smart Sensing</a>, Mayton, B., Dublon, G., Palacios, S., and Paradiso, J.A., in&nbsp;<em>2012 IEEE SENSORS Conference</em>, 2012<i>.</i>",
         "title": "TRUSS: Tracking Risk with Ubiquitous Smart Sensing",
         "link": "./pubs/papers/2012_IEEE-SENSORS-MAYTON.pdf",
         "date": "2012"
     },
     {
-        "id": 18,
+
         "dom": "<a target='BLANK'  href=\"./pubs/papers/2012_NIME_gong.pdf\">A Customizable Sensate Surface for Music Control</a>, Gong, N-W, Zhao, N., and Paradiso, J.A., in&nbsp;<em>Proceedings of NIME 2012</em>, Ann Arbor, Michigan, 2012, pp. 417-420<i>.</i>",
         "title": "A Customizable Sensate Surface for Music Control",
         "link": "./pubs/papers/2012_NIME_gong.pdf",
         "date": "2012"
     },
     {
-        "id": 19,
+
         "dom": "<a target='BLANK'  href=\"./pubs/papers/2012-UIST-FREED.pdf\">The FreeD-A Handheld Digital Milling Device for Craft and Fabrication</a>, Zoran, A. and Paradiso, J.A., in&nbsp;<em>UIST ’12, Oct 7-10</em>, 2012<i>.</i>",
         "title": "The FreeD-A Handheld Digital Milling Device for Craft and Fabrication",
         "link": "./pubs/papers/2012-UIST-FREED.pdf",
         "date": "2012"
     },
     {
-        "id": 20,
+
         "dom": "<a target='BLANK'  href=\"./pubs/papers/2012-NIME-GILLIAN.pdf\">Digito: A Fine-Grain Gesturally Controlled Virtual Musical Instrument</a>, Gillian, N. and Paradiso, J.A., in&nbsp;<em>Proceedings of NIME 2012</em>, Ann Arbor, Michigan, 2012&nbsp;<i>.</i>",
         "title": "Digito: A Fine-Grain Gesturally Controlled Virtual Musical Instrument",
         "link": "./pubs/papers/2012-NIME-GILLIAN.pdf",
         "date": "2012"
     },
     {
-        "id": 21,
+
         "dom": "<a target='BLANK'  href=\"./pubs/papers/2012-NIME-MAYTON.pdf\">Patchwork: Multi-User Network Control of a Massive Modular Synthesizer</a>, Mayton, B., Dublon, G., Joliat, N. and Paradiso, J.A., in&nbsp;<em>Proceedings of NIME 2012</em>, Ann Arbor, Michigan, 2012&nbsp;<i>.</i>",
         "title": "Patchwork: Multi-User Network Control of a Massive Modular Synthesizer",
         "link": "./pubs/papers/2012-NIME-MAYTON.pdf",
         "date": "2012"
     },
     {
-        "id": 22,
+
         "dom": "<a target='BLANK'  href=\"./pubs/papers/2012-CHI-DUBLON-Tongueduino.pdf\">Tongueduino:&nbsp;Hackable, High-bandwidth Sensory Augmentation</a>, Dublon, G. and Paradiso, J. A., in&nbsp;<em>Proceedings of CHI 2012</em>, Austin, TX, 2012.",
         "title": "Tongueduino: Hackable, High-bandwidth Sensory Augmentation",
         "link": "./pubs/papers/2012-CHI-DUBLON-Tongueduino.pdf",
         "date": "2012"
     },
     {
-        "id": 23,
+
         "dom": "<a target='BLANK'  href=\"./pubs/papers/2012-PERVASIVE-GUEST-PARADISO.pdf\">Pervasive Interaction</a>&nbsp;(Guest Editors’ Introduction), Paradiso, J.A., Pering, T. and Schmidt, A. in&nbsp;<em>IEEE CS</em>&nbsp;2012&nbsp;<i>.</i>",
         "title": "Pervasive Interaction",
         "link": "./pubs/papers/2012-PERVASIVE-GUEST-PARADISO.pdf",
         "date": "2012"
     },
     {
-        "id": 24,
+
         "dom": "<a target='BLANK'  href=\"./pubs/papers/2012-PERVASIVE-AUTOMOTIVE.pdf\">Automotive Pervasive Computing</a>&nbsp;(Guest Editors’ Introduction), Schmidt, A., Paradiso, J.A. and Noble, B. in&nbsp;<em>IEEE CS</em>, 2012<i>.</i>",
         "title": "Automotive Pervasive Computing",
         "link": "./pubs/papers/2012-PERVASIVE-AUTOMOTIVE.pdf",
         "date": "2012"
     },
     {
-        "id": 25,
+
         "dom": "<a target='BLANK'  href=\"./pubs/papers/2012-JNMR-ZORAN-3DFLUTE.pdf\">The 3D Printed Flute: Digital Fabrication and Design of Musical Instruments</a>, Zoran, A., in&nbsp;<em>Journal of New Music Research 2011, Vol. 40, No.4, pp. 379-387</em>, 2011<i>.</i>",
         "title": "The 3D Printed Flute: Digital Fabrication and Design of Musical Instruments",
         "link": "./pubs/papers/2012-JNMR-ZORAN-3DFLUTE.pdf",
         "date": "2012"
     },
     {
-        "id": 26,
+
         "dom": "<a target='BLANK'  href=\"./pubs/papers/2011-AC-ZORAN-CHAMELEON2.pdf\">A Platform for Manipulation and Examination of the Acoustic Guitar: The Chameleon Guitar</a>, Zoran, A., Welch, S. and Hunt, W.D., in Applied Acoustics, 2011<i>.</i>",
         "title": "A Platform for Manipulation and Examination of the Acoustic Guitar: The Chameleon Guitar",
         "link": "./pubs/papers/2011-AC-ZORAN-CHAMELEON2.pdf",
         "date": "2011"
     },
     {
-        "id": 27,
+
         "dom": "<a target='BLANK'  href=\"./pubs/papers/2011-JNMR-ZORAN-CHAMELEON.pdf\">The Chameleon Guitar-Guitar with a Replaceable Resonator</a>, Zoran, A. and Paradiso, J.A. in&nbsp;<em>Journal of New Music Research, 2011<i>.</i></em>",
         "title": "The Chameleon Guitar-Guitar with a Replaceable Resonator",
         "link": "./pubs/papers/2011-JNMR-ZORAN-CHAMELEON.pdf",
         "date": "2011"
     },
     {
-        "id": 28,
+
         "dom": "<a target='BLANK'  href=\"./pubs/papers/2011-IEEE-SENSORS-WEARABLE%20WIRELESS.pdf\">Wearable Wireless Sensing for Sports and Ubiquitous Interactivity</a>, Lapinski, M., Feldmeier, M. and Paradiso, J.A., in&nbsp;<em>2011 IEEE SENSORS Conference</em>, 2011<i>.</i>",
         "title": "Wearable Wireless Sensing for Sports and Ubiquitous Interactivity",
         "link": "./pubs/papers/2011-IEEE-SENSORS-WEARABLE%20WIRELESS.pdf",
         "date": "2011"
     },
     {
-        "id": 29,
+
         "dom": "<a target='BLANK'  href=\"./pubs/papers/2011-IEEESENSORS-DOPPELLAB.pdf\">DoppelLab: Tools for Exploring and Harnessing Multimodal Sensor Network Data</a>, Dublon, G., Pardue, L. S., Mayton, B., Swartz, N., Joliat, N., Hurst, P. and Paradiso, J.A., in&nbsp;<em>2011 IEEE SENSORS Conference</em>, 2011<i>.</i>",
         "title": "DoppelLab: Tools for Exploring and Harnessing Multimodal Sensor Network Data",
         "link": "./pubs/papers/2011-IEEESENSORS-DOPPELLAB.pdf",
         "date": "2011"
     },
     {
-        "id": 30,
+
         "dom": "<a target='BLANK'  href=\"./pubs/papers/2011-05-BSN-Rachel-Tags.pdf\">Wireless Hand Gesture Capture Through Wearable Passive Tag Sensing</a>, Bainbridge, R. and Paradiso, J.A., in&nbsp;<em>2011 International Conference on Body Sensor Networks (BSN 2011)</em>, 2011<i>.</i> <a target='BLANK'  href=\"./pubs/papers/2011-MM11-REBEN.pdf\">A </a>",
         "title": "Wireless Hand Gesture Capture Through Wearable Passive Tag SensingA ",
         "link": "./pubs/papers/2011-05-BSN-Rachel-Tags.pdf",
         "date": "2011"
     },
     {
-        "id": 31,
+
         "dom": "<a target='BLANK'  href=\"./pubs/papers/2011-MM11-REBEN.pdf\">Mobile Interactive Robot for Gathering Structured Social Video</a>, Reben, A. and Paradiso, J.A., in&nbsp;<em>Proceedings of ACM Multimedia ’11</em>, Scottsdale, Arizona, 2011<i>.</i>",
         "title": "Mobile Interactive Robot for Gathering Structured Social Video",
         "link": "./pubs/papers/2011-MM11-REBEN.pdf",
         "date": "2011"
     },
     {
-        "id": 32,
+
         "dom": "<a target='BLANK'  href=\"./pubs/papers/p45-gong.pdf\">Leveraging Conductive InkjetTechnology to Build a Scalable and Versatile Surface for Ubiquitous Sensing</a>, Gong, N.-W., Hodges, S, and Paradiso, J.A., In Proc. of the 13th international conference on Ubiquitous computing (UbiComp ’11), pp 45-54.",
         "title": "Leveraging Conductive InkjetTechnology to Build a Scalable and Versatile Surface for Ubiquitous Sensing",
         "link": "./pubs/papers/p45-gong.pdf",
         "date": "2011"
     },
     {
-        "id": 33,
+
         "dom": "<a target='BLANK'  href=\"./pubs/papers/2011-SPIE-OP11-SSL11.pdf\">Methods for Measuring Work Surface Illuminance in Adaptive Solid State Lighting Networks</a>, Lee, B., Aldrich, M., and Paradiso, J.A., in&nbsp;<em>Proc. SPIE 8123, 81230V&nbsp;</em>, San Diego CA, August 22, 2011.",
         "title": "Methods for Measuring Work Surface Illuminance in Adaptive Solid State Lighting Networks",
         "link": "./pubs/papers/2011-SPIE-OP11-SSL11.pdf",
         "date": "2011"
     },
     {
-        "id": 34,
+
         "dom": "<a target='BLANK'  href=\"./pubs/papers/2011-03-energy-efficient_control_of_solid-state_lighting.pdf\">Energy-efficient control of solid-state lighting</a>, Paradiso, J.A., Aldrich, M., Zhao, N.,<em>SPIE Newsroom</em>, March 25 2011.",
         "title": "Energy-efficient control of solid-state lighting",
         "link": "./pubs/papers/2011-03-energy-efficient_control_of_solid-state_lighting.pdf",
         "date": "2011"
     },
     {
-        "id": 35,
+
         "dom": "<a target='BLANK'  href=\"./pubs/papers/2010-04-mittal-ubicorder.pdf\">Ubicorder: A Mobile Device for Situated Interactions with Sensor Networks</a>, Mittal, M.., and Paradiso, J.A., to appear in&nbsp;<em>IEEE Sensors Journal</em>, Special issue on Cognitive Sensor Networks, 2011.",
         "title": "Ubicorder: A Mobile Device for Situated Interactions with Sensor Networks",
         "link": "./pubs/papers/2010-04-mittal-ubicorder.pdf",
         "date": "2011"
     },
     {
-        "id": 36,
+
         "dom": "<a target='BLANK'  href=\"./pubs/papers/2011-01-Pervasive-GEI.pdf\">Smart Energy Systems</a>&nbsp;(Guest Editors’ Introduction), Joseph Paradiso, Prabal Dutta, Hans Gellerson, Eve Schooler,&nbsp;<em>IEEE Pervasive Computing Magazine</em>, January-March 2011 (vol. 10 no. 1), pp. 11-12.",
         "title": "Smart Energy Systems",
         "link": "./pubs/papers/2011-01-Pervasive-GEI.pdf",
         "date": "2011"
     },
     {
-        "id": 37,
+
         "dom": "<a target='BLANK'  href=\"./pubs/papers/2010-12-IoT-2010-Final-cr.pdf\">Personalized HVAC Control System</a>, Feldmeier, M.., and Paradiso, J.A., in&nbsp;<em>Proc. of Internet of Things (IoT) 2010</em>, Tokyo Japan, Nov. 29 – Dec. 1, 2010.",
         "title": "Personalized HVAC Control System",
         "link": "./pubs/papers/2010-12-IoT-2010-Final-cr.pdf",
         "date": "2010"
     },
     {
-        "id": 38,
+
         "dom": "<a target='BLANK'  href=\"./pubs/papers/2010-11-AMI-10-R4(2).pdf\">Dynamic Privacy Management in Pervasive Sensor Networks</a>, Gong, N-W., Laibowitz, M., and Paradiso, J.A., in&nbsp;<em>Proc. of Ambient Intelligence (AmI) 2010</em>, Malaga, Spain, 25-29 October 2010, pp. 96-106.",
         "title": "Dynamic Privacy Management in Pervasive Sensor Networks",
         "link": "./pubs/papers/2010-11-AMI-10-R4(2).pdf",
         "date": "2010"
     },
     {
-        "id": 39,
+
         "dom": "<a target='BLANK'  href=\"./pubs/papers/2010-10-laibowitz-ACM-mm.pdf\">Multimedia Content Creation using Societal-Scale Ubiquitous Camera Networks and Human-Centric Wearable Sensing</a>, Laibowitz, M., Gong, N-W.., and Paradiso, J.A., in&nbsp;<em>Proc. of ACM Multimedia 2010</em>, Florence Italy, 25-29 October 2010, pp. 571-580.",
         "title": "Multimedia Content Creation using Societal-Scale Ubiquitous Camera Networks and Human-Centric Wearable Sensing",
         "link": "./pubs/papers/2010-10-laibowitz-ACM-mm.pdf",
         "date": "2010"
     },
     {
-        "id": 40,
+
         "dom": "<a target='BLANK'  href=\"./pubs/papers/2010-SPIE-OP10-SSL10.pdf\">Energy Efficient Control of Polychromatic Solid-State Lighting Using a Sensor Network</a>, Aldrich, M., Zhao, N., and Paradiso, J.A., in&nbsp;<em>Proc. SPIE (OP10) 7784&nbsp;</em>, San Diego CA, August 1-5, 2010.",
         "title": "Energy Efficient Control of Polychromatic Solid-State Lighting Using a Sensor Network",
         "link": "./pubs/papers/2010-SPIE-OP10-SSL10.pdf",
         "date": "2010"
     },
     {
-        "id": 41,
+
         "dom": "<a target='BLANK'  href=\"./pubs/papers/2010_CMCVR_NW_%20DynamicMedia%20Applications.pdf\">Experiences and Challenges in Deploying Potentially Invasive Sensor Systems for Dynamic Media Applications</a>, in Proc. of the&nbsp;<em>Cloud-Mobile Convergence for Virtual Reality Workshop (CMCVR 2010</em>), Waltham MA, March 20, 2010.",
         "title": "Experiences and Challenges in Deploying Potentially Invasive Sensor Systems for Dynamic Media Applications",
         "link": "./pubs/papers/2010_CMCVR_NW_%20DynamicMedia%20Applications.pdf",
         "date": "2010"
     },
     {
-        "id": 42,
+
         "dom": "<a target='BLANK'  href=\"./pubs/papers/2010-01-fp245-mistree.pdf\">ChainMail – A Configurable Multimodal Lining to Enable Sensate Surfaces and Interactive Objects</a>, Mistree, B.F.T., and Paradiso, J.A., in&nbsp;<em>Proc. of the Fourth International Conference on Tangible, Embedded, and Embodied Interaction, (TEI 2010)</em>, Cambridge MA, January 25-27, 2010, pp. 65-72.",
         "title": "ChainMail – A Configurable Multimodal Lining to Enable Sensate Surfaces and Interactive Objects",
         "link": "./pubs/papers/2010-01-fp245-mistree.pdf",
         "date": "2010"
     },
     {
-        "id": 43,
+
         "dom": "<a target='BLANK'  href=\"./pubs/papers/2010-02-UberBadgeSpringer.pdf\">Identifying and Facilitating Social Interaction with a Wearable Wireless Sensor Network</a>, Paradiso, J.A., Gips, J., Laibowitz, M., Sadi, S., Merrill, D., Aylward, R., Maes, P., and Pentland,&nbsp;<em>Springer</em>&nbsp;<em>Journal of Personal &amp; Ubiquitous Computing</em>, Volume 14, Number 2, February 2010, pp. 137-152.",
         "title": "Identifying and Facilitating Social Interaction with a Wearable Wireless Sensor Network",
         "link": "./pubs/papers/2010-02-UberBadgeSpringer.pdf",
         "date": "2010"
     },
     {
-        "id": 44,
+
         "dom": "<a target='BLANK'  href=\"./pubs/papers/2009-Ars-USSN.jpg\">Ubiquitous Sensor Network Navigator</a>, Reben, A., Laibowitz, M., Nong, N-W, and Paradiso, J., in Human Nature, Proc. of Ars Electronica 2009, Hatje-Cantz (Austria), p. 340..",
         "title": "Ubiquitous Sensor Network Navigator",
         "link": "./pubs/papers/2009-Ars-USSN.jpg",
         "date": "2009"
     },
     {
-        "id": 45,
+
         "dom": "<a target='BLANK'  href=\"./pubs/papers/2009-09-ISWC2009-Final-Baseball.pdf\">A</a>&nbsp;<a target='BLANK'  href=\"./pubs/papers/2009-09-ISWC2009-Final-Baseball.pdf\">Distributed Wearable, Wireless Sensor System for Evaluating Professional Baseball Pitchers and Batters</a>, Lapinski, M., Berkson, E., Gill, T., Reinold, M., and Paradiso, J.A., in&nbsp;<em>Proc. of the IEEE International Symposium on Wearable Computers (ISWC 2009)</em>, Linz, Austria, September 4-7, 2009, pp. 131-138",
         "title": "ADistributed Wearable, Wireless Sensor System for Evaluating Professional Baseball Pitchers and Batters",
         "link": "./pubs/papers/2009-09-ISWC2009-Final-Baseball.pdf",
         "date": "2009"
     },
     {
-        "id": 46,
+
         "dom": "<a target='BLANK'  href=\"./pubs/papers/2009-07-ResenvPvC-Article.pdf\">Metaphor and Manifestation – Cross Reality with Ubiquitous Sensor/Actuator Networks</a>, Lifton, J., Laibowitz, M., Harry, D., Gong, N.W., Mittal, M. and Paradiso, J.A., IEEE Pervasive Computing Magazine, July-September 2009 (vol. 8 no. 3), pp. 24-33<i>.</i>",
         "title": "Metaphor and Manifestation – Cross Reality with Ubiquitous Sensor/Actuator Networks",
         "link": "./pubs/papers/2009-07-ResenvPvC-Article.pdf",
         "date": "2009"
     },
     {
-        "id": 47,
+
         "dom": "<a target='BLANK'  href=\"./pubs/papers/2009-07-CrossRealityPervasiveGEI.pdf\">Guest Editors’ Introduction: Cross-Reality Environments</a>, Paradiso, J.A., and Landay, J.A.,&nbsp;<em>IEEE Pervasive Computing</em>, Vol. 8, No. 3, July-September 2009, pp. 14-15.",
         "title": "Guest Editors’ Introduction: Cross-Reality Environments",
         "link": "./pubs/papers/2009-07-CrossRealityPervasiveGEI.pdf",
         "date": "2009"
     },
     {
-        "id": 48,
+
         "dom": "<a target='BLANK'  href=\"./pubs/papers/2009-07-fave2009.pdf\">Dual Reality: Merging the Real and Virtual</a>, Lifton, J. and Paradiso, J.A., in&nbsp;<em>Proceedings of the First International ICST Conference on Facets of Virtual Environments (FaVE)</em>, Berlin, Germany, 27-29 July 2009.",
         "title": "Dual Reality: Merging the Real and Virtual",
         "link": "./pubs/papers/2009-07-fave2009.pdf",
         "date": "2009"
     },
     {
-        "id": 49,
+
         "dom": "<a target='BLANK'  href=\"./pubs/papers/2009-06-BSN-LaibowitzGongParadiso.pdf\">Wearable Sensing for Dynamic Management of Dense Ubiquitous Media</a>, Laibowitz, M., Gong, N-W., and Paradiso, J.A., in the&nbsp;<em>Proc. of the Sixth International Workshop on Wearable and Implantable Body Sensor Networks (BSN 2009)</em>, Berkeley, CA, June 3-5, 2009, pp. 3-8<i>.</i>",
         "title": "Wearable Sensing for Dynamic Management of Dense Ubiquitous Media",
         "link": "./pubs/papers/2009-06-BSN-LaibowitzGongParadiso.pdf",
         "date": "2009"
     },
     {
-        "id": 50,
+
         "dom": "<a target='BLANK'  href=\"./pubs/papers/2009-06-MusicGrip-nm090095.pdf\">MusicGrip: A Writing Instrument for Music Control</a>, Gong, N.W., Laibowitz, M., and Paradiso, J.A , in&nbsp;<em>Proceedings of NIME 2009</em>, Pittsburgh, PA, June 4-6, 2009, pp. 74-77<i>.</i>",
         "title": "MusicGrip: A Writing Instrument for Music Control",
         "link": "./pubs/papers/2009-06-MusicGrip-nm090095.pdf",
         "date": "2009"
     },
     {
-        "id": 51,
+
         "dom": "<a target='BLANK'  href=\"./pubs/papers/2009-06-AlexNime-nm090100.pdf\">Responsive Music Interfaces for Performance</a>, Reben, A., Laibowitz, M., and Paradiso, J.A., in<em>Proceedings of NIME 2009</em>, Pittsburgh, PA, June 4-6, 2009, pp. 37-38.<i>.</i>",
         "title": "Responsive Music Interfaces for Performance",
         "link": "./pubs/papers/2009-06-AlexNime-nm090100.pdf",
         "date": "2009"
     },
     {
-        "id": 52,
+
         "dom": "<a target='BLANK'  href=\"./pubs/papers/2008-10-islped08icount.pdf\">Energy Metering for Free: Augmenting Switching Regulators for Real-Time Monitoring</a>, Prabal Dutta, Mark Feldmeier, Jay Taneja, Joseph Paradiso, and David Culler. In the<em>International Symposium on Low Power Electronics and Design (ISLPED’08)</em>&nbsp;Design Contest, Bangalore, India. August 11-13, 2008.&nbsp;<i>Design Contest Winner.</i>",
         "title": "Energy Metering for Free: Augmenting Switching Regulators for Real-Time Monitoring",
         "link": "./pubs/papers/2008-10-islped08icount.pdf",
         "date": "2008"
     },
     {
-        "id": 53,
+
         "dom": "<a target='BLANK'  href=\"./pubs/papers/2008-07_ieee-titb_gaitshoe.pdf\">Gait Analysis Using a Shoe-Integrated Wireless Sensor System</a>, Bamberg, S.J.M., Benbasat A.Y., Scarborough D.M., Krebs D.E., Paradiso J.A., IEEE Transactions on Information Technology in Biomedicine, Vol. 12, No. 4, July 2008, pp. 413-423.",
         "title": "Gait Analysis Using a Shoe-Integrated Wireless Sensor System",
         "link": "./pubs/papers/2008-07_ieee-titb_gaitshoe.pdf",
         "date": "2008"
     },
     {
-        "id": 54,
+
         "dom": "<a target='BLANK'  href=\"./pubs/papers/2008-07-Hacking-GEI.pdf\">Guest Editors’ Introduction: Hacking is Pervasive</a>, Paradiso, J.A. Heidemann, J., and Zimmerman, T.G., IEEE Pervasive Computing, Vol. 7, No. 3, July-September 2008, pp. 13-15.",
         "title": "Guest Editors’ Introduction: Hacking is Pervasive",
         "link": "./pubs/papers/2008-07-Hacking-GEI.pdf",
         "date": "2008"
     },
     {
-        "id": 55,
+
         "dom": "<a target='BLANK'  href=\"./pubs/papers/2008-07-LeadUserPervasive.pdf\">User Innovation and Hacking</a>, Eric von Hippel and Joseph A. Paradiso, IEEE Pervasive Computing, Vol. 7, No. 3, July-September 2008, pp. 66-69.",
         "title": "User Innovation and Hacking",
         "link": "./pubs/papers/2008-07-LeadUserPervasive.pdf",
         "date": "2008"
     },
     {
-        "id": 56,
+
         "dom": "<a target='BLANK'  href=\"./pubs/papers/2008_06_nimesub-238.pdf\">A Mobile Music Environment Using a PD Compiler and Wireless Sensors</a>, Robert Jacobs, Mark Feldmeier, Joseph A. Paradiso, in Proceedings of NIME 2008, Genoa, Italy, September 10, June 5-7, 2008, pp. 193-196.",
         "title": "A Mobile Music Environment Using a PD Compiler and Wireless Sensors",
         "link": "./pubs/papers/2008_06_nimesub-238.pdf",
         "date": "2008"
     },
     {
-        "id": 57,
+
         "dom": "<a target='BLANK'  href=\"./pubs/papers/2008_04_dutta08icount.pdf\">Energy Metering for Free: Augmenting Switching Regulators for Real-Time Monitoring</a>, Dutta, P., Feldmeier, M., Paradiso, J., and Culler, D., in Proceedings of the International Conference on Information Processing in Sensor Networks (IPSN), St. Louis, MO, 22-24 April 2008, pp. 283-294.&nbsp;<i>Best Paper Award in Track on Sensor Platforms, Tools, and Design Methods (SPOTS)</i>",
         "title": "Energy Metering for Free: Augmenting Switching Regulators for Real-Time Monitoring",
         "link": "./pubs/papers/2008_04_dutta08icount.pdf",
         "date": "2008"
     },
     {
-        "id": 58,
+
         "dom": "<a target='BLANK'  href=\"./pubs/papers/2008_03_Joe%20Paradiso%20Article1a.pdf\">Sensor Architectures for Interactive Environments</a>, Paradiso, J.A., in&nbsp;Deleaney, K. (ed),&nbsp;Augmented Materials&nbsp; &amp; Smart Objects: Building Ambient Intelligence Through Microsystems Technologies, Chapter 3, Springer, 2008.",
         "title": "Sensor Architectures for Interactive Environments",
         "link": "./pubs/papers/2008_03_Joe%20Paradiso%20Article1a.pdf",
         "date": "2008"
     },
     {
-        "id": 59,
+
         "dom": "<a target='BLANK'  href=\"./pubs/papers/2008-01-Implantable-GEI.pdf\">Guest Editors’ Introduction: Implantable Electronics</a>, Paradiso, J., Boriello, G., and Bonato, P., IEEE Pervasive Computing, Vol. 7, No. 1, January-March 2008, pp. 12-13.",
         "title": "Guest Editors’ Introduction: Implantable Electronics",
         "link": "./pubs/papers/2008-01-Implantable-GEI.pdf",
         "date": "2008"
     },
     {
-        "id": 60,
+
         "dom": "<a target='BLANK'  href=\"./pubs/papers/2007-11-sensys-121-revised.pdf\">CargoNet: A Low-Cost MicroPower Sensor Node Exploiting Quasi-Passive Wakeup for Adaptive Asychronous Monitoring of Exceptional Events</a>, Mateusz Malinowski, Matthew Moskwa, Mark Feldmeier, Mathew Laibowitz, Joseph A. Paradiso, in Proceedings of the 5th ACM Conference on Embedded Networked Sensor Systems (SenSys’07), November 6-9, 2007, Sydney, Australia, pp. 145 – 159.&nbsp;<strong>Winner of the Sensys 2007 Best Presentation Award </strong>",
         "title": "CargoNet: A Low-Cost MicroPower Sensor Node Exploiting Quasi-Passive Wakeup for Adaptive Asychronous Monitoring of Exceptional Events",
         "link": "./pubs/papers/2007-11-sensys-121-revised.pdf",
         "date": "2007"
     },
     {
-        "id": 61,
+
         "dom": "<a target='BLANK'  href=\"./pubs/papers/2007-11-ayb-sensys07.pdf\">A Framework for the Automated Generation of Power-Efficient Classifiers for Embedded Sensor Nodes</a>, Ari Y. Benbasat and Joseph A. Paradiso, in Proceedings of the 5th ACM Conference on Embedded Networked Sensor Systems (SenSys’07), November 6-9, 2007, Sydney, Australia, pp. 219 – 232.",
         "title": "A Framework for the Automated Generation of Power-Efficient Classifiers for Embedded Sensor Nodes",
         "link": "./pubs/papers/2007-11-ayb-sensys07.pdf",
         "date": "2007"
     },
     {
-        "id": 62,
+
         "dom": "<a target='BLANK'  href=\"./pubs/papers/2007-09-SANET3fp-ono-ACMSIG.pdf\">Distributed Acoustic Conversation Shielding: An Application of a Smart Transducer Network</a>, Yasuhiro Ono, Joshua Lifton, Mark Feldmeier, Joseph A. Paradiso, in Proceedings of the First ACM Workshop on Sensor/Actuator Networks (SANET 07), Montreal, Canada, September 10, 2007, pp. 27-34.",
         "title": "Distributed Acoustic Conversation Shielding: An Application of a Smart Transducer Network",
         "link": "./pubs/papers/2007-09-SANET3fp-ono-ACMSIG.pdf",
         "date": "2007"
     },
     {
-        "id": 63,
+
         "dom": "<a target='BLANK'  href=\"./pubs/papers/2007_04_lifton_chi.pdf\">Tricorder: A mobile sensor network browser</a>, Lifton, J., Mittal, M., Lapinski, M., and Paradiso, J.A., in Proceedings of the ACM CHI 2007 conference, Mobile Spatial Interaction workshop, San Jose, CA, 28 April – 3 May 2007.",
         "title": "Tricorder: A mobile sensor network browser",
         "link": "./pubs/papers/2007_04_lifton_chi.pdf",
         "date": "2007"
     },
     {
-        "id": 64,
+
         "dom": "<a target='BLANK'  href=\"./pubs/papers/2007_04_lifton_ipsn.pdf\">A Platform for Ubiquitous Sensor Deployment in Occupational and Domestic Environments</a>, Lifton, J., Feldmeier, M., Ono, Y., Lewis, C., and Paradiso, J.A., in Proceedings of the International Conference on Information Processing in Sensor Networks (IPSN), Cambridge, MA, 25-27 April 2007, pp. 119-127.<strong>&nbsp;Best Paper Award in Track on Sensor Platforms, Tools, and Design Methods (SPOTS).</strong>",
         "title": "A Platform for Ubiquitous Sensor Deployment in Occupational and Domestic Environments",
         "link": "./pubs/papers/2007_04_lifton_ipsn.pdf",
         "date": "2007"
     },
     {
-        "id": 65,
+
         "dom": "<a target='BLANK'  href=\"./pubs/papers/2007-04-spots147-aylward.pdf\">A Compact, High-Speed, Wearable Sensor Network for Biomotion Capture and Interactive Media</a>, Aylward, R. and Paradiso, J.A., Proc. of the Sixth International IEEE/ACM Conference on Information Processing in Sensor Networks (IPSN 07), Cambridge, MA, April 25-27, 2007, pp. 380-389.",
         "title": "A Compact, High-Speed, Wearable Sensor Network for Biomotion Capture and Interactive Media",
         "link": "./pubs/papers/2007-04-spots147-aylward.pdf",
         "date": "2007"
     },
     {
-        "id": 66,
+
         "dom": "<a target='BLANK'  href=\"http://www.mitpressjournals.org/doi/pdf/10.1162/comj.2007.31.1.50\">An Interactive Music Environment for Large Groups with Giveaway Wireless Motion Sensors</a>, Feldmeier, M. and Paradiso, J.A., Computer Music Journal, Vol. 31, No. 1 (Spring 2007), pp. 50-67.",
         "title": "An Interactive Music Environment for Large Groups with Giveaway Wireless Motion Sensors",
         "link": "http://www.mitpressjournals.org/doi/pdf/10.1162/comj.2007.31.1.50",
         "date": "2007"
     },
     {
-        "id": 67,
+
         "dom": "<a target='BLANK'  href=\"./pubs/papers/2007-03-BSN-Groggy.pdf\">Groggy Wakeup – Automated Generation of Power-Efficient Detection Hierarchies for Wearable Sensors</a>, Benbasat, A.Y. and Paradiso, J.A., in Proceedings of the 4th International Workshop on Wearable and Implantable Body Sensor Networks (BSN 2007), Aachen, Germany, March 26-28, 2007, pp. 59-64.",
         "title": "Groggy Wakeup – Automated Generation of Power-Efficient Detection Hierarchies for Wearable Sensors",
         "link": "./pubs/papers/2007-03-BSN-Groggy.pdf",
         "date": "2007"
     },
     {
-        "id": 68,
+
         "dom": "<a target='BLANK'  href=\"./pubs/papers/2006-10-ISWC-communicator.pdf\">Wearable Communicator Badge: Designing a New Platform for Revealing Organizational Dynamics</a>, Olguín Olguín, D., Paradiso, J.A., and Pentland, A., in the Proc. of Student Colloquium Proposals of the 10th International IEEE Symposium on Wearable Computing (ISWC), Montreux, Switzerland, October 11-14, 2006, pp. 4-6",
         "title": "Wearable Communicator Badge: Designing a New Platform for Revealing Organizational Dynamics",
         "link": "./pubs/papers/2006-10-ISWC-communicator.pdf",
         "date": "2006"
     },
     {
-        "id": 69,
+
         "dom": "<a target='BLANK'  href=\"./pubs/papers/2006-06-IMU-Baseball.pdf\">IMU Arrays: The Biomechanics of Baseball Pitching</a>, Berkson E., Aylward R., Zachazewski, J, Paradiso J., Gill, T.J., in the Orthopaedic Journal at Harvard Medical School, Vol. 8, November 2006, pp. 90-94.",
         "title": "IMU Arrays: The Biomechanics of Baseball Pitching",
         "link": "./pubs/papers/2006-06-IMU-Baseball.pdf",
         "date": "2006"
     },
     {
-        "id": 70,
+
         "dom": "<a target='BLANK'  href=\"./pubs/papers/2006-07-DAC-Paper.pdf\">Systems for Human-Powered Mobile Computing</a>, Paradiso, J.A., in the Proc. of the IEEE Design Automation Conference (DAC2006), San Francisco, CA, July 24-26, 2006, pp. 645-650.",
         "title": "Systems for Human-Powered Mobile Computing",
         "link": "./pubs/papers/2006-07-DAC-Paper.pdf",
         "date": "2006"
     },
     {
-        "id": 71,
+
         "dom": "<a target='BLANK'  href=\"./pubs/papers/2006-06-NIME06-Sensemble.pdf\">Sensemble: A Wireless, Compact, Multi-User Sensor System for Interactive Dance</a>, Ryan Aylward, and Joseph A. Paradiso, in Proc. of NIME 2006, The 2006 International Conference on New Interfaces for Musical Expression, Paris, France, June 4-8, 2006, pp. 134-139.",
         "title": "Sensemble: A Wireless, Compact, Multi-User Sensor System for Interactive Dance",
         "link": "./pubs/papers/2006-06-NIME06-Sensemble.pdf",
         "date": "2006"
     },
     {
-        "id": 72,
+
         "dom": "<a target='BLANK'  href=\"./pubs/papers/2006-05-434-NanotechPaper.pdf\">Some Novel Applications for Wireless Inertial Sensors</a>, Paradiso, J.A., in Proc. of NSTI Nanotech 2006, Vol. 3, Boston, MA, May 7-11, 2006, pp. 431-434.",
         "title": "Some Novel Applications for Wireless Inertial Sensors",
         "link": "./pubs/papers/2006-05-434-NanotechPaper.pdf",
         "date": "2006"
     },
     {
-        "id": 73,
+
         "dom": "<a target='BLANK'  href=\"./pubs/papers/2006-04-BSN06-Inertial.pdf\">A Compact, Wireless, Wearable Sensor Network for Interactive Dance Ensembles</a>, Ryan Aylward, S. Daniel Lovell, and Joseph A. Paradiso, in Proc. of BSN 2006, The IEEE International Workshop on Wearable and Implantable Body Sensor Networks, Cambridge, Massachusetts, April 3-5, 2006, pp. 65-70.",
         "title": "A Compact, Wireless, Wearable Sensor Network for Interactive Dance Ensembles",
         "link": "./pubs/papers/2006-04-BSN06-Inertial.pdf",
         "date": "2006"
     },
     {
-        "id": 74,
+
         "dom": "<a target='BLANK'  href=\"./pubs/papers/2006-03-spotsBadgeAcm.pdf\">A Sensor Network for Social Dynamics</a>, Laibowitz, M., Gips, J., Aylward, R., Pentland, A., and Paradiso, J.A., in the Proc. of the Fifth International Conference on Information Processing in Sensor Networks (IPSN 06), Nashville, TN, April 19-21, 2006, pp. 483-491.",
         "title": "A Sensor Network for Social Dynamics",
         "link": "./pubs/papers/2006-03-spotsBadgeAcm.pdf",
         "date": "2006"
     },
     {
-        "id": 75,
+
         "dom": "<a target='BLANK'  href=\"./pubs/papers/2006-01-p1-broxton.pdf\">Wireless Sensor Node Localization Using Spectral Graph Drawing and Mesh Relaxation</a>, Broxton, M., Lifton, J., and Paradiso, J.A., ACM Mobile Computing and Communications Review, January 2006, pp. 1-12.",
         "title": "Wireless Sensor Node Localization Using Spectral Graph Drawing and Mesh Relaxation",
         "link": "./pubs/papers/2006-01-p1-broxton.pdf",
         "date": "2006"
     },
     {
-        "id": 76,
+
         "dom": "<a target='BLANK'  href=\"./pubs/papers/2005-10-TagsPaperIEEE.pdf\">An Ultra-Low Power, Optically-Interrogated Smart Tagging and Identification System</a>, Gerardo Barroeta Perez, Mateusz Malinoski, and Joseph A. Paradiso, in Proc. of Auto ID 2005, The Fourth IEEE Workshop on Automatic Identification Advanced Technologies, Buffalo, NY, October 17-18, 2005, pp. 187-192.",
         "title": "An Ultra-Low Power, Optically-Interrogated Smart Tagging and Identification System",
         "link": "./pubs/papers/2005-10-TagsPaperIEEE.pdf",
         "date": "2005"
     },
     {
-        "id": 77,
+
         "dom": "<a target='BLANK'  href=\"./pubs/papers/2005-05-laibowitz.pdf\">Parasitic Mobility for Pervasive Sensor Networks</a>, Laibowitz, M. and Paradiso, J.A. In H. W. Gellersen, R. Want and A. Schmidt (eds): “Pervasive Computing”, Third International Conference, PERVASIVE 2005, Munich, Germany, May 2005, Proceedings. Springer-Verlag, Berlin, pp. 255-278.&nbsp;<strong>Winner of the Best Paper Award</strong>",
         "title": "Parasitic Mobility for Pervasive Sensor Networks",
         "link": "./pubs/papers/2005-05-laibowitz.pdf",
         "date": "2005"
     },
     {
-        "id": 78,
+
         "dom": "<a target='BLANK'  href=\"./pubs/papers/2005-04-aybspots.pdf\">A Compact Modular Wireless Sensor Platform</a>, Benbasat, A.Y. and Paradiso, J.A., in Proceedings of the 2005 Symposium on Information Processing in Sensor Networks (IPSN), Los Angeles, CA, April 25-27, 2005, pp. 410-415.",
         "title": "A Compact Modular Wireless Sensor Platform",
         "link": "./pubs/papers/2005-04-aybspots.pdf",
         "date": "2005"
     },
     {
-        "id": 79,
+
         "dom": "<a target='BLANK'  href=\"./pubs/papers/2005-04-liftonspots.pdf\">Experiences and Directions in Pushpin Computing</a>, Lifton, J., Broxton, M. and Paradiso, J.A., in Proceedings of the 2005 Symposium on Information Processing in Sensor Networks (IPSN), Los Angeles, CA, April 25-27, 2005, pp. 416-421.",
         "title": "Experiences and Directions in Pushpin Computing",
         "link": "./pubs/papers/2005-04-liftonspots.pdf",
         "date": "2005"
     },
     {
-        "id": 80,
+
         "dom": "<a target='BLANK'  href=\"./pubs/papers/2005-04-TapperSensorReview3.1.pdf\">Tracking and Characterizing Knocks Atop Large Interactive Displays</a>, Paradiso, J.A. and Leo, C.-K., in Sensor Review (special issue on vibration and impact sensing), Vol. 25, No. 2, 2005, pp. 134-143.",
         "title": "Tracking and Characterizing Knocks Atop Large Interactive Displays",
         "link": "./pubs/papers/2005-04-TapperSensorReview3.1.pdf",
         "date": "2005"
     },
     {
-        "id": 81,
+
         "dom": "<a target='BLANK'  href=\"./pubs/papers/2005-04-alt_chi-flexigesture.pdf\">Personalization, Expressivity, and Learnability of an Implicit Mapping Strategy for Physical Interfaces</a>, Merrill, D. and Paradiso, J.A., in the Proc. of CHI 2005 Conference on Human Factors in Computing Systems, Extended Abstracts, ACM Press, Portland, OR, April 2-7, 2005, pp. 2152-2161.",
         "title": "Personalization, Expressivity, and Learnability of an Implicit Mapping Strategy for Physical Interfaces",
         "link": "./pubs/papers/2005-04-alt_chi-flexigesture.pdf",
         "date": "2005"
     },
     {
-        "id": 82,
+
         "dom": "<a target='BLANK'  href=\"./pubs/papers/2005-03-CACM-Sensate.jpg\">Sensate Media</a>, Paradiso, J.A.,in Communications of the ACM, Vol. 48, No. 3, March 2005, p. 70.",
         "title": "Sensate Media",
         "link": "./pubs/papers/2005-03-CACM-Sensate.jpg",
         "date": "2005"
     },
     {
-        "id": 83,
+
         "dom": "<a target='BLANK'  href=\"./pubs/papers/2005-02-E-HarvestingPervasivePprnt.pdf\">Energy Scavenging for Mobile and Wireless Electronics</a>, Paradiso, J.A. and Starner, T., IEEE Pervasive Computing, Vol. 4, No. 1, February 2005, pp. 18-27.",
         "title": "Energy Scavenging for Mobile and Wireless Electronics",
         "link": "./pubs/papers/2005-02-E-HarvestingPervasivePprnt.pdf",
         "date": "2005"
     },
     {
-        "id": 84,
+
         "dom": "<a target='BLANK'  href=\"./pubs/papers/2005-01-BroxtonEWSN.pdf\">Localizing a Sensor Network via Collaborative Processing of Global Stimuli</a>, Broxton, M., Lifton, J. and Paradiso, J.A., in the Proc. of the Second European Workshop on Wireless Sensor Networks, Istanbul, Turkey, January 31 – February 2, 2005, pp. 321-332.",
         "title": "Localizing a Sensor Network via Collaborative Processing of Global Stimuli",
         "link": "./pubs/papers/2005-01-BroxtonEWSN.pdf",
         "date": "2005"
     },
     {
-        "id": 85,
+
         "dom": "<a target='BLANK'  href=\"./pubs/books/Starner-Paradiso-CRC.1.452.pdf\">Human Generated Power for Mobile Electronics</a>, Starner, T. and Paradiso, J.A., in Piguet, C. (ed), Low-Power Electronics, CRC Press, Chapter 45,2004, pp. 45-1 – 45-35.",
         "title": "Human Generated Power for Mobile Electronics",
         "link": "./pubs/books/Starner-Paradiso-CRC.1.452.pdf",
         "date": "2004"
     },
     {
-        "id": 86,
+
         "dom": "<a target='BLANK'  href=\"./pubs/papers/2004-10-ayb1135v2.pdf\">Design of a Real-Time Adaptive Power Optimal Sensor System</a>, Benbasat, A.Y. and Paradiso, J.A., in the Proceedings of IEEE Sensors 2004, Vienna, Austria, October 24-27, 2004, pp. 48-51.",
         "title": "Design of a Real-Time Adaptive Power Optimal Sensor System",
         "link": "./pubs/papers/2004-10-ayb1135v2.pdf",
         "date": "2004"
     },
     {
-        "id": 87,
+
         "dom": "<a target='BLANK'  href=\"./pubs/papers/2004-10-BTJJ-Skins.pdf\">Sensate Media – Multimodal Electronic Skins as Dense Sensor Networks</a>, Paradiso, J.A., Lifton. J., and Broxton, M., BT Technology Journal, Vol. 22, No. 4, October 2004, pp. 32-44.",
         "title": "Sensate Media – Multimodal Electronic Skins as Dense Sensor Networks",
         "link": "./pubs/papers/2004-10-BTJJ-Skins.pdf",
         "date": "2004"
     },
     {
-        "id": 88,
+
         "dom": "<a target='BLANK'  href=\"./pubs/papers/2004-08-ArsSynthPaper.pdf\">Modular Synthesizer</a>, Paradiso, J., in Stocker, G., and Schopf, C. (eds), Timeshift (Proc. of Ars Electronica 2004), Hatje Cantz Verlag, Ostfildern-Ruit, Germany, 2004, pp. 364-370.",
         "title": "Modular Synthesizer",
         "link": "./pubs/papers/2004-08-ArsSynthPaper.pdf",
         "date": "2004"
     },
     {
-        "id": 89,
+
         "dom": "<a target='BLANK'  href=\"./pubs/papers/2004-06-ParaMobACM.pdf\">Parasitic Mobility in Dynamically Distributed Sensor Networks</a>, Laibowitz, M., and Paradiso, J.A., in the Proc. of the First ACM Workshop on Applications of Mobile Embedded Systems (WAMES), June 6, 2004.&nbsp;<a target='BLANK'  href=\"http://lcawww.epfl.ch/luo/WAMES%202004.htm\">http://lcawww.epfl.ch/luo/WAMES%202004.htm</a> <a target='BLANK'  href=\"./pubs/papers/2004-05-Z-Tiles.pdf\">Z-Tiles: Building </a>",
         "title": "Parasitic Mobility in Dynamically Distributed Sensor Networks",
         "link": "./pubs/papers/2004-06-ParaMobACM.pdf",
         "date": "2004"
     },
     {
-        "id": 90,
+
         "dom": "<a target='BLANK'  href=\"./pubs/papers/2004-05-Z-Tiles.pdf\">Blocks for Modular, Pressure-Sensing Floorspaces</a>, Richardson, B., Leydon, K., Fernstrom, M., and Paradiso, J.A., in the Proc. of the ACM Conference on Human Factors and Computing Systems (CHI 2004), Extended Abstracts, Vienna, Austria, April 27-29, 2004, pp. 1529-1532.",
         "title": "Blocks for Modular, Pressure-Sensing Floorspaces",
         "link": "./pubs/papers/2004-05-Z-Tiles.pdf",
         "date": "2004"
     },
     {
-        "id": 91,
+
         "dom": "<a target='BLANK'  href=\"./pubs/papers/2004-05-lb657-Paradiso.pdf\">Interactive Therapy with Instrumented Footwear</a>, Paradiso, J.A., Morris, S.J., Benbasat, A.Y., Asmussen, E., in the Proc. of the ACM Conference on Human Factors and Computing Systems (CHI 2004), Extended Abstracts, Vienna, Austria, April 27-29, 2004, pp. 1341-1343.",
         "title": "Interactive Therapy with Instrumented Footwear",
         "link": "./pubs/papers/2004-05-lb657-Paradiso.pdf",
         "date": "2004"
     },
     {
-        "id": 92,
+
         "dom": "<a target='BLANK'  href=\"./pubs/papers/2004-05-lb632-Feldmeier.pdf\">Giveaway Wireless Sensors for Large-Group Interaction</a>, Feldmeier, M., and Paradiso, J.A., in the Proc. of the ACM Conference on Human Factors and Computing Systems (CHI 2004), Extended Abstracts, Vienna, Austria, April 27-29, 2004, pp. 1291-1292.",
         "title": "Giveaway Wireless Sensors for Large-Group Interaction",
         "link": "./pubs/papers/2004-05-lb632-Feldmeier.pdf",
         "date": "2004"
     },
     {
-        "id": 93,
+
         "dom": "<a target='BLANK'  href=\"./pubs/papers/2004-04-Badge-OCG.pdf\">The UbER-Badge, A Versatile Platform at the Juncture Between Wearable and Social Computing</a>, Laibowitz, M., and Paradiso, J.A., in Fersha, A., Hortner, H., Kostis, G. (eds), Advances in Pervasive Computing, Oesterreichische Computer Gesellschaft, 2004, pp.363-368.",
         "title": "The UbER-Badge, A Versatile Platform at the Juncture Between Wearable and Social Computing",
         "link": "./pubs/papers/2004-04-Badge-OCG.pdf",
         "date": "2004"
     },
     {
-        "id": 94,
+
         "dom": "<a target='BLANK'  href=\"./pubs/papers/2004-04-JoeP-BSN-Abstract.pdf\">Wearable Wireless Sensing for Interactive Media</a>, Paradiso, J.A., invited paper given at the First International Workshop on Wearable &amp; Implantable Body Sensor Networks, Imperial College, London, April 6-7, 2004.&nbsp;<a target='BLANK'  href=\"http://www.doc.ic.ac.uk/vip/bsn_2004/home/index.html\">http://www.doc.ic.ac.uk/vip/bsn_2004/home/index.html</a>",
         "title": "Wearable Wireless Sensing for Interactive Mediahttp://www.doc.ic.ac.uk/vip/bsn_2004/home/index.html",
         "link": "./pubs/papers/2004-04-JoeP-BSN-Abstract.pdf",
         "date": "2004"
     },
     {
-        "id": 95,
+
         "dom": "<a target='BLANK'  href=\"./pubs/papers/2003-12-circuit_cellar5.1.pdf\">Wireless Wearable Transceivers</a>, Laibowitz, M., and Paradiso, J., Circuit Cellar #163 February 2004, pp. 28-39.",
         "title": "Wireless Wearable Transceivers",
         "link": "./pubs/papers/2003-12-circuit_cellar5.1.pdf",
         "date": "2003"
     },
     {
-        "id": 96,
+
         "dom": "<a target='BLANK'  href=\"./pubs/papers/2003-06-JNMR-Intro.pdf\">Current Trends in Electronic Music Interfaces – Guest Editors’ Introduction</a>, Paradiso, J.A., O’Modhrain S.,Journal of New Music Research, Vol. 32, No. 4, December 2003, pp. 345-349.",
         "title": "Current Trends in Electronic Music Interfaces – Guest Editors’ Introduction",
         "link": "./pubs/papers/2003-06-JNMR-Intro.pdf",
         "date": "2003"
     },
     {
-        "id": 97,
+
         "dom": "<a target='BLANK'  href=\"http://www.media.mit.edu/resenv/pubs/papers/2003-06-JNMR-Tags.pdf\">Electromagnetic Tagging for Electronic Music Interfaces</a>, Paradiso, J.A., Pardue, L.S., Hsiao, K, Benbasat, A.,Y.,Journal of New Music Research, Vol. 32, No. 4, December 2003, pp. 395-409.",
         "title": "Electromagnetic Tagging for Electronic Music Interfaces",
         "link": "http://www.media.mit.edu/resenv/pubs/papers/2003-06-JNMR-Tags.pdf",
         "date": "2003"
     },
     {
-        "id": 98,
+
         "dom": "<a target='BLANK'  href=\"./pubs/papers/2003-10-Sensors-shoestack.pdf\">A Wireless Modular Sensor Architecture and its Application in On-Shoe Gait Analysis</a>. Benbasat, A.Y., Morris, S.J, and Paradiso, J.A. In the Proceedings of the 2003 IEEE International Conference on Sensors, October 21-24, Toronto, Ontario, pp. 1086-1091.",
         "title": "A Wireless Modular Sensor Architecture and its Application in On-Shoe Gait Analysis",
         "link": "./pubs/papers/2003-10-Sensors-shoestack.pdf",
         "date": "2003"
     },
     {
-        "id": 99,
+
         "dom": "<a target='BLANK'  href=\"./pubs/papers/2003-10-IEEE-Sensors-Nanogate.pdf\">Sub-nanometer Displacement Sensing for the Nanogate</a>. Ma, H., White, J., Paradiso, J., and Slocum, A. In the Proceedings of the 2003 IEEE International Conference on Sensors, October 21-24, Toronto, Ontario, pp. 46-51.",
         "title": "Sub-nanometer Displacement Sensing for the Nanogate",
         "link": "./pubs/papers/2003-10-IEEE-Sensors-Nanogate.pdf",
         "date": "2003"
     },
     {
-        "id": 100,
+
         "dom": "<a target='BLANK'  href=\"./pubs/papers/2003-10-IEEE-Sensors-Tribble.pdf\">Distributed Sensor Networks as Sensate Skin</a>. Lifton, J., Broxton, M., and Paradiso, J.A. In the Proceedings of the 2003 IEEE International Conference on Sensors, October 21-24, Toronto, Ontario, pp. 743-747.",
         "title": "Distributed Sensor Networks as Sensate Skin",
         "link": "./pubs/papers/2003-10-IEEE-Sensors-Tribble.pdf",
         "date": "2003"
     },
     {
-        "id": 101,
+
         "dom": "<a target='BLANK'  href=\"./pubs/papers/2003-07-Paradiso-CACM1.03.pdf\">Tracking Contact and Free Gesture Across Large Interactive Surfaces</a>, Joseph A. Paradiso, Communications of the ACM, Vol. 46, No. 7, July 2003, pp. 62-68.",
         "title": "Tracking Contact and Free Gesture Across Large Interactive Surfaces",
         "link": "./pubs/papers/2003-07-Paradiso-CACM1.03.pdf",
         "date": "2003"
     },
     {
-        "id": 102,
+
         "dom": "<a target='BLANK'  href=\"./pubs/papers/2003-05-JoeP-NIME03-final.pdf\">Dual-Use Technologies for Electronic Music Controllers: A Personal Perspective</a>, Joseph A. Paradiso, Proceedings of the 2003 Conference on New Instruments for Musical Expression (NIME-03), May 22-24, 2003 (Invited Keynote Address), Montreal, Canada, pp. 228-234.",
         "title": "Dual-Use Technologies for Electronic Music Controllers: A Personal Perspective",
         "link": "./pubs/papers/2003-05-JoeP-NIME03-final.pdf",
         "date": "2003"
     },
     {
-        "id": 103,
+
         "dom": "<a target='BLANK'  href=\"./pubs/papers/2003-05-NMRC-Stack.pdf\">Development of distributed sensing systems of autonomous micro-modules</a>, Barton, J., Delaney, K., Bellis, S., O’Mathuna, C., Paradiso, J.A., Benbasat, A., Proceedings of the IEEE Electronic Components and Technology Conference, May 27-30, 2003, pp. 1112-1118.",
         "title": "Development of distributed sensing systems of autonomous micro-modules",
         "link": "./pubs/papers/2003-05-NMRC-Stack.pdf",
         "date": "2003"
     },
     {
-        "id": 104,
+
         "dom": "<a target='BLANK'  href=\"./pubs/papers/2002-12-SIGSS-Offspring.pdf\">A Compact Wearable Sensor Package for Clinical Gait Monitoring</a>&nbsp;S.J. Morris and J.A. Paradiso, Offspring Vol. 1, No. 1, pp. 7-15, January 31, 2003.",
         "title": "A Compact Wearable Sensor Package for Clinical Gait Monitoring",
         "link": "./pubs/papers/2002-12-SIGSS-Offspring.pdf",
         "date": "2002"
     },
     {
-        "id": 105,
+
         "dom": "<a target='BLANK'  href=\"./pubs/papers/2002-06-Paradiso-MAD-print2.pdf\">From Tangibles to Toolkits and Chaos to Convection – Management and Innovation at Leading Design Organizations and Idea Labs</a>&nbsp;Joseph A. Paradiso, Presented at the workshop on&nbsp;<i>Managing as Designing: Creating a vocabulary for management education and research</i>, Weatherhead School of Management, Case Western Reserve University, Cleveland OH, June 14-15, 2002. To be Published, Stanford University Press. See the&nbsp;<a target='BLANK'  href=\"http://design.cwru.edu/2002workshop/Positions/Paradiso.pdf\">Workshop Site</a>&nbsp;for a longer, earlier version.",
         "title": "From Tangibles to Toolkits and Chaos to Convection – Management and Innovation at Leading Design Organizations and Idea LabsWorkshop Site",
         "link": "./pubs/papers/2002-06-Paradiso-MAD-print2.pdf",
         "date": "2002"
     },
     {
-        "id": 106,
+
         "dom": "<a target='BLANK'  href=\"./pubs/papers/2002-10-convergence.pdf\">Performance Driver Information Systems, Enhancing the Fun-to-Drive Equation</a>. Stephen J. Buckley, Joseph Pasek, Ari Y. Benbasat. In Proceedings of the 2002 International Congress on Transportation Electronics: Convergence 2002, SAE Press, Warrendale, October 2002.",
         "title": "Performance Driver Information Systems, Enhancing the Fun-to-Drive Equation",
         "link": "./pubs/papers/2002-10-convergence.pdf",
         "date": "2002"
     },
     {
-        "id": 107,
+
         "dom": "<a target='BLANK'  href=\"./pubs/papers/2002-10-IEEE-EMBS-BMES-Shoe.pdf\">Shoe-integrated sensor system for wireless gait analysis and real-time feedback</a>&nbsp;Stacy J. Morris, Joseph A. Paradiso. Proceedings of the 2nd Joint IEEE EMBS (Engineering in Medicine and Biology Society) and BMES (the Biomedical Engineering Society) Conference, October, 2002, pp. 2468-2469.",
         "title": "Shoe-integrated sensor system for wireless gait analysis and real-time feedback",
         "link": "./pubs/papers/2002-10-IEEE-EMBS-BMES-Shoe.pdf",
         "date": "2002"
     },
     {
-        "id": 108,
+
         "dom": "<a target='BLANK'  href=\"./pubs/papers/2002-10-UbiComp-FindIT.pdf\">The FindIT Flashlight: Responsive Tagging Based on Optically Triggered Microprocessor Wakeup</a>&nbsp;Hongshen Ma, Joseph A. Paradiso. in G. Borriello and L.E. Holmquist (Eds.): UbiComp 2002, LNCS 2498, Springer-Verlag Berlin Heidelberg, 2002, pp. 160-167.",
         "title": "The FindIT Flashlight: Responsive Tagging Based on Optically Triggered Microprocessor Wakeup",
         "link": "./pubs/papers/2002-10-UbiComp-FindIT.pdf",
         "date": "2002"
     },
     {
-        "id": 109,
+
         "dom": "<a target='BLANK'  href=\"./pubs/papers/2002-09-UBICOMP-forsefields.pdf\">‘ForSe FIElds’ – Force Sensors for Interactive Environments</a>, McElligott, L., Dillon, M., Leydon, K., Richardson, B., Fernstrom, M., Paradiso, J.A., in G. Borriello and L.E. Holmquist (Eds.): UbiComp 2002, LNCS 2498, Springer-Verlag Berlin Heidelberg, October 2002, pp. 168-175.",
         "title": "‘ForSe FIElds’ – Force Sensors for Interactive Environments",
         "link": "./pubs/papers/2002-09-UBICOMP-forsefields.pdf",
         "date": "2002"
     },
     {
-        "id": 110,
+
         "dom": "<a target='BLANK'  href=\"./pubs/papers/2002-09-NMRC-UBICOMP-poster.pdf\">Miniature Modular Wireless Sensor Networks</a>, Barton, J., Kelaney, K., O’Mathuna, C., and Paradiso J.A., in L.E. Holmquist and P. Ljungstrand (Eds.): UbiComp 2002 Adjunct Proceedings, Viktoria Institute Press (Gothenburg Sweden), September 2002, pp. 25-26.",
         "title": "Miniature Modular Wireless Sensor Networks",
         "link": "./pubs/papers/2002-09-NMRC-UBICOMP-poster.pdf",
         "date": "2002"
     },
     {
-        "id": 111,
+
         "dom": "<a target='BLANK'  href=\"./pubs/papers/2002-09-ICMC-ultralowcost.pdf\">Large Group Musical Interaction using Disposable Wireless Motion Sensors</a>&nbsp;Mark Feldmeier, Mateusz Malinowski, Joseph A. Paradiso, in the Proceedings of the ICMC 2002 Conference, International Computer Music Association, San Francisco CA, pp. 83-87, September 2002.",
         "title": "Large Group Musical Interaction using Disposable Wireless Motion Sensors",
         "link": "./pubs/papers/2002-09-ICMC-ultralowcost.pdf",
         "date": "2002"
     },
     {
-        "id": 112,
+
         "dom": "<a target='BLANK'  href=\"./pubs/papers/2002-09-PushpinPervasiveWF.pdf\">Pushpin Computing System Overview: a Platform for Distributed, Embedded, Ubiquitous Sensor Networks</a>&nbsp;Joshua Lifton, Deva Seetharam, Michael Broxton, Joseph Paradiso. in F. Mattern and M. Naghshineh (eds): Pervasive 2002, Proceedings of the Pervasive Computing Conference, Zurich Switzerland, 26-28 August 2002, Springer Verlag, Berlin Heidelberg, pp. 139-151.",
         "title": "Pushpin Computing System Overview: a Platform for Distributed, Embedded, Ubiquitous Sensor Networks",
         "link": "./pubs/papers/2002-09-PushpinPervasiveWF.pdf",
         "date": "2002"
     },
     {
-        "id": 113,
+
         "dom": "<a target='BLANK'  href=\"./pubs/papers/2002-07-InteractWindowSG02.pdf\">The Interactive Window</a>&nbsp;Joseph A. Paradiso, Che King Leo, Nicholas Yu, Marc Downie. In SIGGRAPH 2002, Conference Abstracts and Applications, ACM Press, 2002, p. 79.",
         "title": "The Interactive Window",
         "link": "./pubs/papers/2002-07-InteractWindowSG02.pdf",
         "date": "2002"
     },
     {
-        "id": 114,
+
         "dom": "<a target='BLANK'  href=\"./pubs/papers/2002-06-IEEE-Sensors-Tapper.pdf\">Passive Acoustic Sensing for Tracking Knocks Atop Large Interactive Displays</a>&nbsp;Joseph A. Paradiso, Che King Leo, Nisha Checka, Kaijen Hsiao. In the 2002 Proceedings of the 2002 IEEE International Conference on Sensors, Volume 1, Orlando, Florida, June 11-14, pp. 521-527.",
         "title": "Passive Acoustic Sensing for Tracking Knocks Atop Large Interactive Displays",
         "link": "./pubs/papers/2002-06-IEEE-Sensors-Tapper.pdf",
         "date": "2002"
     },
     {
-        "id": 115,
+
         "dom": "<a target='BLANK'  href=\"./pubs/papers/2002-05-02_Hasan_final.pdf\">The Termenova: A Hybrid Free-Gesture Interface</a>&nbsp;Leila Hasan, Nicholas Yu, Joseph A. Paradiso. In Proceedings of the New Interfaces for Musical Expression 2002 (NIME-02) Conference, Dublin Ireland, May 24-26, 2002, pp. 122-127.",
         "title": "The Termenova: A Hybrid Free-Gesture Interface",
         "link": "./pubs/papers/2002-05-02_Hasan_final.pdf",
         "date": "2002"
     },
     {
-        "id": 116,
+
         "dom": "<a target='BLANK'  href=\"./pubs/papers/2002-05-46_pardue-final.pdf\">Musical Navigatrics: New Musical Interactions with Passive Magnetic Tags</a>&nbsp;Laurel S. Pardue, Joseph A Paradiso. In Proceedings of the New Interfaces for Musical Expression 2002 (NIME-02) Conference, Dublin Ireland, May 24-26, 2002, pp. 168-169.",
         "title": "Musical Navigatrics: New Musical Interactions with Passive Magnetic Tags",
         "link": "./pubs/papers/2002-05-46_pardue-final.pdf",
         "date": "2002"
     },
     {
-        "id": 117,
+
         "dom": "<a target='BLANK'  href=\"./pubs/papers/2002-05-JoeP-intro-NIME.pdf\">The Edge of NIME – from Cult to Conference (organizer’s introduction)</a>&nbsp;Joseph A. Paradiso. In Proceedings of the New Interfaces for Musical Expression 2002 (NIME-02) Conference, Dublin Ireland, May 24-26, 2002, pp. iii-v.",
         "title": "The Edge of NIME – from Cult to Conference (organizer’s introduction)",
         "link": "./pubs/papers/2002-05-JoeP-intro-NIME.pdf",
         "date": "2002"
     },
     {
-        "id": 118,
+
         "dom": "<a target='BLANK'  href=\"http://web.media.mit.edu/~joep/SwitchedOnForward.html\">Diary of a Teenage Synth Hacker</a>&nbsp;Joseph A. Paradiso, Forward to Kettlewell, B., Electronic Music Pioneers, ProMusic Press, Vallejo, CA, pp. 4-9, 2002.",
         "title": "Diary of a Teenage Synth Hacker",
         "link": "http://web.media.mit.edu/~joep/SwitchedOnForward.html",
         "date": "2002"
     },
     {
-        "id": 119,
+
         "dom": "<a target='BLANK'  href=\"./pubs/papers/2002-04-tapper-chi-short.pdf\">Passive Acoustic Knock Tracking for Interactive Windows</a>&nbsp;Joseph A. Paradiso, Che King Leo, Nisha Checka, Kaijen Hsiao. In the Proceedings of the ACM CHI2002 Conference, Minneapolis, MN, Extended Abstracts, pp. 732-733, April 20-25, 2002.",
         "title": "Passive Acoustic Knock Tracking for Interactive Windows",
         "link": "./pubs/papers/2002-04-tapper-chi-short.pdf",
         "date": "2002"
     },
     {
-        "id": 120,
+
         "dom": "<a target='BLANK'  href=\"./pubs/papers/2002-02-imu-gw01.pdf\">An Inertial Measurement Framework for Gesture Recognition and Applications</a>&nbsp;Ari Y. Benbasat and Joseph A. Paradiso. In Ipke Wachsmuth, Timo Sowa (Eds.), “Gesture and Sign Language in Human-Computer Interaction,” International Gesture Workshop, GW 2001, London, UK, 2001 Proceedings, Springer-Verlag, Berlin, 2002, pp. 9-20.",
         "title": "An Inertial Measurement Framework for Gesture Recognition and Applications",
         "link": "./pubs/papers/2002-02-imu-gw01.pdf",
         "date": "2002"
     },
     {
-        "id": 121,
+
         "dom": "<a target='BLANK'  href=\"./pubs/papers/2000_12_ISEA_Shoe.pdf\">FootNotes: Personal Reflections on the Development of Instrumented Dance Shoes and their Musical Applications</a>. J. Paradiso, in Quinz, E., ed.,&nbsp;<i>Digital Performance,</i>&nbsp;Anomalie, digital_arts Vol. 2, Anomos, Paris, 2002, pp. 34-49.",
         "title": "FootNotes: Personal Reflections on the Development of Instrumented Dance Shoes and their Musical Applications",
         "link": "./pubs/papers/2000_12_ISEA_Shoe.pdf",
         "date": "2002"
     },
     {
-        "id": 122,
+
         "dom": "<a target='BLANK'  href=\"./pubs/papers/UbiComp-Switch-submitted.pdf\">A Compact, Wireless, Self-Powered Pushbutton Controller</a>&nbsp;Joseph A. Paradiso and Mark Feldmeier. In Abowd, G.D., Brumitt, B., and Shafer, S., eds, “Ubicomp 2001: Ubiquitous Computing,” ACM UBICOMP Conference Proceedings, Atlanta GA, Sept. 2001, Springer-Verlag Berlin Heidelberg, 2001, pp. 299-304.",
         "title": "A Compact, Wireless, Self-Powered Pushbutton Controller",
         "link": "./pubs/papers/UbiComp-Switch-submitted.pdf",
         "date": "2001"
     },
     {
-        "id": 123,
+
         "dom": "<a target='BLANK'  href=\"./pubs/papers/Ubicomp-Dance-Sensors-final.pdf\">Ultra-Low-Cost Wireless Motion Sensors for Musical Interaction with Very Large Groups</a>&nbsp;Joseph Paradiso and Mark Feldmeier. Presented at the UBICOMP 2001 Workshop on Designing Ubiquitous Computing Games, ACM UBICOMP Conference Proceedings, Atlanta GA, Sept. 2001.",
         "title": "Ultra-Low-Cost Wireless Motion Sensors for Musical Interaction with Very Large Groups",
         "link": "./pubs/papers/Ubicomp-Dance-Sensors-final.pdf",
         "date": "2001"
     },
     {
-        "id": 124,
+
         "dom": "<a target='BLANK'  href=\"./pubs/papers/ArsWindow.pdf\">Responsive Window</a>&nbsp;Joseph Paradiso. Takeover – Proc. of Ars Electronica 2001, Springer Vienna/New York, 2001, pp. 261-263.",
         "title": "Responsive Window",
         "link": "./pubs/papers/ArsWindow.pdf",
         "date": "2001"
     },
     {
-        "id": 125,
+
         "dom": "<a target='BLANK'  href=\"./pubs/papers/98_08_PP_wearcon_final.pdf\">Energy Scavenging with Shoe-Mounted Piezoelectrics</a>&nbsp;Nathan S. Shenck, Joseph A. Paradiso. IEEE Micro, Vol. 21, No. 3, May-June 2001, pp. 30-42.",
         "title": "Energy Scavenging with Shoe-Mounted Piezoelectrics",
         "link": "./pubs/papers/98_08_PP_wearcon_final.pdf",
         "date": "2001"
     },
     {
-        "id": 126,
+
         "dom": "<a target='BLANK'  href=\"./pubs/papers/tags-chi01-workshop.pdf\">Tangible Music Interfaces Using Passive Magnetic Tags</a>&nbsp;Joseph A. Paradiso, Kai-yuh Hsiao, and Ari Benbasat, ACM CHI 2001 Conference – Special Workshop on New Interfaces for Musical Expression.",
         "title": "Tangible Music Interfaces Using Passive Magnetic Tags",
         "link": "./pubs/papers/tags-chi01-workshop.pdf",
         "date": "2001"
     },
     {
-        "id": 127,
+
         "dom": "<a target='BLANK'  href=\"./pubs/papers/2001-04-chi-imu.pdf\">Compact, Configurable Inerital Gesture Recognition</a>. A. Benbasat, J. Paradiso, Proceedings of the ACM CHI 2001 Conference – Extended Abstracts, pp. 183-184.",
         "title": "Compact, Configurable Inerital Gesture Recognition",
         "link": "./pubs/papers/2001-04-chi-imu.pdf",
         "date": "2001"
     },
     {
-        "id": 128,
+
         "dom": "<a target='BLANK'  href=\"./pubs/papers/MediaMatrixCHI2001.pdf\">MediaMatrix: Self-organizing Distributed Physical Database</a>. J. Lifton, J. Lee, Proceedings of the ACM CHI 2001 Conference – Extended Abstracts, pp. 193-194.",
         "title": "MediaMatrix: Self-organizing Distributed Physical Database",
         "link": "./pubs/papers/MediaMatrixCHI2001.pdf",
         "date": "2001"
     },
     {
-        "id": 129,
+
         "dom": "<a target='BLANK'  href=\"./pubs/papers/ISJ-Surfaces.pdf\">Sensor Systems for Interactive Surfaces</a>. J. Paradiso, K. Hsiao, J. Strickon, J. Lifton, and A. Adler, IBM Systems Journal, Volume 39, Nos. 3 &amp; 4, October 2000, pp. 892-914.",
         "title": "Sensor Systems for Interactive Surfaces",
         "link": "./pubs/papers/ISJ-Surfaces.pdf",
         "date": "2000"
     },
     {
-        "id": 130,
+
         "dom": "<a target='BLANK'  href=\"./pubs/papers/ISJ-Shoe-1-Paradiso1cjs.pdf\">Design and Implementation of Expressive Footwear</a>. J. Paradiso, K. Hsiao, A. Benbasat, Z. Teegarden, IBM Systems Journal, Volume 39, Nos. 3 &amp; 4, October 2000, pp. 511-529.",
         "title": "Design and Implementation of Expressive Footwear",
         "link": "./pubs/papers/ISJ-Shoe-1-Paradiso1cjs.pdf",
         "date": "2000"
     },
     {
-        "id": 131,
+
         "dom": "<a target='BLANK'  href=\"./pubs/papers/2000_06_ICMC_Surfaces.pdf\">New Sensor and Music Systems for Large Interactive Surfaces</a>&nbsp;J. Paradiso, K. Hsiao, J. Strickon, P. Rice, Proceedings of the International Computer Music Conference (ICMC) 2000, August 2000.",
         "title": "New Sensor and Music Systems for Large Interactive Surfaces",
         "link": "./pubs/papers/2000_06_ICMC_Surfaces.pdf",
         "date": "2000"
     },
     {
-        "id": 132,
+
         "dom": "<a target='BLANK'  href=\"./pubs/papers/SIGGRAPH-Trinkets.jpg\">Musical Trinkets: New Pieces to Play</a>, J. Paradiso, K. Hsiao, A. Benbasat, in SIGGRAPH 2000 Conference Abstracts and Applications, ACM Press, NY, July 2000, p. 90.",
         "title": "Musical Trinkets: New Pieces to Play",
         "link": "./pubs/papers/SIGGRAPH-Trinkets.jpg",
         "date": "2000"
     },
     {
-        "id": 133,
+
         "dom": "<a target='BLANK'  href=\"./pubs/papers/Intel%20CC-2.pdf\">Renewable Energy Sources for the Future of Mobile and Embedded Computing</a>&nbsp;J. Paradiso, Invited talk given at the&nbsp;<a target='BLANK'  href=\"http://www.intel.com/intel/cccon/\">Computing Continuum Conference</a>, San Francisco, CA, March 16, 2000.",
         "title": "Renewable Energy Sources for the Future of Mobile and Embedded ComputingComputing Continuum Conference",
         "link": "http://wean1.ulib.org/Lectures/Symposia/Intel%20Computer%20Continuum%20Conference/20.0%20Joe%20Paradiso/6SLIDES/2_-_Dr_Joe_Paradiso.ppt",
         "date": "2000"
     },
     {
-        "id": 134,
+
         "dom": "<a target='BLANK'  href=\"./pubs/papers/99_12_CHI00_Shoe.pdf\">Interfacing to the Foot: Apparatus and Applications</a>, J. Paradiso, K. Hsiao, A. Benbasat, Proceedings of the ACM CHI 2000 Conference; Extended Abstracts, pp. 175-176.",
         "title": "Interfacing to the Foot: Apparatus and Applications",
         "link": "./pubs/papers/99_12_CHI00_Shoe.pdf",
         "date": "2000"
     },
     {
-        "id": 135,
+
         "dom": "<a target='BLANK'  href=\"http://www.newmusicbox.org/articles/American-Innovations-in-Electronic-Musical-Instruments/\">American Innovations in Electronic Musical Instruments</a>&nbsp;J. Paradiso, article in the “New Music Box” monthly online periodical of the&nbsp;<a target='BLANK'  href=\"http://www.amc.net/\">American Music Center</a>, October 1999 .",
         "title": "American Innovations in Electronic Musical InstrumentsAmerican Music Center",
         "link": "http://www.newmusicbox.org/articles/American-Innovations-in-Electronic-Musical-Instruments/",
         "date": "1999"
     },
     {
-        "id": 136,
+
         "dom": "<a target='BLANK'  href=\"./pubs/papers/99_10_ICMC_Shoe.pdf\">Interactive Music for Instrumented Dancing Shoes</a>&nbsp;J. Paradiso, K. Hsiao and E. Hu, Proc. of the 1999 International Computer Music Conference, October 1999, pp. 453-456.",
         "title": "Interactive Music for Instrumented Dancing Shoes",
         "link": "./pubs/papers/99_10_ICMC_Shoe.pdf",
         "date": "1999"
     },
     {
-        "id": 137,
+
         "dom": "<a target='BLANK'  href=\"./pubs/papers/99_10_ICMC_Tags.pdf\">A New Continuous Multimodal Musical Controller Using Wireless Magnetic Tags</a>&nbsp;K. Hsiao and J. Paradiso, Proc. of the 1999 International Computer Music Conference, October 1999, pp. 24-27.",
         "title": "A New Continuous Multimodal Musical Controller Using Wireless Magnetic Tags",
         "link": "./pubs/papers/99_10_ICMC_Tags.pdf",
         "date": "1999"
     },
     {
-        "id": 138,
+
         "dom": "<a target='BLANK'  href=\"./pubs/papers/99_05_CHI99_Tags.pdf\">Swept Frequency, Magnetically-Coupled Resonant Tags for Realtime, Continuous, Multiparameter Control</a>&nbsp;J. Paradiso and K. Hsiao, Human Factors in Computing Systems; CHI99 Extended Abstracts, 1999, pp. 212-213.",
         "title": "Swept Frequency, Magnetically-Coupled Resonant Tags for Realtime, Continuous, Multiparameter Control",
         "link": "./pubs/papers/99_05_CHI99_Tags.pdf",
         "date": "1999"
     },
     {
-        "id": 139,
+
         "dom": "<a target='BLANK'  href=\"./pubs/papers/98_11_IDAT99_Shoe.pdf\">The CyberShoe: A Wireless Multisensor Interface for a Dancer’s Feet</a>&nbsp;Joseph Paradiso, Eric Hu, Kai-yuh Hsiao. Proc. of International Dance and Technology 99, Tempe AZ, Feb. 26-28, 1999, FullHouse Publishing, Lethbridge, Alberta, pp. 57-60, June 2000.",
         "title": "The CyberShoe: A Wireless Multisensor Interface for a Dancer’s Feet",
         "link": "./pubs/papers/98_11_IDAT99_Shoe.pdf",
         "date": "1999"
     },
     {
-        "id": 140,
+
         "dom": "<a target='BLANK'  href=\"./pubs/papers/98_3_JNMR_Brain_Opera.pdf\">The Brain Opera Technology: New Instruments and Gestural Sensors for Musical Interaction and Performance</a>&nbsp;Joseph Paradiso. Journal of New Music Research, Vol. 28, No. 2, 1999, pp. 130-149. For additional information and video clips,&nbsp;<a target='BLANK'  href=\"http://www.swets.nl/jnmr/vol28_2.html\">visit their online site</a>.",
         "title": "The Brain Opera Technology: New Instruments and Gestural Sensors for Musical Interaction and Performancevisit their online site",
         "link": "./pubs/papers/98_3_JNMR_Brain_Opera.pdf",
         "date": "1999"
     },
     {
-        "id": 141,
+
         "dom": "<a target='BLANK'  href=\"./pubs/papers/98_08_PP_wearcon_final.pdf\">Parasitic Power Harvesting in Shoes</a>&nbsp;John Kymisis, Clyde Kendall, Joseph Paradiso, and Neil Gershenfeld. Proc. of the Second IEEE International Conference on Wearable Computing, (ISWC), IEEE Computer Society Press, pp. 132-139, October 1998.",
         "title": "Parasitic Power Harvesting in Shoes",
         "link": "./pubs/papers/98_08_PP_wearcon_final.pdf",
         "date": "1998"
     },
     {
-        "id": 142,
+
         "dom": "<a target='BLANK'  href=\"./pubs/papers/98_07_CMI_Shoe.pdf\">Instrumented Footwear for Interactive Dance</a>&nbsp;Joseph Paradiso, Eric Hu, and Kai-Yuh Hsiao. Proc. of the XII Colloquium on Musical Informatics, Gorizia, Italy, September 24-26, 1998, pp. 89-92.",
         "title": "Instrumented Footwear for Interactive Dance",
         "link": "./pubs/papers/98_07_CMI_Shoe.pdf",
         "date": "1998"
     },
     {
-        "id": 143,
+
         "dom": "<a target='BLANK'  href=\"./pubs/papers/98_07_SIGGRAPH_laser.jpg\">Stretchable music with laser rangefinder</a>&nbsp;Strickon, J., Rice, P., and Paradiso, J., In SIGGRAPH 98 Conference Abstracts and Applications, ACM Press, 1998,p. 123.",
         "title": "Stretchable music with laser rangefinder",
         "link": "./pubs/papers/98_07_SIGGRAPH_laser.jpg",
         "date": "1998"
     },
     {
-        "id": 144,
+
         "dom": "<a target='BLANK'  href=\"./pubs/papers/98_1_CHI98_Laser.pdf\">Tracking Hands Above Large Interactive Surfaces with a Low-Cost Scanning Laser Rangefinder</a>&nbsp;Joshua Strickon, Joseph Paradiso. In CHI98; Extended Abstracts, ACM Press, NY, April 1998, pp. 231-232.",
         "title": "Tracking Hands Above Large Interactive Surfaces with a Low-Cost Scanning Laser Rangefinder",
         "link": "./pubs/papers/98_1_CHI98_Laser.pdf",
         "date": "1998"
     },
     {
-        "id": 145,
+
         "dom": "<a target='BLANK'  href=\"./pubs/papers/g3gei2.pdf\">Getting the Picture: Guest Editor’s Introduction</a>&nbsp;Joseph Paradiso. IEEE Computer Graphics and Applications, Vol. 18, No. 3, May-June 1998, pp. 26-27.",
         "title": "Getting the Picture: Guest Editor’s Introduction",
         "link": "./pubs/papers/g3gei2.pdf",
         "date": "1998"
     },
     {
-        "id": 146,
+
         "dom": "<a target='BLANK'  href=\"./pubs/papers/98_02_CGA_Final.pdf\">Electric Field Sensing for Graphical Interfaces</a>&nbsp;Joshua Smith, Tom White, Christopher Dodge, David Allport, Joseph Paradiso, Neil Gershenfeld. IEEE Computer Graphics and Applications, Vol. 18, No. 3, May-June 1998, pp. 54-60.",
         "title": "Electric Field Sensing for Graphical Interfaces",
         "link": "./pubs/papers/98_02_CGA_Final.pdf",
         "date": "1998"
     },
     {
-        "id": 147,
+
         "dom": "<a target='BLANK'  href=\"./pubs/papers/97-12-SpectrumScan-BW.pdf\">Electronic Music Interfaces: New Ways to Play</a>&nbsp;J. Paradiso, IEEE Spectrum Magazine, Vol. 34, No. 12, pp. 18-30 (Dec., 1997). Note: an expanded version with more detail is posted&nbsp;<a target='BLANK'  href=\"http://www.media.mit.edu/~joep/ieee.html\">here on our site</a>.",
         "title": "Electronic Music Interfaces: New Ways to Playhere on our site",
         "link": "./pubs/papers/97-12-SpectrumScan-BW.pdf",
         "date": "1997"
     },
     {
-        "id": 148,
+
         "dom": "<a target='BLANK'  href=\"./pubs/papers/97_10_Wearcon_Shoe.pdf\">Expressive Footwear for Computer-Augmented Dance Performance</a>&nbsp;J. Paradiso and E. Hu, in Proc. of the First International Symposium on Wearable Computers, Cambridge, MA., IEEE Computer Society Press, Oct. 13-14, 1997, pp. 165-166.",
         "title": "Expressive Footwear for Computer-Augmented Dance Performance",
         "link": "./pubs/papers/97_10_Wearcon_Shoe.pdf",
         "date": "1997"
     },
     {
-        "id": 149,
+
         "dom": "<a target='BLANK'  href=\"./pubs/papers/97_09_Zurich_3D4.pdf\">Optical Tracking for Music and Dance Performance</a>&nbsp;J. Paradiso, F. Sparacino, in “Optical 3-D Measurement Techniques IV”, A. Gruen, H. Kahmen eds., Herbert Wichmann Verlag, Heidelberg Germany, pp. 11-18 (1997).",
         "title": "Optical Tracking for Music and Dance Performance",
         "link": "./pubs/papers/97_09_Zurich_3D4.pdf",
         "date": "1997"
     },
     {
-        "id": 150,
+
         "dom": "<a target='BLANK'  href=\"./pubs/papers/97_03_CHI97_Floor.pdf\">The Magic Carpet: Physical Sensing for Immersive Environments</a>&nbsp;J. Paradiso, C. Abler, KY. Hsiao, M. Reynolds, in Proc. of the CHI ’97 Conference on Human Factors in Computing Systems, Extended Abstracts, ACM Press, NY, pp. 277-278(1997).",
         "title": "The Magic Carpet: Physical Sensing for Immersive Environments",
         "link": "./pubs/papers/97_03_CHI97_Floor.pdf",
         "date": "1997"
     },
     {
-        "id": 151,
+
         "dom": "<a target='BLANK'  href=\"./pubs/papers/97_05_NIM_preprint.pdf\">New Technologies for Monitoring the Precision Alignment of Large Detector Systems</a>&nbsp;J. Paradiso, Nuclear Instruments and Methods in Physics Research A386, pp. 409-420 (1997).",
         "title": "New Technologies for Monitoring the Precision Alignment of Large Detector Systems",
         "link": "./pubs/papers/97_05_NIM_preprint.pdf",
         "date": "1997"
     },
     {
-        "id": 152,
+
         "dom": "<a target='BLANK'  href=\"./pubs/papers/96_04_cmj.pdf\">Musical Applications of Electric Field Sensing</a>&nbsp;Joseph A. Paradiso and Neil Gershenfeld, Computer Music Journal 21(2), Summer 1997, pp. 69-89.",
         "title": "Musical Applications of Electric Field Sensing",
         "link": "./pubs/papers/96_04_cmj.pdf",
         "date": "1997"
     },
     {
-        "id": 153,
+
         "dom": "<a target='BLANK'  href=\"./pubs/papers/96_04_IBM_Balloon_Paper.pdf\">The Interactive Balloon; Sensing, Actuation and Behavior in a Common Object</a>&nbsp;Joseph A. Paradiso, IBM Systems Journal 35, pp. 473-488 (1996).",
         "title": "The Interactive Balloon; Sensing, Actuation and Behavior in a Common Object",
         "link": "./pubs/papers/96_04_IBM_Balloon_Paper.pdf",
         "date": "1996"
     },
     {
-        "id": 154,
+
         "dom": "<a target='BLANK'  href=\"./pubs/papers/Telecomm96.pdf\">High-Resolution Piezopolymer Acoustic Bearing Estimator</a>&nbsp;Shawn E. Burke and Joseph A. Paradiso, Presented at the Second Technical Conference on Telecommunications R&amp;D in Massachusetts, University of Massachusetts, Lowell MA, March 12, 1996.",
         "title": "High-Resolution Piezopolymer Acoustic Bearing Estimator",
         "link": "./pubs/papers/Telecomm96.pdf",
         "date": "1996"
     },
     {
-        "id": 155,
+
         "dom": "<a target='BLANK'  href=\"./pubs/papers/LRS-Electronics-Paper.pdf\">Electronics for the Precision Alignment of the GEM Muon System</a>&nbsp;J. Paradiso and D. Marlow, Proc. of the 1994 LeCroy Electronics for Future Colliders Conference, LeCroy Corp., Chestnut Ridge, NY, May 1994, pp. 235-249.",
         "title": "Electronics for the Precision Alignment of the GEM Muon System",
         "link": "./pubs/papers/LRS-Electronics-Paper.pdf",
         "date": "1994"
     },
     {
-        "id": 156,
+
         "dom": "<em>Note: Prof. Paradiso’s prior publications are listed at his <a target='BLANK'  href=\"http://web.media.mit.edu/~joep/pubs.pdf\">publications website</a>.</em>",
         "title": "publications website",
         "link": "http://web.media.mit.edu/~joep/pubs.pdf",

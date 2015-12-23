@@ -3,14 +3,20 @@ var black, feedback = null, animDur = 100,logoAnimation;
 var page = function(name){
     location.hash = name;
     var container = $(".container");
+    var sub = $(".sub-container");
     switch (name){
         case "Projects":
             var template = $('#tpl-projects').html();
+            var pid=0;
             Mustache.parse(template);
             container.hide().html('');
             $.getJSON('projects.json?'+~~(Math.random()*1000),function(data){
                 $.each(data, function(i, project){
+                    console.log(project)
+                    project.id ="p-"+pid++;
                     project.categories = project.categories.join(", ");
+                    project.contributors = project.contributors.join(", ");
+                    project.link ="#p-"+project.name.split(" ").join("-").toLowerCase();
                     var rendered = Mustache.render(template, project);
                     container.append(rendered).fadeIn("fast");
                     if(JSON.parse(localStorage.getItem("black")) == true)
@@ -18,7 +24,15 @@ var page = function(name){
                     else
                         container.find(".date").addClass("black")
                 });
-            })
+                $("a#read-more").on('click', function(e){
+                    e.preventDefault();
+                    sub.fadeIn(100);
+                    var dom = $(this).parent().parent().find(".more-info").html();
+                    sub.find(".panel").html(dom);
+                });
+            });
+
+
         break;
         case "Publications":
             var template = $('#tpl-publications').html();
@@ -169,49 +183,6 @@ var randomCol = function(col1, col2){
     icons.css({"background":col2, "color":col1})
 }
 
-// var tilttolive = function (delay, stop){
-//
-//     // Precentage Variables
-//     var px = 0;
-//     var py = 0;
-//
-//      // Acceleration
-//      var ax = 0;
-//      var ay = 0;
-//
-//      var thisPage = 0;
-//
-//      var vMultiplier = 0.01;
-//
-//        if (window.DeviceMotionEvent==undefined) {
-//
-//        } else {
-//            window.ondevicemotion = function(event) {
-//
-//                ax = event.accelerationIncludingGravity.x;
-//                ay = event.accelerationIncludingGravity.y;
-//            }
-//             if(stop){
-//
-//                 clearInterval(feedback);
-//             }
-//             else {
-//            feedback = setInterval(function() {
-//
-//
-//                px = ax*100/6;
-//                py = ay*100/6;
-//                 if(py<=50){
-//                     //randomCol('#'+Math.floor(Math.random()*16777215).toString(16),'#'+Math.floor(Math.random()*16777215).toString(16))
-//                 }
-//                 else if(py>=50){
-//                     randomCol('#'+Math.floor(Math.random()*16777215).toString(16),'#'+Math.floor(Math.random()*16777215).toString(16))
-//                     }
-//
-//            }, delay);}
-//        }
-// }
-
 var randomTheme = function(){
     randomCol('#'+(~~(Math.random()*16777215)).toString(16),'#'+(~~(Math.random()*16777215)).toString(16));
 }
@@ -252,6 +223,13 @@ $(document).ready(function(){
     }
 
     //Click events
+    $(document).on("click", function(e){
+        console.log(e.target);
+        var sub = $(".sub-container");
+        if( $(e.target).attr("id") != "read-more" && $(e.target).attr("class") != "sub-container")
+            sub.fadeOut(20);
+
+    })
     $("#logo").on('click', function(){
         window.location.replace('#');
         if( $(".navigation").hasClass("onIt")){
@@ -292,17 +270,6 @@ $(document).ready(function(){
             }
         }
     })
-    // var tilt=false;
-    // $(".tilt-tolive").on("click", function(){
-    //     tilt=!tilt;
-    //     if(tilt)
-    //         tilttolive(100,false)
-    //     else{
-    //         $(".color-clit").trigger("click");
-    //         tilttolive(100,true)
-    //     }
-    //     $(this).toggleClass("tilt-select");
-    // });
 
     $(".tilt-tolive").on("click", function(){randomTheme();})
 
@@ -324,6 +291,7 @@ $(document).ready(function(){
         $('.navigation li').css('opacity','0.7');
         if($(this).parent().hasClass('onIt')){
             page(thisEl.text())
+
         }
         else {
             $("svg").animate({

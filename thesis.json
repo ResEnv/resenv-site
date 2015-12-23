@@ -1,479 +1,425 @@
-[
-    {
-        "id": 52,
-        "author": "Matt Aldrich",
-        "title": "Experiential Lighting - Development and Validation of Perception-based Lighting Controls",
-        "link": "./pubs/theses/aldrich-phd.2014.pdf",
-        "type": "PhD",
-        "date": " August 2014.",
-        "text": "Matt Aldrich – Experiential Lighting - Development and Validation of Perception-based Lighting Controls August 2014."
-    },
-    {
-        "id": 0,
-        "author": "Nan-Wei Gong ",
-        "title": "Design and Applications of Inkjet-Printed Flexible Sensate Surfaces",
-        "link": "#",
-        "type": "PhD",
-        "date": " August 2013.",
-        "text": "Nan-Wei Gong – Design and Applications of Inkjet-Printed Flexible Sensate Surfaces(PhD) August 2013."
-    },
-    {
-        "id": 1,
-        "author": "Micahel Lapinski ",
-        "title": "A Platform for High-Speed Biomechanical Data Analysis using Wearable Wireless Sensors",
-        "link": "./pubs/theses/lapinski-phd.2013.pdf",
-        "type": "PhD",
-        "date": " August 2013.",
-        "text": "Micahel Lapinski –- A Platform for High-Speed Biomechanical Data Analysis using Wearable Wireless Sensors (PhD) August 2013."
-    },
-    {
-        "id": 2,
-        "author": "Amit Zoran ",
-        "title": "Hybrid re.Assemblage Bridging Traditional Craft and Digital Design",
-        "link": "./pubs/theses/zoran-phd.2013.pdf",
-        "type": "PhD",
-        "date": " August 2013.",
-        "text": "Amit Zoran – Hybrid re.Assemblage Bridging Traditional Craft and Digital Design (PhD) August 2013."
-    },
-    {
-        "id": 3,
-        "author": "Bo Morgan ",
-        "title": "A Substrate for Accountable Layered Systems",
-        "link": "./pubs/theses/morgan-phd.2013.pdf",
-        "type": "PhD",
-        "date": " August 2013.",
-        "text": "Bo Morgan – A Substrate for Accountable Layered Systems (PhD) August 2013."
-    },
-    {
-        "id": 4,
-        "author": "Brian Mayton ",
-        "title": "WristQue: A Personal Sensor Wristband for Smart Infrastructure and Control ",
-        "link": "./pubs/theses/bmayton_thesis_final.pdf",
-        "type": "MS",
-        "date": " February 2013.",
-        "text": "Brian Mayton – WristQue: A Personal Sensor Wristband for Smart Infrastructure and Control (MS) February 2013."
-    },
-    {
-        "id": 5,
-        "author": "Nick Joliat ",
-        "title": "DoppelLab: Spatialized Data Sonification in a 3D Virtual Environment ",
-        "link": "./pubs/theses/njoliat_thesis_final.pdf",
-        "type": "M.Eng",
-        "date": " February 2013.",
-        "text": "Nick Joliat – DoppelLab: Spatialized Data Sonification in a 3D Virtual Environment (M.Eng) February 2013."
-    },
-    {
-        "id": 6,
-        "author": "Gershon Dublon ",
-        "title": "Beyond the Lends: Communicating Conext through Sensing, Video and Visualization ",
-        "link": "./pubs/theses/gershon-ms.pdf",
-        "type": "MS",
-        "date": " September 2011.",
-        "text": "Gershon Dublon – Beyond the Lends: Communicating Conext through Sensing, Video and Visualization (MS) September 2011."
-    },
-    {
-        "id": 7,
-        "author": "Laurel Pardue ",
-        "title": "Expressive Re-Performance ",
-        "link": "./pubs/theses/PardueThesis2011.pdf",
-        "type": "MS",
-        "date": " September 2011.",
-        "text": "Laurel Pardue – Expressive Re-Performance (MS) September 2011."
-    },
-    {
-        "id": 8,
-        "author": "Rachel Bainbridge ",
-        "title": "HCI Gesture Tracking Using Wearable Passive Tags",
-        "link": "./pubs/theses/Rachel-main.pdf",
-        "type": "M.Eng",
-        "date": " September 2010.",
-        "text": "Rachel Bainbridge –- HCI Gesture Tracking Using Wearable Passive Tags (M.Eng) September 2010."
-    },
-    {
-        "id": 9,
-        "author": "Nan Zhao ",
-        "title": "Smart Solid-State Lighting Control ",
-        "link": "./pubs/theses/nanzhao-diplom.pdf",
-        "type": "Diplom – RWTH Aachen",
-        "date": " September 2010. ",
-        "text": "Nan Zhao – Smart Solid-State Lighting Control (Diplom – RWTH Aachen) September 2010. "
-    },
-    {
-        "id": 10,
-        "author": "Alexander Reben ",
-        "title": "Interactive Physical Agents for Story Gathering ",
-        "link": "./pubs/theses/areben-ms.pdf",
-        "type": "MS",
-        "date": " June 2010. ",
-        "text": "Alexander Reben – Interactive Physical Agents for Story Gathering (MS) June 2010. "
-    },
-    {
-        "id": 11,
-        "author": "Matthew Aldrich ",
-        "title": "Dynamic Solid State Lighting ",
-        "link": "./pubs/theses/aldrich-ms.pdf",
-        "type": "MS",
-        "date": " June 2010.  ",
-        "text": "Matthew Aldrich – Dynamic Solid State Lighting (MS) June 2010.  "
-    },
-    {
-        "id": 12,
-        "author": "Mathew Laibowitz ",
-        "title": "Creating Cohesive Video with the Narrative-Informed use of Ubiquitous Wearable and Imaging Sensor Networks",
-        "link": "./pubs/theses/mat_thesis_finale_3.pdf",
-        "type": "PhD",
-        "date": " January 2010. ",
-        "text": "Mathew Laibowitz – Creating Cohesive Video with the Narrative-Informed use of Ubiquitous Wearable and Imaging Sensor Networks (PhD) January 2010. "
-    },
-    {
-        "id": 13,
-        "author": "Clemens Satzger ",
-        "title": " Fusion of Six-Dimensional Sensor Data Using Physics Engines",
-        "link": "./pubs/theses/Fusion%20of%20Six%20Dimensional%20Sensor%20Data%20using%20Physics%20Engines.pdf",
-        "type": "Diplom – TU München",
-        "date": " January 2010.",
-        "text": "Clemens Satzger – Fusion of Six-Dimensional Sensor Data Using Physics Engines (Diplom – TU München) January 2010."
-    },
-    {
-        "id": 14,
-        "author": "Mark Feldmeier ",
-        "title": "Personalized Building Comfort Control ",
-        "link": "./pubs/theses/feldmeier-phd-150dpi.pdf",
-        "type": "PhD",
-        "date": " September 2009. ",
-        "text": "Mark Feldmeier – Personalized Building Comfort Control (PhD) September 2009. "
-    },
-    {
-        "id": 15,
-        "author": "Nan-Wei Gong ",
-        "title": "Configurable Dynamic Privacy for Pervasive Sensor Networks ",
-        "link": "./pubs/theses/NanWeiGong_MSthesis.pdf",
-        "type": "MS",
-        "date": " September 2009. ",
-        "text": "Nan-Wei Gong – Configurable Dynamic Privacy for Pervasive Sensor Networks (MS) September 2009. "
-    },
-    {
-        "id": 16,
-        "author": "Michael Lapinski ",
-        "title": "A Wearable, Wireless Sensor System for Sports Medicine",
-        "link": "./pubs/theses/mtl-main-V8.pdf",
-        "type": "MS",
-        "date": " September 2008. ",
-        "text": "Michael Lapinski – A Wearable, Wireless Sensor System for Sports Medicine (MS) September 2008. "
-    },
-    {
-        "id": 17,
-        "author": "Behram Mistree ",
-        "title": "A Flexible High-Density Sensor Network ",
-        "link": "./pubs/theses/bftm_finalThesis.pdf",
-        "type": "MEng",
-        "date": " September 2008. ",
-        "text": "Behram Mistree – A Flexible High-Density Sensor Network (MEng) September 2008. "
-    },
-    {
-        "id": 18,
-        "author": "Manas Mittal ",
-        "title": "Ubicorder: A Mobile Interface to Sensor Networks",
-        "link": "./pubs/theses/Manas-MS-document.pdf",
-        "type": "MS",
-        "date": " September 2007. ",
-        "text": "Manas Mittal – Ubicorder: A Mobile Interface to Sensor Networks (MS) September 2007. "
-    },
-    {
-        "id": 19,
-        "author": "Joshua Lifton ",
-        "title": "Dual Reality: An Emerging Medium",
-        "link": "./pubs/theses/lifton_phd.pdf",
-        "type": "PhD",
-        "date": " September 2007. ",
-        "text": "Joshua Lifton – Dual Reality: An Emerging Medium(PhD) September 2007. "
-    },
-    {
-        "id": 20,
-        "author": "Robert N. Jacobs ",
-        "title": "A Wireless Sensor-based Mobile Music Environment Compiled from a Graphical Language ",
-        "link": "./pubs/theses/rnj-thesis.pdf",
-        "type": "MEng",
-        "date": " September 2007. ",
-        "text": "Robert N. Jacobs – A Wireless Sensor-based Mobile Music Environment Compiled from a Graphical Language (MEng) September 2007. "
-    },
-    {
-        "id": 21,
-        "author": "Jason LaPenta ",
-        "title": "Real-time 3-d Localization using Radar and Passive Surface Acoustic Wave Transponders",
-        "link": "./pubs/theses/j.lapenta.ms.thesis.pdf",
-        "type": "MS",
-        "date": " August 2007. ",
-        "text": "Jason LaPenta – Real-time 3-d Localization using Radar and Passive Surface Acoustic Wave Transponders (MS) August 2007. "
-    },
-    {
-        "id": 22,
-        "author": "Ari Y. Benbasat ",
-        "title": "An Automated Framework for Power-Efficient Detection in Embedded Sensor Systems",
-        "link": "./pubs/theses/ayb-phd.pdf",
-        "type": "PhD",
-        "date": " February 2007. ",
-        "text": "Ari Y. Benbasat – An Automated Framework for Power-Efficient Detection in Embedded Sensor Systems (PhD) February 2007. "
-    },
-    {
-        "id": 23,
-        "author": "Mateusz K. Malinowski ",
-        "title": "CargoNet: Micropower Sensate Tags for Supply-Chain Management and Security ",
-        "link": "./pubs/theses/malinowski_meng.pdf",
-        "type": "MEng",
-        "date": " February 2007. ",
-        "text": "Mateusz K. Malinowski – CargoNet: Micropower Sensate Tags for Supply-Chain Management and Security (MEng) February 2007. "
-    },
-    {
-        "id": 24,
-        "author": "Bo Morgan ",
-        "title": "Learning Commonsense Human-language Descriptions from Temporal and Spatial Sensor-network Data",
-        "link": "./pubs/theses/morgan_thesis.pdf",
-        "type": "MS",
-        "date": " August 2006. ",
-        "text": "Bo Morgan – Learning Commonsense Human-language Descriptions from Temporal and Spatial Sensor-network Data (MS) August 2006. "
-    },
-    {
-        "id": 25,
-        "author": "Ryan Aylward ",
-        "title": "Sensemble: A Wireless Inertial Sensor System for Interactive Dance and Collective Motion Analysis ",
-        "link": "./pubs/theses/aylward_thesis.pdf",
-        "type": "MS",
-        "date": " August 2006. ",
-        "text": "Ryan Aylward – Sensemble: A Wireless Inertial Sensor System for Interactive Dance and Collective Motion Analysis (MS) August 2006. "
-    },
-    {
-        "id": 26,
-        "author": "Daniel Sang Kim ",
-        "title": "Sensor Network Localization Based on Natural Phenomena ",
-        "link": "./pubs/theses/DanielKimThesis.pdf",
-        "type": "MEng",
-        "date": " August 2006. ",
-        "text": "Daniel Sang Kim – Sensor Network Localization Based on Natural Phenomena (MEng) August 2006. "
-    },
-    {
-        "id": 27,
-        "author": "Gerardo Barroeta Péerez ",
-        "title": "S.N.A.K.E.: A Dynamically Reconfigurable Artificial Sensate Skin ",
-        "link": "./pubs/theses/Jerry_BP_Thesis.pdf",
-        "type": "MS",
-        "date": " August 2006. ",
-        "text": "Gerardo Barroeta Péerez – S.N.A.K.E.: A Dynamically Reconfigurable Artificial Sensate Skin (MS) August 2006. "
-    },
-    {
-        "id": 28,
-        "author": "Dan Lovell ",
-        "title": "A System for Real-Time Gesture Recognition and Classification of Coordinated Motion ",
-        "link": "./pubs/theses/LovellMEngThesis.pdf",
-        "type": "MEng",
-        "date": " January 2005. ",
-        "text": "Dan Lovell – A System for Real-Time Gesture Recognition and Classification of Coordinated Motion (MEng) January 2005. "
-    },
-    {
-        "id": 29,
-        "author": "Michael Broxton ",
-        "title": "Localization and Sensing Applications in the Pushpin Computing Network ",
-        "link": "./pubs/theses/Broxton-MEng-Thesis.pdf",
-        "type": "MEng",
-        "date": " January 2005. ",
-        "text": "Michael Broxton – Localization and Sensing Applications in the Pushpin Computing Network (MEng) January 2005. "
-    },
-    {
-        "id": 30,
-        "author": "Mat Laibowitz ",
-        "title": "Parasitic Mobility for Sensate Media",
-        "link": "./pubs/theses/matParasiticMobilityMSthesis.pdf",
-        "type": "MS",
-        "date": " August 2004. ",
-        "text": "Mat Laibowitz – Parasitic Mobility for Sensate Media (MS) August 2004. "
-    },
-    {
-        "id": 31,
-        "author": "Stacy J Morris ",
-        "title": "A Shoe-Integrated Sensor System for Wireless Gait Analysis and Real-Time Therapeutic Feedback ",
-        "link": "./pubs/theses/sjmorrisSCDthesis.pdf",
-        "type": "PhD",
-        "date": " June 2004. ",
-        "text": "Stacy J Morris – A Shoe-Integrated Sensor System for Wireless Gait Analysis and Real-Time Therapeutic Feedback (PhD) June 2004. "
-    },
-    {
-        "id": 32,
-        "author": "David Merrill ",
-        "title": "FlexiGesture: An sensor-rich real-time adaptive gesture and affordance learning platform for electronic music control ",
-        "link": "./pubs/theses/dmerrill_thesis.pdf",
-        "type": "MS",
-        "date": " June 2004.  ",
-        "text": "David Merrill – FlexiGesture: An sensor-rich real-time adaptive gesture and affordance learning platform for electronic music control (MS) June 2004.  "
-    },
-    {
-        "id": 33,
-        "author": "Hongshen Ma ",
-        "title": "Capacitive Displacement Sensing for the Nanogate",
-        "link": "./pubs/theses/HongMa-MSThesis.pdf",
-        "type": "MS",
-        "date": " February 2004.  ",
-        "text": "Hongshen Ma – Capacitive Displacement Sensing for the Nanogate (MS) February 2004.  "
-    },
-    {
-        "id": 34,
-        "author": "Mark C. Feldmeier ",
-        "title": "Large Group Musical Interaction using Disposable Wireless Motion Sensors ",
-        "link": "./pubs/theses/Feldmeier-SM.pdf",
-        "type": "MS",
-        "date": " October 2002.  ",
-        "text": "Mark C. Feldmeier – Large Group Musical Interaction using Disposable Wireless Motion Sensors (MS) October 2002.  "
-    },
-    {
-        "id": 35,
-        "author": "Joshua H. Lifton ",
-        "title": "Pushpin Computing: a Platform for Distributed Sensor Networks",
-        "link": "./pubs/theses/LiftonMSThesis.pdf",
-        "type": "MS",
-        "date": " September 2002.",
-        "text": "Joshua H. Lifton – Pushpin Computing: a Platform for Distributed Sensor Networks (MS) September 2002."
-    },
-    {
-        "id": 36,
-        "author": "Che King Leo ",
-        "title": "Contact and Free-Gesture Tracking for Large Interactive Surfaces",
-        "link": "./pubs/theses/CheKingThesis.pdf",
-        "type": "MEng",
-        "date": " June 2002.",
-        "text": "Che King Leo – Contact and Free-Gesture Tracking for Large Interactive Surfaces (MEng) June 2002."
-    },
-    {
-        "id": 37,
-        "author": "Laurel P. Smith ",
-        "title": "Development of An Improved Swept RF Tagging System and its Musical Applications ",
-        "link": "./pubs/theses/laurel-thesis.pdf",
-        "type": "MEng",
-        "date": " January 2002.",
-        "text": "Laurel P. Smith – Development of An Improved Swept RF Tagging System and its Musical Applications (MEng) January 2002."
-    },
-    {
-        "id": 38,
-        "author": "Leila Hasan ",
-        "title": "Visual Frets for a Free-Gesture Musical Interface",
-        "link": "./pubs/theses/leila-thesis.pdf",
-        "type": "MEng",
-        "date": " June 2001.",
-        "text": "Leila Hasan – Visual Frets for a Free-Gesture Musical Interface (MEng) June 2001."
-    },
-    {
-        "id": 39,
-        "author": "Nisha Checka ",
-        "title": "A System for Tracking and Characterizing Acoustic Impacts on Large Interactive Surfaces",
-        "link": "./pubs/theses/NishaThesis.pdf",
-        "type": "MEng",
-        "date": " May 2001.",
-        "text": "Nisha Checka – A System for Tracking and Characterizing Acoustic Impacts on Large Interactive Surfaces (MEng) May 2001."
-    },
-    {
-        "id": 40,
-        "author": "Zoe Teegarden ",
-        "title": "Embedded Low-Power Wireless Sensor System: Design of a Software Radio Base Station",
-        "link": "./pubs/theses/ZOE_MEng_Thesis.pdf",
-        "type": "MEng",
-        "date": " April 2001.",
-        "text": "Zoe Teegarden –Embedded Low-Power Wireless Sensor System: Design of a Software Radio Base Station (MEng) April 2001."
-    },
-    {
-        "id": 41,
-        "author": "Christopher Yang ",
-        "title": "New Laser Rangefinder Designs for Tracking Hands Atop Large Interactive Surfaces ",
-        "link": "./pubs/theses/ctyang-thesis.pdf",
-        "type": "MEng",
-        "date": " March 2001.",
-        "text": "Christopher Yang – New Laser Rangefinder Designs for Tracking Hands Atop Large Interactive Surfaces (MEng) March 2001."
-    },
-    {
-        "id": 42,
-        "author": "Kai-yuh Hsiao",
-        "title": "Fast Multi-Axis Tracking of Magnetically-Resonant Passive Tags: Methods and Applications",
-        "link": "./pubs/theses/KaiYuh-Thesis.pdf",
-        "type": "MEng",
-        "date": " February 2001.",
-        "text": "Kai-yuh Hsiao– Fast Multi-Axis Tracking of Magnetically-Resonant Passive Tags: Methods and Applications (MEng) February 2001."
-    },
-    {
-        "id": 43,
-        "author": "Jeffrey Y. Hayashida",
-        "title": "Unobtrusive Integration of Magnetic Generator Systems into Common Footwear ",
-        "link": "./pubs/theses/JEFFHAY-Thesis.pdf",
-        "type": "BS",
-        "date": " June 2000.",
-        "text": "Jeffrey Y. Hayashida– Unobtrusive Integration of Magnetic Generator Systems into Common Footwear (BS) June 2000."
-    },
-    {
-        "id": 44,
-        "author": "Ara N. Knaian",
-        "title": "A Wireless Sensor Network for Smart Roadbeds and Intelligent Transportation Systems ",
-        "link": "./pubs/theses/AraKnaian-Thesis.pdf",
-        "type": "MEng",
-        "date": " June 2000.",
-        "text": "Ara N. Knaian–  A Wireless Sensor Network for Smart Roadbeds and Intelligent Transportation Systems (MEng) June 2000."
-    },
-    {
-        "id": 45,
-        "author": "Ari Y. Benbasat ",
-        "title": "An Inertial Measurement Unit for User Interfaces ",
-        "link": "./pubs/theses/ayb_ms_thesis_v2.pdf",
-        "type": "MS",
-        "date": " September 2000.",
-        "text": "Ari Y. Benbasat – An Inertial Measurement Unit for User Interfaces (MS) September 2000."
-    },
-    {
-        "id": 46,
-        "author": "Ari T. Adler",
-        "title": "  A Cost-Effective Portable Telemedicine Kit for Use in Developing Countries",
-        "link": "./pubs/theses/AriAdler-Thesis.pdf",
-        "type": "MS",
-        "date": " June 2000.",
-        "text": "Ari T. Adler–  A Cost-Effective Portable Telemedicine Kit for Use in Developing Countries (MS) June 2000."
-    },
-    {
-        "id": 47,
-        "author": "Phillip J. Rowe ",
-        "title": "Characterization of a Wideband Monopulse Piezoelectric Direction Finder ",
-        "link": "./pubs/theses/PJRowe-Thesis.pdf",
-        "type": "MEng",
-        "date": " June 1999. ",
-        "text": "Phillip J. Rowe – Characterization of a Wideband Monopulse Piezoelectric Direction Finder (MEng) June 1999. "
-    },
-    {
-        "id": 48,
-        "author": "Nathan S. Shenck",
-        "title": "A Demonstration of Useful Electric Energy Generation from Piezoceramics in a Shoe ",
-        "link": "./pubs/theses/Nate-Thesis-Final.PDF",
-        "type": "MS",
-        "date": " May 1999. ",
-        "text": "Nathan S. Shenck–  A Demonstration of Useful Electric Energy Generation from Piezoceramics in a Shoe (MS) May 1999. "
-    },
-    {
-        "id": 49,
-        "author": "Eric Hu",
-        "title": "Applications of Expressive Footwear ",
-        "link": "./pubs/theses/EricHu-Thesis.pdf",
-        "type": "MEng",
-        "date": " May 1999. ",
-        "text": "Eric Hu– Applications of Expressive Footwear (MEng) May 1999. "
-    },
-    {
-        "id": 50,
-        "author": "Joshua A. Strickon",
-        "title": "Design and HCI Applications of a Low-Cost Scanning Laser Rangefinder ",
-        "link": "./pubs/theses/Josh.pdf",
-        "type": "MEng",
-        "date": " January 1999. ",
-        "text": "Joshua A. Strickon–  Design and HCI Applications of a Low-Cost Scanning Laser Rangefinder (MEng) January 1999. "
-    },
-    {
-        "id": 51,
-        "author": "Clyde Jake Kendall",
-        "title": "Parasitic Power Collection in Shoe-Mounted Devices",
-        "link": "./pubs/theses/Jake-Thesis.pdf",
-        "type": "BS",
-        "date": " June 1998.",
-        "text": "Clyde Jake Kendall– Parasitic Power Collection in Shoe-Mounted Devices (BS) June 1998."
-    }
-]
+[{
+
+	"author": "Matt Aldrich",
+	"title": "Experiential Lighting - Development and Validation of Perception-based Lighting Controls",
+	"link": "./pubs/theses/aldrich-phd.2014.pdf",
+	"type": "PhD",
+	"date": " August 2014.",
+	"text": "Matt Aldrich – Experiential Lighting - Development and Validation of Perception-based Lighting Controls August 2014."
+}, {
+
+	"author": "Nan-Wei Gong ",
+	"title": "Design and Applications of Inkjet-Printed Flexible Sensate Surfaces",
+	"link": "#",
+	"type": "PhD",
+	"date": " August 2013.",
+	"text": "Nan-Wei Gong – Design and Applications of Inkjet-Printed Flexible Sensate Surfaces(PhD) August 2013."
+}, {
+
+	"author": "Micahel Lapinski ",
+	"title": "A Platform for High-Speed Biomechanical Data Analysis using Wearable Wireless Sensors",
+	"link": "./pubs/theses/lapinski-phd.2013.pdf",
+	"type": "PhD",
+	"date": " August 2013.",
+	"text": "Micahel Lapinski –- A Platform for High-Speed Biomechanical Data Analysis using Wearable Wireless Sensors (PhD) August 2013."
+}, {
+
+	"author": "Amit Zoran ",
+	"title": "Hybrid re.Assemblage Bridging Traditional Craft and Digital Design",
+	"link": "./pubs/theses/zoran-phd.2013.pdf",
+	"type": "PhD",
+	"date": " August 2013.",
+	"text": "Amit Zoran – Hybrid re.Assemblage Bridging Traditional Craft and Digital Design (PhD) August 2013."
+}, {
+
+	"author": "Bo Morgan ",
+	"title": "A Substrate for Accountable Layered Systems",
+	"link": "./pubs/theses/morgan-phd.2013.pdf",
+	"type": "PhD",
+	"date": " August 2013.",
+	"text": "Bo Morgan – A Substrate for Accountable Layered Systems (PhD) August 2013."
+}, {
+
+	"author": "Brian Mayton ",
+	"title": "WristQue: A Personal Sensor Wristband for Smart Infrastructure and Control ",
+	"link": "./pubs/theses/bmayton_thesis_final.pdf",
+	"type": "MS",
+	"date": " February 2013.",
+	"text": "Brian Mayton – WristQue: A Personal Sensor Wristband for Smart Infrastructure and Control (MS) February 2013."
+}, {
+
+	"author": "Nick Joliat ",
+	"title": "DoppelLab: Spatialized Data Sonification in a 3D Virtual Environment ",
+	"link": "./pubs/theses/njoliat_thesis_final.pdf",
+	"type": "M.Eng",
+	"date": " February 2013.",
+	"text": "Nick Joliat – DoppelLab: Spatialized Data Sonification in a 3D Virtual Environment (M.Eng) February 2013."
+}, {
+
+	"author": "Gershon Dublon ",
+	"title": "Beyond the Lends: Communicating Conext through Sensing, Video and Visualization ",
+	"link": "./pubs/theses/gershon-ms.pdf",
+	"type": "MS",
+	"date": " September 2011.",
+	"text": "Gershon Dublon – Beyond the Lends: Communicating Conext through Sensing, Video and Visualization (MS) September 2011."
+}, {
+
+	"author": "Laurel Pardue ",
+	"title": "Expressive Re-Performance ",
+	"link": "./pubs/theses/PardueThesis2011.pdf",
+	"type": "MS",
+	"date": " September 2011.",
+	"text": "Laurel Pardue – Expressive Re-Performance (MS) September 2011."
+}, {
+
+	"author": "Rachel Bainbridge ",
+	"title": "HCI Gesture Tracking Using Wearable Passive Tags",
+	"link": "./pubs/theses/Rachel-main.pdf",
+	"type": "M.Eng",
+	"date": " September 2010.",
+	"text": "Rachel Bainbridge –- HCI Gesture Tracking Using Wearable Passive Tags (M.Eng) September 2010."
+}, {
+
+	"author": "Nan Zhao ",
+	"title": "Smart Solid-State Lighting Control ",
+	"link": "./pubs/theses/nanzhao-diplom.pdf",
+	"type": "Diplom – RWTH Aachen",
+	"date": " September 2010. ",
+	"text": "Nan Zhao – Smart Solid-State Lighting Control (Diplom – RWTH Aachen) September 2010. "
+}, {
+
+	"author": "Alexander Reben ",
+	"title": "Interactive Physical Agents for Story Gathering ",
+	"link": "./pubs/theses/areben-ms.pdf",
+	"type": "MS",
+	"date": " June 2010. ",
+	"text": "Alexander Reben – Interactive Physical Agents for Story Gathering (MS) June 2010. "
+}, {
+
+	"author": "Matthew Aldrich ",
+	"title": "Dynamic Solid State Lighting ",
+	"link": "./pubs/theses/aldrich-ms.pdf",
+	"type": "MS",
+	"date": " June 2010.  ",
+	"text": "Matthew Aldrich – Dynamic Solid State Lighting (MS) June 2010.  "
+}, {
+
+	"author": "Mathew Laibowitz ",
+	"title": "Creating Cohesive Video with the Narrative-Informed use of Ubiquitous Wearable and Imaging Sensor Networks",
+	"link": "./pubs/theses/mat_thesis_finale_3.pdf",
+	"type": "PhD",
+	"date": " January 2010. ",
+	"text": "Mathew Laibowitz – Creating Cohesive Video with the Narrative-Informed use of Ubiquitous Wearable and Imaging Sensor Networks (PhD) January 2010. "
+}, {
+
+	"author": "Clemens Satzger ",
+	"title": " Fusion of Six-Dimensional Sensor Data Using Physics Engines",
+	"link": "./pubs/theses/Fusion%20of%20Six%20Dimensional%20Sensor%20Data%20using%20Physics%20Engines.pdf",
+	"type": "Diplom – TU München",
+	"date": " January 2010.",
+	"text": "Clemens Satzger – Fusion of Six-Dimensional Sensor Data Using Physics Engines (Diplom – TU München) January 2010."
+}, {
+
+	"author": "Mark Feldmeier ",
+	"title": "Personalized Building Comfort Control ",
+	"link": "./pubs/theses/feldmeier-phd-150dpi.pdf",
+	"type": "PhD",
+	"date": " September 2009. ",
+	"text": "Mark Feldmeier – Personalized Building Comfort Control (PhD) September 2009. "
+}, {
+
+	"author": "Nan-Wei Gong ",
+	"title": "Configurable Dynamic Privacy for Pervasive Sensor Networks ",
+	"link": "./pubs/theses/NanWeiGong_MSthesis.pdf",
+	"type": "MS",
+	"date": " September 2009. ",
+	"text": "Nan-Wei Gong – Configurable Dynamic Privacy for Pervasive Sensor Networks (MS) September 2009. "
+}, {
+
+	"author": "Michael Lapinski ",
+	"title": "A Wearable, Wireless Sensor System for Sports Medicine",
+	"link": "./pubs/theses/mtl-main-V8.pdf",
+	"type": "MS",
+	"date": " September 2008. ",
+	"text": "Michael Lapinski – A Wearable, Wireless Sensor System for Sports Medicine (MS) September 2008. "
+}, {
+
+	"author": "Behram Mistree ",
+	"title": "A Flexible High-Density Sensor Network ",
+	"link": "./pubs/theses/bftm_finalThesis.pdf",
+	"type": "MEng",
+	"date": " September 2008. ",
+	"text": "Behram Mistree – A Flexible High-Density Sensor Network (MEng) September 2008. "
+}, {
+
+	"author": "Manas Mittal ",
+	"title": "Ubicorder: A Mobile Interface to Sensor Networks",
+	"link": "./pubs/theses/Manas-MS-document.pdf",
+	"type": "MS",
+	"date": " September 2007. ",
+	"text": "Manas Mittal – Ubicorder: A Mobile Interface to Sensor Networks (MS) September 2007. "
+}, {
+
+	"author": "Joshua Lifton ",
+	"title": "Dual Reality: An Emerging Medium",
+	"link": "./pubs/theses/lifton_phd.pdf",
+	"type": "PhD",
+	"date": " September 2007. ",
+	"text": "Joshua Lifton – Dual Reality: An Emerging Medium(PhD) September 2007. "
+}, {
+
+	"author": "Robert N. Jacobs ",
+	"title": "A Wireless Sensor-based Mobile Music Environment Compiled from a Graphical Language ",
+	"link": "./pubs/theses/rnj-thesis.pdf",
+	"type": "MEng",
+	"date": " September 2007. ",
+	"text": "Robert N. Jacobs – A Wireless Sensor-based Mobile Music Environment Compiled from a Graphical Language (MEng) September 2007. "
+}, {
+
+	"author": "Jason LaPenta ",
+	"title": "Real-time 3-d Localization using Radar and Passive Surface Acoustic Wave Transponders",
+	"link": "./pubs/theses/j.lapenta.ms.thesis.pdf",
+	"type": "MS",
+	"date": " August 2007. ",
+	"text": "Jason LaPenta – Real-time 3-d Localization using Radar and Passive Surface Acoustic Wave Transponders (MS) August 2007. "
+}, {
+
+	"author": "Ari Y. Benbasat ",
+	"title": "An Automated Framework for Power-Efficient Detection in Embedded Sensor Systems",
+	"link": "./pubs/theses/ayb-phd.pdf",
+	"type": "PhD",
+	"date": " February 2007. ",
+	"text": "Ari Y. Benbasat – An Automated Framework for Power-Efficient Detection in Embedded Sensor Systems (PhD) February 2007. "
+}, {
+
+	"author": "Mateusz K. Malinowski ",
+	"title": "CargoNet: Micropower Sensate Tags for Supply-Chain Management and Security ",
+	"link": "./pubs/theses/malinowski_meng.pdf",
+	"type": "MEng",
+	"date": " February 2007. ",
+	"text": "Mateusz K. Malinowski – CargoNet: Micropower Sensate Tags for Supply-Chain Management and Security (MEng) February 2007. "
+}, {
+
+	"author": "Bo Morgan ",
+	"title": "Learning Commonsense Human-language Descriptions from Temporal and Spatial Sensor-network Data",
+	"link": "./pubs/theses/morgan_thesis.pdf",
+	"type": "MS",
+	"date": " August 2006. ",
+	"text": "Bo Morgan – Learning Commonsense Human-language Descriptions from Temporal and Spatial Sensor-network Data (MS) August 2006. "
+}, {
+
+	"author": "Ryan Aylward ",
+	"title": "Sensemble: A Wireless Inertial Sensor System for Interactive Dance and Collective Motion Analysis ",
+	"link": "./pubs/theses/aylward_thesis.pdf",
+	"type": "MS",
+	"date": " August 2006. ",
+	"text": "Ryan Aylward – Sensemble: A Wireless Inertial Sensor System for Interactive Dance and Collective Motion Analysis (MS) August 2006. "
+}, {
+
+	"author": "Daniel Sang Kim ",
+	"title": "Sensor Network Localization Based on Natural Phenomena ",
+	"link": "./pubs/theses/DanielKimThesis.pdf",
+	"type": "MEng",
+	"date": " August 2006. ",
+	"text": "Daniel Sang Kim – Sensor Network Localization Based on Natural Phenomena (MEng) August 2006. "
+}, {
+
+	"author": "Gerardo Barroeta Péerez ",
+	"title": "S.N.A.K.E.: A Dynamically Reconfigurable Artificial Sensate Skin ",
+	"link": "./pubs/theses/Jerry_BP_Thesis.pdf",
+	"type": "MS",
+	"date": " August 2006. ",
+	"text": "Gerardo Barroeta Péerez – S.N.A.K.E.: A Dynamically Reconfigurable Artificial Sensate Skin (MS) August 2006. "
+}, {
+
+	"author": "Dan Lovell ",
+	"title": "A System for Real-Time Gesture Recognition and Classification of Coordinated Motion ",
+	"link": "./pubs/theses/LovellMEngThesis.pdf",
+	"type": "MEng",
+	"date": " January 2005. ",
+	"text": "Dan Lovell – A System for Real-Time Gesture Recognition and Classification of Coordinated Motion (MEng) January 2005. "
+}, {
+
+	"author": "Michael Broxton ",
+	"title": "Localization and Sensing Applications in the Pushpin Computing Network ",
+	"link": "./pubs/theses/Broxton-MEng-Thesis.pdf",
+	"type": "MEng",
+	"date": " January 2005. ",
+	"text": "Michael Broxton – Localization and Sensing Applications in the Pushpin Computing Network (MEng) January 2005. "
+}, {
+
+	"author": "Mat Laibowitz ",
+	"title": "Parasitic Mobility for Sensate Media",
+	"link": "./pubs/theses/matParasiticMobilityMSthesis.pdf",
+	"type": "MS",
+	"date": " August 2004. ",
+	"text": "Mat Laibowitz – Parasitic Mobility for Sensate Media (MS) August 2004. "
+}, {
+
+	"author": "Stacy J Morris ",
+	"title": "A Shoe-Integrated Sensor System for Wireless Gait Analysis and Real-Time Therapeutic Feedback ",
+	"link": "./pubs/theses/sjmorrisSCDthesis.pdf",
+	"type": "PhD",
+	"date": " June 2004. ",
+	"text": "Stacy J Morris – A Shoe-Integrated Sensor System for Wireless Gait Analysis and Real-Time Therapeutic Feedback (PhD) June 2004. "
+}, {
+
+	"author": "David Merrill ",
+	"title": "FlexiGesture: An sensor-rich real-time adaptive gesture and affordance learning platform for electronic music control ",
+	"link": "./pubs/theses/dmerrill_thesis.pdf",
+	"type": "MS",
+	"date": " June 2004.  ",
+	"text": "David Merrill – FlexiGesture: An sensor-rich real-time adaptive gesture and affordance learning platform for electronic music control (MS) June 2004.  "
+}, {
+
+	"author": "Hongshen Ma ",
+	"title": "Capacitive Displacement Sensing for the Nanogate",
+	"link": "./pubs/theses/HongMa-MSThesis.pdf",
+	"type": "MS",
+	"date": " February 2004.  ",
+	"text": "Hongshen Ma – Capacitive Displacement Sensing for the Nanogate (MS) February 2004.  "
+}, {
+
+	"author": "Mark C. Feldmeier ",
+	"title": "Large Group Musical Interaction using Disposable Wireless Motion Sensors ",
+	"link": "./pubs/theses/Feldmeier-SM.pdf",
+	"type": "MS",
+	"date": " October 2002.  ",
+	"text": "Mark C. Feldmeier – Large Group Musical Interaction using Disposable Wireless Motion Sensors (MS) October 2002.  "
+}, {
+
+	"author": "Joshua H. Lifton ",
+	"title": "Pushpin Computing: a Platform for Distributed Sensor Networks",
+	"link": "./pubs/theses/LiftonMSThesis.pdf",
+	"type": "MS",
+	"date": " September 2002.",
+	"text": "Joshua H. Lifton – Pushpin Computing: a Platform for Distributed Sensor Networks (MS) September 2002."
+}, {
+
+	"author": "Che King Leo ",
+	"title": "Contact and Free-Gesture Tracking for Large Interactive Surfaces",
+	"link": "./pubs/theses/CheKingThesis.pdf",
+	"type": "MEng",
+	"date": " June 2002.",
+	"text": "Che King Leo – Contact and Free-Gesture Tracking for Large Interactive Surfaces (MEng) June 2002."
+}, {
+
+	"author": "Laurel P. Smith ",
+	"title": "Development of An Improved Swept RF Tagging System and its Musical Applications ",
+	"link": "./pubs/theses/laurel-thesis.pdf",
+	"type": "MEng",
+	"date": " January 2002.",
+	"text": "Laurel P. Smith – Development of An Improved Swept RF Tagging System and its Musical Applications (MEng) January 2002."
+}, {
+
+	"author": "Leila Hasan ",
+	"title": "Visual Frets for a Free-Gesture Musical Interface",
+	"link": "./pubs/theses/leila-thesis.pdf",
+	"type": "MEng",
+	"date": " June 2001.",
+	"text": "Leila Hasan – Visual Frets for a Free-Gesture Musical Interface (MEng) June 2001."
+}, {
+
+	"author": "Nisha Checka ",
+	"title": "A System for Tracking and Characterizing Acoustic Impacts on Large Interactive Surfaces",
+	"link": "./pubs/theses/NishaThesis.pdf",
+	"type": "MEng",
+	"date": " May 2001.",
+	"text": "Nisha Checka – A System for Tracking and Characterizing Acoustic Impacts on Large Interactive Surfaces (MEng) May 2001."
+}, {
+
+	"author": "Zoe Teegarden ",
+	"title": "Embedded Low-Power Wireless Sensor System: Design of a Software Radio Base Station",
+	"link": "./pubs/theses/ZOE_MEng_Thesis.pdf",
+	"type": "MEng",
+	"date": " April 2001.",
+	"text": "Zoe Teegarden –Embedded Low-Power Wireless Sensor System: Design of a Software Radio Base Station (MEng) April 2001."
+}, {
+
+	"author": "Christopher Yang ",
+	"title": "New Laser Rangefinder Designs for Tracking Hands Atop Large Interactive Surfaces ",
+	"link": "./pubs/theses/ctyang-thesis.pdf",
+	"type": "MEng",
+	"date": " March 2001.",
+	"text": "Christopher Yang – New Laser Rangefinder Designs for Tracking Hands Atop Large Interactive Surfaces (MEng) March 2001."
+}, {
+
+	"author": "Kai-yuh Hsiao",
+	"title": "Fast Multi-Axis Tracking of Magnetically-Resonant Passive Tags: Methods and Applications",
+	"link": "./pubs/theses/KaiYuh-Thesis.pdf",
+	"type": "MEng",
+	"date": " February 2001.",
+	"text": "Kai-yuh Hsiao– Fast Multi-Axis Tracking of Magnetically-Resonant Passive Tags: Methods and Applications (MEng) February 2001."
+}, {
+
+	"author": "Jeffrey Y. Hayashida",
+	"title": "Unobtrusive Integration of Magnetic Generator Systems into Common Footwear ",
+	"link": "./pubs/theses/JEFFHAY-Thesis.pdf",
+	"type": "BS",
+	"date": " June 2000.",
+	"text": "Jeffrey Y. Hayashida– Unobtrusive Integration of Magnetic Generator Systems into Common Footwear (BS) June 2000."
+}, {
+
+	"author": "Ara N. Knaian",
+	"title": "A Wireless Sensor Network for Smart Roadbeds and Intelligent Transportation Systems ",
+	"link": "./pubs/theses/AraKnaian-Thesis.pdf",
+	"type": "MEng",
+	"date": " June 2000.",
+	"text": "Ara N. Knaian–  A Wireless Sensor Network for Smart Roadbeds and Intelligent Transportation Systems (MEng) June 2000."
+}, {
+
+	"author": "Ari Y. Benbasat ",
+	"title": "An Inertial Measurement Unit for User Interfaces ",
+	"link": "./pubs/theses/ayb_ms_thesis_v2.pdf",
+	"type": "MS",
+	"date": " September 2000.",
+	"text": "Ari Y. Benbasat – An Inertial Measurement Unit for User Interfaces (MS) September 2000."
+}, {
+
+	"author": "Ari T. Adler",
+	"title": "  A Cost-Effective Portable Telemedicine Kit for Use in Developing Countries",
+	"link": "./pubs/theses/AriAdler-Thesis.pdf",
+	"type": "MS",
+	"date": " June 2000.",
+	"text": "Ari T. Adler–  A Cost-Effective Portable Telemedicine Kit for Use in Developing Countries (MS) June 2000."
+}, {
+
+	"author": "Phillip J. Rowe ",
+	"title": "Characterization of a Wideband Monopulse Piezoelectric Direction Finder ",
+	"link": "./pubs/theses/PJRowe-Thesis.pdf",
+	"type": "MEng",
+	"date": " June 1999. ",
+	"text": "Phillip J. Rowe – Characterization of a Wideband Monopulse Piezoelectric Direction Finder (MEng) June 1999. "
+}, {
+
+	"author": "Nathan S. Shenck",
+	"title": "A Demonstration of Useful Electric Energy Generation from Piezoceramics in a Shoe ",
+	"link": "./pubs/theses/Nate-Thesis-Final.PDF",
+	"type": "MS",
+	"date": " May 1999. ",
+	"text": "Nathan S. Shenck–  A Demonstration of Useful Electric Energy Generation from Piezoceramics in a Shoe (MS) May 1999. "
+}, {
+
+	"author": "Eric Hu",
+	"title": "Applications of Expressive Footwear ",
+	"link": "./pubs/theses/EricHu-Thesis.pdf",
+	"type": "MEng",
+	"date": " May 1999. ",
+	"text": "Eric Hu– Applications of Expressive Footwear (MEng) May 1999. "
+}, {
+
+	"author": "Joshua A. Strickon",
+	"title": "Design and HCI Applications of a Low-Cost Scanning Laser Rangefinder ",
+	"link": "./pubs/theses/Josh.pdf",
+	"type": "MEng",
+	"date": " January 1999. ",
+	"text": "Joshua A. Strickon–  Design and HCI Applications of a Low-Cost Scanning Laser Rangefinder (MEng) January 1999. "
+}, {
+
+	"author": "Clyde Jake Kendall",
+	"title": "Parasitic Power Collection in Shoe-Mounted Devices",
+	"link": "./pubs/theses/Jake-Thesis.pdf",
+	"type": "BS",
+	"date": " June 1998.",
+	"text": "Clyde Jake Kendall– Parasitic Power Collection in Shoe-Mounted Devices (BS) June 1998."
+}]
