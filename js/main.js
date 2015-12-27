@@ -12,7 +12,6 @@ var page = function(name){
             container.hide().html('');
             $.getJSON('projects.json?'+~~(Math.random()*1000),function(data){
                 $.each(data, function(i, project){
-                    console.log(project)
                     project.id ="p-"+pid++;
                     project.categories = project.categories.join(", ");
                     project.contributors = project.contributors.join(", ");
@@ -224,7 +223,6 @@ $(document).ready(function(){
 
     //Click events
     $(document).on("click", function(e){
-        console.log(e.target);
         var sub = $(".sub-container");
         if( $(e.target).attr("id") != "read-more" && $(e.target).attr("class") != "sub-container")
             sub.fadeOut(20);

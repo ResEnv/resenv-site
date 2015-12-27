@@ -65,22 +65,28 @@
 				</div>
 				<div class="clearfix"></div>
 				<div class="description">{{description}}</div>
-				{{#publications}}
-					<div class="publications">
-						<h4>Publications</h4>
-						<p>{{publications}}</p>
-					</div>
-				{{/publications}}
+
+				<div class="publications">
+					<h4>Publications</h4>
+					<ul>
+					{{#publications}}
+						<li>{{title}} <a href={{link}}>PDF</a></li>
+					{{/publications}}
+					</ul>
+				</div>
+
 				{{#video}}
 					<div class="video">
 					<iframe src={{video}} width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 					</div>
 				{{/video}}
-				{{#external}}
-					<div class="external"><h4>External Links</h4>
-					<a href={{external}} target="_BLANK">{{external}}</a>
-					</div>
-				{{/external}}
+				<div class="external"><h4>External Links</h4>
+					<ul>
+					{{#external}}
+						<li><a href={{.}} target="_BLANK">{{.}}</a></li>
+					{{/external}}
+					</ul>
+				</div>
 			</div>
 
 			</div>

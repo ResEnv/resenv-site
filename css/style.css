@@ -786,6 +786,13 @@ ul.courses a:hover{
 .sub-container .publications p{
     margin: 0;
 }
+.sub-container .publications li{
+    font-weight: lighter;
+    margin-bottom: 4px;
+    line-height: 1.4;
+    font-size: 0.9em;
+}
+
 .sub-container .video{
     text-align: center;
     margin-top: 20px;
