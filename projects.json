@@ -1,4 +1,18 @@
-[{
+[
+	{
+	    "date": "2015-present",
+	    "external": ["http://web.media.mit.edu/~nanzhao/pages/one/?Id=1"],
+		"contributors":["Nan Zhao", "Matt Aldrich","Joe Paradiso"],
+	    "name": "Mindful Photons",
+	    "image": "./images/projects/mindfulphotons.jpg",
+		"video":"https://player.vimeo.com/video/142463698",
+		"description": "In this project we demonstrated an approach and implementation for continuous, context-aware lighting control. The results of our experiments confirmed the potential of such a system to improve comfort, performance, and energy consumption. We applied dimensionality reduction on user ratings of preset lighting scenes for different tasks to generate continuous contextual control axes. We used superposition to map the control space to lighting settings. We furthermore implemented activity recognition with Google Glass to create an adaptive lighting environment. In our preliminary user study with the adaptive system, we estimated significant power savings of up to 52%. Because we used continuous adaptation, we were able to adjust lighting conditions without interrupting the user.",
+		"publications":[{"title":"A Multidimensional Continuous Contextual Lighting Control System Using Google Glass. Nan Zhao, Matt Aldrich, Christoph Reinhart, Joe Paradiso. Best Presentation Award, BuildSys’15, Seoul, South Korea","link":"http://resenv.media.mit.edu/pubs/papers/multidimensional-continuous-contextual.pdf"}],
+		"categories": [
+	        "Context-aware", "Lighting", "Wearable", "HCI", "Smart Buildings", "Systems"
+	    ]
+	},
+	{
 		"date": "2015-present",
 		"name": "disCERN",
 		"contributors":["Juliana Cherston", "Joe Paradiso"],
