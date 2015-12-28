@@ -29,6 +29,12 @@ var page = function(name){
                     var dom = $(this).parent().parent().find(".more-info").html();
                     sub.find(".panel").html(dom);
                 });
+                $(".popInfo").on('click', function(e){
+                    e.preventDefault();
+                    sub.fadeIn(100);
+                    var dom = $(this).parent().find(".more-info").html();
+                    sub.find(".panel").html(dom);
+                });
             });
 
 
@@ -39,7 +45,7 @@ var page = function(name){
             Mustache.parse(template);
             container.hide().html('');
             container.append('<ul class="filter"></ul><ul class="pub"></ul><ul id="thesis" class="thesis"></ul>');
-            $(".thesis").append("<li data-date='stdt' class='stdThesis datePub'>Student Theses</li>");
+            $(".thesis").append("<li data-date='stdt' class='stdThesis datePub'>Students Thesis</li>");
             $.getJSON('thesis.json?'+~~(Math.random()*1000),function(data){
                 $.each(data, function(i, thesis){
                     var rendered = Mustache.render(thesisTemplate, thesis);
@@ -68,7 +74,7 @@ var page = function(name){
                     container.fadeIn("fast");
 
                 });
-                $('.filter').append('<li id="ss-thesis">Theses</li>');
+                $('.filter').prepend('<li id="ss-thesis">Thesis</li>');
                 $(".filter li").on('click', function(){
                     var year = $(this).attr("id").split('-')[1];
                     $('html, body').animate({scrollTop: $("#"+year).offset().top - 200},1000);
@@ -128,6 +134,7 @@ var toggleTheme = function (black){
         icons = $(".social-links span"),
         pType = $(".personType"),
         datePub = $(".datePub");
+        sub = $(".sub-container");
 
     if (!black){
         pathSvg.attr("fill","#000");
@@ -143,6 +150,8 @@ var toggleTheme = function (black){
         datePub.removeClass("white")
         icons.removeClass("white");
         pType.removeClass("white");
+        sub.removeClass("black");
+        sub.addClass("white");
         return true;
     }
     else {
@@ -158,7 +167,9 @@ var toggleTheme = function (black){
         pType.removeClass("black");
         datePub.removeClass("black")
         icons.removeClass("black");
-        icons.css({"background":'white', "color":'black'})
+        icons.css({"background":'white', "color":'black'});
+        sub.removeClass("white");
+        sub.addClass("black");
         return false;
     }
 }
@@ -224,7 +235,12 @@ $(document).ready(function(){
     //Click events
     $(document).on("click", function(e){
         var sub = $(".sub-container");
-        if( $(e.target).attr("id") != "read-more" && $(e.target).attr("class") != "sub-container")
+        var targetClass =  $(e.target).attr("class");
+        var targetID =  $(e.target).attr("id");
+        var targetProp = $(e.target).prop("tagName");
+        console.log(targetProp);
+
+        if( targetID != "read-more" && targetClass == "exit" || targetProp == "BODY")
             sub.fadeOut(20);
 
     })

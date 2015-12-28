@@ -508,6 +508,7 @@ ul.navigation li:first-child{
     font-size:1.5em;
     margin-bottom: 12px;
     text-transform: capitalize;
+    cursor: pointer;
 }
 .project .date{
     font-size: 12px;
@@ -536,6 +537,7 @@ ul.navigation li:first-child{
     padding-right: 12px;
     padding-bottom: 12px;
     padding-left: 3px;
+    cursor: pointer;
 }
 .project a:hover{
     text-decoration:underline;
@@ -733,9 +735,8 @@ ul.courses a:hover{
     height:90%;
     top:5%;
     left:13%;
-    opacity: 0.96;
+    opacity: 0.99;
     display: none;
-    background: #fefefe;
     border:8px solid #212121;
     overflow: auto;
 }
