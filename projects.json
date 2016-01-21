@@ -30,7 +30,7 @@
 		"name": "Halo",
 		"contributors":["Nan Zhao","Joe Paradiso"],
 		"video": "https://player.vimeo.com/video/136680450",
-		"publications":[{"title":"Wearable Lighting, Nan Zhao, Joe Paradiso, ISWC Design Exhibition 2015, Osaka, Japan","link":"http://resenv.media.mit.edu/pubs/papers/multidimensional-continuous-contextual.pdf"}],
+		"publications":[{"title":"Wearable Lighting, Nan Zhao, Joe Paradiso, ISWC Design Exhibition 2015, Osaka, Japan","link":"http://resenv.media.mit.edu/pubs/papers/halo.pdf"}],
 		"image": "./images/projects/halo.jpg",
 		"description": "What if lighting were not fixed to our architecture but becomes part of our body? Halo is a wearable lighting device that aims to investigate this question. Halo explores the potential of body-centered lighting technology to alter appearance and create a personal space for its wearer. A ring of colored LEDs frames the wearer’s face, putting her into the light she desires.",
 		"external":["http://resenv.media.mit.edu/halo/"],
@@ -55,7 +55,7 @@
 		"contributors":["Artem Dementyev","Cindy Hsin-Liu Kao","Joe Paradiso"],
 		"image": "./images/projects/sensortape.jpg",
 		"video":"https://www.youtube.com/embed/b-EV-LL3X8s",
-		"publications":[{"title":"SensorTape a modular and Programmable 3D-Aware Dense Sensor Network on a Tape. A. Dementyev, HLC Kao, J. Paradiso Proc. of UIST (2015)","link":"http://resenv.media.mit.edu/pubs/papers/Sensor_tape_UIST_2015.pdf"}],
+		"publications":[{"title":"SensorTape a modular and Programmable 3D-Aware Dense Sensor Network on a Tape. A. Dementyev, HLC Kao, J. Paradiso Proc. of UIST (2015)","link":"http://resenv.media.mit.edu/pubs/papers/Sensor_tape_UIST_2015.pdf"},{"title":"Low-cost Sensor Tape for Environmental Sensing Based on Roll-to-roll Manufacturing Process, Gong, N-W., Wang, CY, and Paradiso, J.A., in IEEE SENSORS Conference, 2012.","link":"http://resenv.media.mit.edu/pubs/papers/2012-IEEE_SENSORS_2012_PRSENSORS.pdf"}],
 		"description": "SensorTape is a modular and dense sensor network in a form factor of a tape. It enables intuitive deployment of sensor arrays, as SensorTape is modular, it can be cut and joined in an arbitrary order.",
 		"external":["https://github.com/ResEnv/SensorTape","http://artem.dementyev.us/?page_id=327"],
 		"categories": [
@@ -81,7 +81,7 @@
 		"contributors":["Gershon Dublon","Laurel Pardue","Brian Mayton","Noa Swartz","Nick Joliat","Joe Paradiso"],
 		"image": "./images/projects/DoppelLabThumb.jpg",
 		"video":"https://www.youtube.com/embed/3eXtiIrqmVA",
-		"publications":[{"title":"Dublon, G., Pardue, L. S., Mayton, B., Swartz, N., Joliat, N., Hurst, P. and Paradiso, J.A., in 2011 IEEE SENSORS Conference, 2011.","link":"http://resenv.media.mit.edu/pubs/papers/2011-IEEESENSORS-DOPPELLAB.pdf"}],
+		"publications":[{"title":"Dublon, G., Pardue, L. S., Mayton, B., Swartz, N., Joliat, N., Hurst, P. and Paradiso, J.A., in 2011 IEEE SENSORS Conference, 2011.","link":"http://resenv.media.mit.edu/pubs/papers/2011-IEEESENSORS-DOPPELLAB.pdf"},{"title":"Spatialized anonymous audio for browsing sensor networks via virtual worlds. Nicholas Joliat, Brian Mayton and Joseph A. Paradiso. At the 19th International Conference on Auditory Display (ICAD-2013)","link":"http://resenv.media.mit.edu/sonification/media/icad-njoliat-final.pdf"},{"title":"Beyond the Lens: Communicating Context through Sensing, Video, and Visualization by Gershon Dublon","link":"http://resenv.media.mit.edu/pubs/theses/gershon-ms.pdf"}],
 		"description": "DoppelLab is an immersive, cross-reality virtual environment that serves as an active repository of the multimodal sensor data produced by a building and its inhabitants. We transform architectural models into browsing environments for real-time sensor data visualizations, as well as open-ended platforms for building audiovisual applications atop those data.",
 		"external":["http://doppellab.media.mit.edu/"],
 		"categories": [
@@ -97,7 +97,7 @@
 		"image": "./images/projects/tidmarsh-live.jpg",
 		"video":"https://player.vimeo.com/video/137312445",
 		"description": "Tidmarsh is a 600-acre property near Plymouth, Massachusetts. After over a century as a large operational cranberry farm, Tidmarsh is now being restored to natural wetland. Researchers in the Media Lab's Responsive Environments group are developing sensor networks that document ecological processes and allow people to experience the data at different spatial and temporal scales. Small, distributed, low-power sensor devices capture climate, soil, water, and other environmental data, while others stream audio from high in the trees and underwater. Visit any time from dawn till dusk and again after midnight; if you're lucky you might just catch an April storm, a flock of birds, or an army of frogs.",
-		"external":["http://tidmarsh.media.mit.edu"],
+		"external":["http://tidmarsh.media.mit.edu","http://simonetti.media.mit.edu/tidmarsh/doc/"],
 		"categories": [
 			"Dynamic Visualization",
 			"Cross-Reality",
@@ -110,7 +110,7 @@
 		"contributors":["Spencer Russell","Joe Paradiso"],
 		"image": "./images/projects/chain-api.jpg",
 		"publications":[{"title":"Hypermedia APIs for Sensor Data, Spencer Russell, Joseph A. Paradiso, Mobiquitous 2014, London, December 2014.","link":"http://resenv.media.mit.edu/pubs/papers/ChainAPI_Mobiquitous2014_camera-ready.pdf"}],
-		"description": "A hypermedia-focused API supporting request/response via HTTP and realtime via WebSockets.",
+		"description": "ChainAPI is a hypermedia HTTP API for working with sensor data. It includes an HTTP interface supporting request/response interactions, as well as a Websockets streaming API for realtime \"push\" updates.",
 		"external":["http://resenv.github.io/chain-api/"],
 		"categories": ["Sensor Networks", "IoT", "Web Services"]
 	}, {
@@ -192,7 +192,7 @@
 		"contributors":["Amit Zoran","Roy Shilkrot","Joe Paradiso"],
 		"image": "./images/projects/FreeDlogo-thumb.jpg",
 		"video":"https://player.vimeo.com/video/59825221",
-		"publications":[{"title":"Zoran, Amit, Roy Shilkrot, Suranga Nanyakkara, and Joseph A. Paradiso. 2013. \"The Hybrid Artisans: A Case Study in Smart Tools.\" ACM Trans. Comput.-Hum. Interact. 21, 3, Article 15. June 2013.","link":""},{"title":"Zoran, Amit, Roy Shilkrot and Joseph A. Paradiso. 2013. \"Human-computer Interaction for Hybrid Carving.\" The 26th annual ACM symposium on User interface software and technology (UIST 13). ACM, St. Andrews, Scotland.","link":""},{"title":"Zoran, Amit and Joseph A. Paradiso. 2013. \"FreeD – A Freehand Digital Sculpting Tool.\" The 31th international conference on Human factors in computing systems (CHI 13). ACM, Paris, France. Best Paper Award.","link":""}],
+		"publications":[{"title":"Zoran, Amit, Roy Shilkrot, Suranga Nanyakkara, and Joseph A. Paradiso. 2013. \"The Hybrid Artisans: A Case Study in Smart Tools.\" ACM Trans. Comput.-Hum. Interact. 21, 3, Article 15. June 2013.","link":"http://resenv.media.mit.edu/pubs/papers/ToCHI_FreeD.pdf"},{"title":"Zoran, Amit, Roy Shilkrot and Joseph A. Paradiso. 2013. \"Human-computer Interaction for Hybrid Carving.\" The 26th annual ACM symposium on User interface software and technology (UIST 13). ACM, St. Andrews, Scotland.","link":"http://resenv.media.mit.edu/pubs/papers/UIST_FreeD_paper.pdf"},{"title":"Zoran, Amit and Joseph A. Paradiso. 2013. \"FreeD – A Freehand Digital Sculpting Tool.\" The 31th international conference on Human factors in computing systems (CHI 13). ACM, Paris, France. Best Paper Award.","link":"http://resenv.media.mit.edu/pubs/papers/2013-ZORAN_CHI_FREED.pdf"}],
 		"description": "A handheld digital milling device for craft and fabrication",
 		"external":"http://www.amitz.co/freed.html",
 		"categories": [
