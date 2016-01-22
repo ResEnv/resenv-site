@@ -18,9 +18,13 @@ var page = function(name){
                     project.link ="#p-"+project.name.split(" ").join("-").toLowerCase();
                     var rendered = Mustache.render(template, project);
                     container.append(rendered).fadeIn("fast");
-                    
+
                     if(typeof project.publications === "undefined"){
                         $("#"+project.id).find(".publications").remove();
+                    }
+
+                    if(typeof project.external === "undefined"){
+                        $("#"+project.id).find(".external").remove();
                     }
 
                     if(JSON.parse(localStorage.getItem("black")) == true)
