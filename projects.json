@@ -14,12 +14,12 @@
 	},
 	{
 		"date": "2015-present",
-		"name": "disCERN",
+		"name": "Quantizer",
 		"contributors":["Juliana Cherston", "Joe Paradiso"],
 		"image": "./images/projects/dicern.jpg",
 		"video":"https://player.vimeo.com/video/142195189",
 		"description": "A data-driven musical composition platform built in collaboration with the ATLAS experiment outreach team at CERN. Composers can encode particle collision event information into audio, generating a real-time auditory display of physics data. In its initial stages, the tool will be used for outreach purposes. Our longer-term goal is to develop sonification tools that facilitate the auditory perception of hidden regularities in high dimensional datasets and thus evolve into a useful analysis tool for physicists as well.",
-		"external":["http://discern.media.mit.edu/"],
+		"external":["http://quantizer.media.mit.edu/"],
 		"categories": [
 			"Perception", "Sonification", "Physics"
 		]
