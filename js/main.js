@@ -54,7 +54,7 @@ var page = function(name){
             Mustache.parse(template);
             container.hide().html('');
             container.append('<ul class="filter"></ul><ul class="pub"></ul><ul id="thesis" class="thesis"></ul>');
-            $(".thesis").append("<li data-date='stdt' class='stdThesis datePub'>Students Thesis</li>");
+            $(".thesis").append("<li data-date='stdt' class='stdThesis datePub'>Students Theses</li>");
             $.getJSON('thesis.json?'+~~(Math.random()*1000),function(data){
                 $.each(data, function(i, thesis){
                     var rendered = Mustache.render(thesisTemplate, thesis);
@@ -83,7 +83,7 @@ var page = function(name){
                     container.fadeIn("fast");
 
                 });
-                $('.filter').prepend('<li id="ss-thesis">Thesis</li>');
+                $('.filter').prepend('<li id="ss-thesis">Theses</li>');
                 $(".filter li").on('click', function(){
                     var year = $(this).attr("id").split('-')[1];
                     $('html, body').animate({scrollTop: $("#"+year).offset().top - 200},1000);

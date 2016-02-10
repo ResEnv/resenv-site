@@ -451,7 +451,7 @@
 		"contributors":["Jason LaPenta","Joe Paradiso"],
 		"image": "./images/projects/saw-thumb.jpg",
 		"description": "Development of a low-cost system to track the precise (cm-scale) 3-D position of large numbers of objects tagged with passive SAW microwave RF transponders at short-range (3-100m) and in real time.",
-		"publicatgions":[{"title":"Jason LaPenta, Real-time 3D Localization using Radar and Passive Surface Acoustic Wave Transponders  MS Thesis, MIT Media Lab, August 2007.","link":"http://resenv.media.mit.edu/pubs/theses/j.lapenta.ms.thesis.pdf"}],
+		"publications":[{"title":"Jason LaPenta, Real-time 3D Localization using Radar and Passive Surface Acoustic Wave Transponders  MS Thesis, MIT Media Lab, August 2007.","link":"http://resenv.media.mit.edu/pubs/theses/j.lapenta.ms.thesis.pdf"}],
 		"categories": [
 			"Ubiquitous Computing",
 			"Mobile Sensor Networks",
@@ -465,7 +465,7 @@
 		"contributors":["Ari Benbasat","Joe Paradiso"],
 		"image": "./images/projects/groggy-thumb.jpg",
 		"description": "An automated framework for generating a population of classifiers for power-efficient detection in wearable sensors.",
-		"publicatgions":[{"title":"A Framework for the Automated Generation of Power-Efficient Classifiers for Embedded Sensor Nodes, Ari Y. Benbasat and Joseph A. Paradiso presented at Sensys 2007","link":"http://resenv.media.mit.edu/pubs/papers/2007-11-ayb-sensys07.pdf"},
+		"publications":[{"title":"A Framework for the Automated Generation of Power-Efficient Classifiers for Embedded Sensor Nodes, Ari Y. Benbasat and Joseph A. Paradiso presented at Sensys 2007","link":"http://resenv.media.mit.edu/pubs/papers/2007-11-ayb-sensys07.pdf"},
 						{"title":"An Automated Framework for Power-Efficient Detection in Embedded Sensor Systems, Ari Yosef Benbasat Ph.D. Dissertation","link":"http://resenv.media.mit.edu/pubs/theses/ayb-phd.pdf"}],
 		"categories": [
 			"Power Management",
@@ -481,7 +481,8 @@
 		"image": "./images/projects/parahop.jpg",
 		"description": "Research into devices that can use the actuation and navigational intelligence of hosts present in the environment.",
 		"publications":[{"title":"Parasitic Mobility for Pervasive Sensor Networks, Laibowitz, M. and Paradiso, J.A. In H. W. Gellersen, R. Want and A. Schmidt (eds): \"Pervasive Computing\", Third International Conference, PERVASIVE 2005, Munich, Germany, May 2005, Proceedings. Springer-Verlag, Berlin, pp. 255-278. (Best Paper Award)","link":"http://resenv.media.mit.edu/ParasiticMobility/pervasive05paramob_final.pdf"},
-						{"title":"Parasitic Mobility in Dynamically Distributed Sensor Networks, Laibowitz, M., and Paradiso, J.A., in the Proc. of the First ACM Workshop on Applications of Mobile Embedded Systems (WAMES), June 6, 2004","link":"http://resenv.media.mit.edu/ParasiticMobility/2004-06-ParaMobACM.pdf"}],
+						{"title":"Parasitic Mobility in Dynamically Distributed Sensor Networks, Laibowitz, M., and Paradiso, J.A., in the Proc. of the First ACM Workshop on Applications of Mobile Embedded Systems (WAMES), June 6, 2004","link":"http://resenv.media.mit.edu/ParasiticMobility/2004-06-ParaMobACM.pdf"},
+						{"title":"Parasitic Mobility for Pervasive Sensor Networks by Mat Laibowitz — August 2004", "link":"http://resenv.media.mit.edu/pubs/theses/matParasiticMobilityMSthesis.pdf"}],
 		"categories": [
 			"Power Harvesting",
 			"Mobile Sensor Networks",
@@ -495,7 +496,8 @@
 		"contributors":["David Merrill","Joe Paradiso"],
 		"image": "./images/projects/wailing_thumb.jpg",
 		"description": "A sensor-rich adaptive gesture and affordance learning platform for electronic music control.",
-		"publications":[{"title":"Personalization, Expressivity, and Learnability of an Implicit Mapping Strategy for Physical Interfaces, Merrill, D. and Paradiso, J.A., in the Proc. of CHI 2005 Conference on Human Factors in Computing Systems, Extended Abstracts, ACM Press, Portland, OR, April 2-7, 2005, pp. 2152-2161.","link":"http://resenv.media.mit.edu/pubs/papers/2005-04-alt_chi-flexigesture.pdf"}],
+		"publications":[{"title":"Personalization, Expressivity, and Learnability of an Implicit Mapping Strategy for Physical Interfaces, Merrill, D. and Paradiso, J.A., in the Proc. of CHI 2005 Conference on Human Factors in Computing Systems, Extended Abstracts, ACM Press, Portland, OR, April 2-7, 2005, pp. 2152-2161.","link":"http://resenv.media.mit.edu/pubs/papers/2005-04-alt_chi-flexigesture.pdf"},
+						{"title":"Design and Applications of Inkjet-Printed Flexible Sensate Surfaces, Nan-Wei Gong — August 2013.", "link":"http://resenv.media.mit.edu/pubs/theses/NanWeiGong_PhDthesis.pdf"}],
 		"categories": [
 			"Adaptive interfaces",
 			"Multi-DOF sensing",
@@ -509,7 +511,10 @@
 		"contributors":["Mat Laibowitz ","Joe Paradiso"],
 		"image": "./images/projects/badge_thumb.jpg",
 		"description": "A versatile wearable computer platform in the form of a badge, featuring three processors, RF and IR communication, built in microphone, audio output, large LED display and LCD capability, pager vibrator, large flash memory capacity, and extensive expansion possibilities. Designed to enable a wide variety of applications where mobile and social computing intersect.",
-		"publications":[{"title":"SK1N badge design A project proposal for the 2003 spring consortium badges, Mat Laibowitz","link":"http://resenv.media.mit.edu/badge/proposal.pdf"}],
+		"publications":[{"title":"SK1N badge design A project proposal for the 2003 spring consortium badges, Mat Laibowitz","link":"http://resenv.media.mit.edu/badge/proposal.pdf"},
+						{"title":"Identifying and Facilitating Social Interaction with a Wearable Wireless Sensor Network, Paradiso, J.A., Gips, J., Laibowitz, M., Sadi, S., Merrill, D., Aylward, R., Maes, P., and Pentland, Springer Journal of Personal & Ubiquitous Computing, Volume 14, Number 2, February 2010, pp. 137-152.", "link":"http://resenv.media.mit.edu/pubs/papers/2010-02-UberBadgeSpringer.pdf"},
+						{"title":"The UbER-Badge, A Versatile Platform at the Juncture Between Wearable and Social Computing, Laibowitz, M., and Paradiso, J.A., in Fersha, A., Hortner, H., Kostis, G. (eds), Advances in Pervasive Computing, Oesterreichische Computer Gesellschaft, 2004, pp.363-368.", "link":"http://resenv.media.mit.edu/pubs/papers/2004-04-Badge-OCG.pdf"},
+						{"title":"Wireless Wearable Transceivers, Laibowitz, M., and Paradiso, J., Circuit Cellar #163 February 2004, pp. 28-39.","link":"http://resenv.media.mit.edu/pubs/papers/2003-12-circuit_cellar5.1.pdf"}],
 		"categories": [
 			"Wireless Sensor Clusters",
 			"Wearable Systems"
@@ -517,12 +522,12 @@
 	}, {
 
 		"date": "2003",
-		"external": ["http://resenv.media.mit.edu/rfrain/index.html"],
+		"external": ["http://resenv.media.mit.edu/rfrain/index.html","http://resenv.media.mit.edu/badge/"],
 		"name": "RF Random Access Integrated Node",
 		"contributors":["Mat Laibowitz","Joe Paradiso"],
 		"image": "./images/projects/rfdc_thumb.jpg",
 		"description": "A compact RF transceiver card, originally developed for the UberBadge project, but useful for many different applications.",
-		"publications":[{"title":"RF Random Access Integrated Node User's Guide Revision 1.0 (pdf) Describes the use of the rfrain, including pinouts of connectors, the serial interface protocol, and how to develop applications directly on the rfdc, Mat Laibowitz","link":"http://resenv.media.mit.edu/rfrain/rfrain_ug_1_0.pdf"}],
+		"publications":[{"title":"Wireless Wearable Transceivers, Laibowitz, M., and Paradiso, J., Circuit Cellar #163 February 2004, pp. 28-39.","link":"http://resenv.media.mit.edu/pubs/papers/2003-12-circuit_cellar5.1.pdf"}],
 		"categories": [
 			"Wireless Sensor Clusters",
 			"Wearable Systems"
@@ -535,6 +540,8 @@
 		"contributors":["Lance Borque","Philip Bramsen","Mat Laibowitz","Hong Ma","Matt Malinowski","Joe Paradiso"],
 		"image": "./images/projects/SliderThumb.jpg",
 		"description": "In association with TTT sponsor Schott Glass, this project explores various techniques for transduction in glass ceramic cooktops. We have developed a capacitive slider for sensing continuous fingertip position across the glass, several techniques of sensing the presence and size of pots above the glass, haptic response to capacitive button activation, micropower wakeup of cooktop electronics with quasipassive sensing, and remote measurement of glass temperature above a burner via IR and acoustic monitoring.",
+		"publications":[{"title":"Sensing Systems for Glass Ceramic Cooktops","link":"http://resenv.media.mit.edu/pubs/papers/Sensing%20Systems%20forCooktop1.pdf"},
+						{"title":"A Robust, Continuous Capacitive Slider Control for Cooktops", "link":"http://resenv.media.mit.edu/pubs/papers/CooktopDemo.pdf"}],
 		"categories": [
 			"Sensor Architectures",
 			"Interactive Surfaces"
@@ -547,7 +554,8 @@
 		"contributors":["Joshua Lifton","Michael Broxton","Joe Paradiso"],
 		"image": "./images/projects/TribleThumb.jpg",
 		"description": "The “Trible” (Tactile Reactive Interface Based on Linked Elements) is an excursive in dense distributed sensing, computation, and actuation. It has the form factor of a ball, tiled with a multimodal sensate “skin” consisting of 32 networked elements. Each tile measures pressure at 3 locations, temperature, sound via a microphone, illumination, and dynamic tactile stimulation with up to 12 channels of protruding, touch-sensitive “whiskers”. Each tile can also respond with a small audio speaker, a pager vibrator, and a bright RGB LED. There is no central processor-each tile talks to its neighbors through conductors in the frame. The Trible is a research platform for the application of decentralized control and distributed estimation to human-computer interaction.",
-		"publications":[{"title":"Distributed Sensor Networks as Sensate Skin, presented at the IEEE Sensors 2003 Conference, Toronto, Canada","link":"http://resenv.media.mit.edu/tribble/TribbleIEEESensors2003.pdf"}],
+		"publications":[{"title":"Distributed Sensor Networks as Sensate Skin, presented at the IEEE Sensors 2003 Conference, Toronto, Canada","link":"http://resenv.media.mit.edu/tribble/TribbleIEEESensors2003.pdf"},
+						{"title":"Sensate Media – Multimodal Electronic Skins as Dense Sensor Networks, Paradiso, J.A., Lifton. J., and Broxton, M., BT Technology Journal, Vol. 22, No. 4, October 2004, pp. 32-44.","link":"http://resenv.media.mit.edu/pubs/papers/2004-10-BTJJ-Skins.pdf"}],
 		"categories": [
 			"Sensate Media",
 			"Perceptive Objects"
@@ -565,9 +573,8 @@
 						{"title":"Localizing a Sensor Network via Collaborative Processing of Global Stimuli, Second European Workshop on Wireless Sensor Networks, 2005.","link":"http://resenv.media.mit.edu/pushpin/publications/2005-01-BroxtonEWSN.pdf"},
 						{"title":"Sensate Media - Multimodal Electronic Skins as Dense Sensor Networks, BT Technology Journal. Vol. 22, No. 4. October 2004","link":"http://resenv.media.mit.edu/pushpin/publications/2004-10-BTJJ-Skins.pdf"},
 						{"title":"Distributed Sensor Networks as Sensate Skin, IEEE Sensors 2003.","link":"http://resenv.media.mit.edu/pushpin/publications/IEEESensors2003.pdf"},
-						{"title":" Pushpin Computing System Overview: A Platform for Distributed, Embedded, Ubiquitous Sensor Networks Persavive Computing 2002.","link":"http://resenv.media.mit.edu/pushpin/publications/PushpinPervasive2002.pdf"},
-						{"title":"Michael Broxton, \"Localization and Sensing Applications in the Pushpin Computing Network,\" master of engineering thesis, January 2005.","link":"http://resenv.media.mit.edu/pushpin/publications/BroxtonMEngThesis.pdf"},
-						{"title":"Andrew Werner (MIT Physics Department), \"A Self-Triggered Readout for a Time Projection Chamber,\" bachelor of science thesis, 2004.","link":"http://resenv.media.mit.edu/pushpin/publications/ThesisWerner.pdf"}],
+						{"title":"Pushpin Computing System Overview: A Platform for Distributed, Embedded, Ubiquitous Sensor Networks Persavive Computing 2002.","link":"http://resenv.media.mit.edu/pushpin/publications/PushpinPervasive2002.pdf"},
+						{"title":"Michael Broxton, \"Localization and Sensing Applications in the Pushpin Computing Network,\" master of engineering thesis, January 2005.","link":"http://resenv.media.mit.edu/pushpin/publications/BroxtonMEngThesis.pdf"}],
 		"categories": [
 			"Sensate Media"
 		]
@@ -579,20 +586,21 @@
 		"contributors":["Ari Benbasat","Stacy Morris","Joe Paradiso"],
 		"image": "./images/projects/StackThumb.jpg",
 		"description": "A compact, configurable wireless sensing system, for which several sensing boards (e.g., tactile, inertial, sonar, etc.) have been designed. These boards can be stacked in any order and configuration atop a main processor/RF board, allowing the sensor suite to be easily customized. A TDMA polling scheme enables multiple stacks to be used simultaneously. Although it has been primarily designed for wearable applications, this device serves as a general platform for compact multimodal sensing.",
+		"publications": [{"title":"A Compact Modular Wireless Sensor Platform, Benbasat, A.Y. and Paradiso, J.A., in Proceedings of the 2005 Symposium on Information Processing in Sensor Networks (IPSN), Los Angeles, CA, April 25-27, 2005, pp. 410-415.", "link":"http://resenv.media.mit.edu/pubs/papers/2005-04-aybspots.pdf"},
+						 {"title":"Development of distributed sensing systems of autonomous micro-modules, Barton, J., Delaney, K., Bellis, S., O’Mathuna, C., Paradiso, J.A., Benbasat, A., Proceedings of the IEEE Electronic Components and Technology Conference, May 27-30, 2003, pp. 1112-1118.", "link":"http://resenv.media.mit.edu/pubs/papers/2003-05-NMRC-Stack.pdf"}],
 		"categories": [
 			"Sensor Architectures",
 			"Wireless Sensor Clusters",
 			"Wearable Systems"
 		]
 	}, {
-
 		"date": "2002-2005",
 		"external": ["http://resenv.media.mit.edu/gaitshoe.html","http://resenv.media.mit.edu/GaitShoe/index.html"],
 		"name": "The Gait Shoe",
 		"contributors":["Stacy J. Morris","Ari Y. Benbasat","Joe Paradiso"],
 		"image": "./images/projects/gaitshoesm.jpg",
 		"description": "By measuring many (e.g., 20) different parameters at each foot using our Sensor Stack, these shoes become a wearable gait laboratory. Data is analyzed for features indicative of particular gait problems. This system, in collaboration with the MGH Biomotion Laboratory, is intended to diagnose gait conditions and provide real-time corrective feedback to the patient.",
-		"publications":[{"title":"Gait Analysis Using a Shoe-Integrated Wireless Sensor System, Bamberg, S.J.M., Benbasat A.Y., Scarborough D.M., Krebs D.E., Paradiso J.A., IEEE Transactions on Information Technology in Biomedicine, Vol. 12, No. 4, July 2008, pp. 413-423.","link":"http://resenv.media.mit.edu/pubs/papers/2008-07_ieee-titb_gaitshoe.pdf"},
+		"publications":[{"title":"Gait Analysis Using a Shoe-Integrated Wireless Sensor System, Bamberg, S.J.M., Benbasat A.Y., Scarborough D.M., Krebs D.E., Paradiso J.A., IEEE Transactions on Information Technology in Biomedicine, Vol. 12, No. 4, July 2008, pp. 413-423. (Best Paper Award)","link":"http://resenv.media.mit.edu/pubs/papers/2008-07_ieee-titb_gaitshoe.pdf"},
 						{"title":"Paradiso, J.A., Morris, S.J., Benbasat, A.Y., Asmussen, E., \"Interactive Therapy with Instrumented Footwear,\" in the Proc. of the ACM Conference on Human Factors and Computing Systems (CHI 2004), Extended Abstracts, Vienna, Austria, April 27-29, 2004, pp. 1341-1343.","link":"http://resenv.media.mit.edu/pubs/papers/2004-05-lb657-Paradiso.pdf"},
 						{"title":"Stacy J. Morris, Joseph A. Paradiso. \"Shoe-integrated sensor system for wireless gait analysis and real-time feedback.\" Proceedings of the 2nd Joint IEEE EMBS (Engineering in Medicine and Biology Society) and BMES (the Biomedical Engineering Society) Conference, October, 2002, pp. 2468-2469.","link":"http://resenv.media.mit.edu/pubs/papers/2002-10-IEEE-EMBS-BMES-Shoe.pdf"},
 						{"title":"S.J. Morris and J.A. Paradiso, \"A Compact Wearable Sensor Package for Clinical Gait Monitoring.\" Offspring Vol. 1, No. 1, pp. 7-15, January 31, 2003.","link":"http://resenv.media.mit.edu/pubs/papers/2002-12-SIGSS-Offspring.pdf"},
@@ -603,19 +611,17 @@
 			"Wireless Sensor Cluster"
 		]
 	}, {
-
 		"date": "2002-2003",
 		"external": ["http://resenv.media.mit.edu/phenom/index.html"],
 		"name": "Phenomenological Model for Distributed Systems",
 		"contributors":["Mat Laibowitz ","Joe Paradiso"],
 		"image": "./images/projects/eyeball_thumb.jpg",
-		"description": "A distributed system contains physical entities called nodes. On each node, any number of objects can reside. An object is functional unit that has some purpose such as manage data or perform a calculation.",
+		"description": "Conceptual description of a proposed project about a distributed system that contains physical entities called nodes. On each node, any number of objects can reside. An object is functional unit that has some purpose such as manage data or perform a calculation.",
 		"categories": [
 			"Wireless Sensor Clusters",
 			"Sensate Media"
 		]
 	}, {
-
 		"date": "2000-2002",
 		"external": ["http://resenv.media.mit.edu/Radar/index.html"],
 		"name": "Gesture-Sensing Radar",
@@ -627,7 +633,6 @@
 			"Perceptive Spaces"
 		]
 	}, {
-
 		"date": "2000-2004",
 		"external": ["http://resenv.media.mit.edu/ZTiles"],
 		"name": "ZTiles",
@@ -642,19 +647,18 @@
 			"Perceptive Spaces"
 		]
 	}, {
-
 		"date": "2002-2003",
 		"external": ["http://resenv.media.mit.edu/nanogate/"],
 		"name": "Nanogate Instrumentation",
 		"contributors":["Hong Ma","Joe Paradiso"],
 		"image": "./images/projects/nanogate_thumb.jpg",
 		"description": "Precision capacitive sensing is used to determine the dimension of an actively-controlled nanometer-scale gap. This project, a collaboration with Alex Slocum’s group in MIT’s Mechanical Engineering Department, has many applications in biochemistry and nanoscale chemistry.",
-		"publications": [{"title":"IEEE Sensors 2003 Conference. This paper won 3rd place out over 300 at the student paper competition. Sub-nanometer Displacement Sensing for the Nanogate, Ma, H., White, J., Paradiso, J., and Slocum, A. In the Proceedings of the 2003 IEEE International Conference on Sensors, Oct. 21-24.","link":"http://resenv.media.mit.edu/pubs/papers/2003-10-IEEE-Sensors-Nanogate.pdf"}],
+		"publications": [{"title":"IEEE Sensors 2003 Conference. This paper won 3rd place out over 300 at the student paper competition. Sub-nanometer Displacement Sensing for the Nanogate, Ma, H., White, J., Paradiso, J., and Slocum, A. In the Proceedings of the 2003 IEEE International Conference on Sensors, Oct. 21-24.","link":"http://resenv.media.mit.edu/pubs/papers/2003-10-IEEE-Sensors-Nanogate.pdf"},
+						 {"title":"Capacitive Displacement Sensing for the Nanogate, Hongshen Ma  — February 2004.", "link":"http://resenv.media.mit.edu/pubs/theses/HongMa-MSThesis.pdf"}],
 		"categories": [
 			"Sensor Architectures"
 		]
 	}, {
-
 		"date": "2002",
 		"external": ["http://resenv.media.mit.edu/FindIT/index.html"],
 		"name": "The FindIT Flashlight",
@@ -673,7 +677,7 @@
 		"date": "1999-2002",
 		"external": ["http://resenv.media.mit.edu/Tapper/index.html"],
 		"name": "Window Tap Technology",
-		"contributors":["Che King Leo","Nisha Checka","Kaijen Hsiao","Josh Lifton","Nicholas Yu","Warit Wichakool","Joe Paradiso"],
+		"contributors":["Che King Leo","Nisha Checka","Kaijen Hsiao","Josh Lifton","Nicholas Yu","Warit Wichakool","Marc Downie","Joe Paradiso"],
 		"image": "./images/projects/TapperThumb.jpg",
 		"description": "Knocks and taps across a large sheet of glass are detected by a set of pickup transducers, then characterized by their frequency content and located via differential timing. Essentially any single-paned window can be converted into the equivalent of a touch screen by this inexpensive technique, with no hardware mounted outside the glass.",
 		"publications":[{"title":"Tracking and Characterizing Knocks Atop Large Interactive Displays, Paradiso, J.A. and Leo, C.-K., in Sensor Review (special issue on vibration and impact sensing), Vol. 25, No. 2, 2005, pp. 134-143.","link":"http://resenv.media.mit.edu/pubs/papers/2005-04-TapperSensorReview3.1.pdf"},

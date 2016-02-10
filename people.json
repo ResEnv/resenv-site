@@ -73,10 +73,6 @@
 	"email": "cherston[@]media[.]mit[.]edu"
 }, {
 
-	"name": "V.Ram",
-	"type": "M.S. Candidates"
-}, {
-
 	"name": "Donald Derek",
 	"link": "http://www.donaldderek.com",
 	"image": "./images/people/donald.jpeg",
@@ -89,7 +85,16 @@
 	"image": "./images/people/katia.jpeg",
 	"type": "Postdoc",
 	"email": "katia[@]katiavega[.]com"
-}, {
+},
+{
+
+	"name": "Clément Duhart",
+	"link": "http://cv.duhart-clement.com/",
+	"image": "./images/people/clement.jpg",
+	"type": "Visiting Researchers",
+	"email": "duhart[.]clement[@]gmail[.]com"
+},
+{
 
 	"name": "Nick Lee",
 	"link": "https://github.com/nicklee-998",
@@ -121,13 +126,14 @@
 	"type": "Affiliates",
 	"email": "amnac[@]media[.]mit[.]edu"
 }, {
-
 	"name": "Susanne Seitinger",
 	"image": "./images/people/susanne.jpg",
 	"type": "Affiliates",
 	"link": "http://fluid.media.mit.edu/people/susanne-seitinger"
 }, {
-
+	"name": "V.Ram",
+	"type": "alumni"
+}, {
 	"name": "Pragun Goyal",
 	"link": "http://pragungoyal.com/",
 	"image": "./images/people/pragun.jpg",
