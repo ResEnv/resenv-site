@@ -60,7 +60,21 @@
 		"categories": [
 			"Sensor Networks", "Craft", "Printed electronics", "flexible"
 		]
-	}, {
+	},
+	{
+	   "date": "2014-2015",
+	   "name": "MMODM",
+	   "video": "https://player.vimeo.com/video/117449403",
+	   "contributors":["Basheer Tome","Donald Derek Haddad","Joe Paradiso"],
+	   "image": "./images/projects/mmodm-thumb.jpg",
+	   "publications":[{"title":"MMODM: Massively multiplayer online drum-machine, Basheer Tome, Donald Derek Haddad, Tod Machover, Joeseph A. Paradiso. NIME 2015.","link":"http://resenv.media.mit.edu/pubs/papers/mmodm-massively-multiplayer-drum-machine.pdf"}],
+	   "description": "MMODM is an online drum-machine based on the Twitter Stream API. Users anywhere can express 16-beat note sequences across 26 different instruments using plain text tweets on their favorite device, in real-time. Meanwhile, users on the site itself can use the graphical interface to locally DJ the rhythm, filters, and sequence blending. By harnessing this duo of website and Twitter network, MMODM enables a whole new scale of synchronous musical collaboration between users locally, remotely, across a wide variety of computing devices, and across a variety of cultures on the internet.",
+	   "external":["http://mmodm.co","https://github.com/MMODM/mmodm",""],
+	   "categories": [
+		   "Interactive Music", "IME"
+	   ]
+   },
+   {
 		"date": "2014-present",
 		"link": "http://web.media.mit.edu/~nanzhao/webfiles/perception/perception.html",
 		"name": "Experiential Lighting ",
