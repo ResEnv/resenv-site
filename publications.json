@@ -1,13 +1,19 @@
 [
 	{
-		"dom": "<a target='BLANK'  href=\"./pubs/papers/Sensor_tape_UIST_2015.pdf\">SensorTape</a> a modular and Programmable 3D-Aware Dense Sensor Network on a Tape. A. Dementyev, HLC Kao, J. Paradiso, Proc. of UIST (2015)",
+		"dom": "<a target='BLANK'  href=\"./pubs/papers/HearThere_AugmentedHuman2016.pdf\">HearThere</a>: Networked Sensory Prosthetics Through Auditory Augmented Reality. Spencer Russell, Gershon Dublon, Joseph A. Paradiso. Proc. of the 7th ACM Augmented Human International Conference (AH '16).",
+		"title": "HearThere: Networked Sensory Prosthetics Through Auditory Augmented Reality",
+		"link": "./pubs/papers/HearThere_AugmentedHuman2016.pdf",
+		"date": "2016"
+	},	
+	{
+		"dom": "<a target='BLANK'  href=\"./pubs/papers/Sensor_tape_UIST_2015.pdf\">SensorTape</a> a modular and Programmable 3D-Aware Dense Sensor Network on a Tape. A. Dementyev, HLC Kao, J.A. Paradiso, Proc. of UIST (2015)",
 		"title": "SensorTape: Modular and Programmable 3D-Aware Dense Sensor Network on a Tape",
 		"link": "./pubs/papers/Sensor_tape_UIST_2015.pdf",
 		"date": "2015"
 	},
 	{
 
-		"dom": "<a target='BLANK'  href=\"./pubs/papers/multidimensional-continuous-contextual.pdf\">A Multidimensional Continuous Contextual Lighting Control System Using Google Glass</a>, Nan Zhao, Matt Aldrich, Christoph Reinhart, Joe Paradiso,  BuildSys’15, Seoul, South Korea. Best presentation.",
+		"dom": "<a target='BLANK'  href=\"./pubs/papers/multidimensional-continuous-contextual.pdf\">A Multidimensional Continuous Contextual Lighting Control System Using Google Glass</a>, Nan Zhao, Matt Aldrich, Christoph Reinhart, Joseph A. Paradiso,  BuildSys’15, Seoul, South Korea. Best presentation.",
 		"title": "Lighting Control System Using Google Glass",
 		"link": "./pubs/papers/multidimensional-continuous-contextual.pdf",
 		"date": "2015"
