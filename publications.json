@@ -1,11 +1,5 @@
 [
 	{
-		"dom": "<a target='BLANK'  href=\"./pubs/papers/MarshVis_IEEE-VIS2015.pdf\">MarshVis</a>: Visualizing Real-Time and Historical Ecological Data from a Wireless Sensor Network. QianSheng Li, Gershon Dublon, Brian Mayton, Joseph A. Paradiso. IEEE VIS 2015, Chicago, Illinois.",
-		"title": "MarshVis: Visualizing Real-Time and Historical Ecological Data from a Wireless Sensor Network",
-		"link": "./pubs/papers/MarshVis_IEEE-VIS2015.pdf",
-		"date": "2015"
-	},
-	{
 		"dom": "<a target='BLANK'  href=\"./pubs/papers/Sensor_tape_UIST_2015.pdf\">SensorTape</a> a modular and Programmable 3D-Aware Dense Sensor Network on a Tape. A. Dementyev, HLC Kao, J. Paradiso, Proc. of UIST (2015)",
 		"title": "SensorTape: Modular and Programmable 3D-Aware Dense Sensor Network on a Tape",
 		"link": "./pubs/papers/Sensor_tape_UIST_2015.pdf",
@@ -67,6 +61,12 @@
         "link": "./pubs/papers/Sticker_circuits_hodges.pdf",
         "date": "2015"
     },
+	{
+		"dom": "<a target='BLANK'  href=\"./pubs/papers/MarshVis_IEEE-VIS2015.pdf\">MarshVis</a>: Visualizing Real-Time and Historical Ecological Data from a Wireless Sensor Network. QianSheng Li, Gershon Dublon, Brian Mayton, Joseph A. Paradiso. IEEE VIS 2015, Chicago, Illinois.",
+		"title": "MarshVis: Visualizing Real-Time and Historical Ecological Data from a Wireless Sensor Network",
+		"link": "./pubs/papers/MarshVis_IEEE-VIS2015.pdf",
+		"date": "2015"
+	},
     {
 
         "dom": "<a target='BLANK'  href=\"./pubs/papers/Sticker_circuits_hodges.pdf\">Circuit stickers:</a> peel-and-stick construction of interactive electronic prototypes,  Steve Hodges, Nicolas Villar, Nicholas Chen, Tushar Chugh, Jie Qi, Diana Nowacka, Yoshihiro Kawahara, CHI 2014, Toronto, April 2014",
