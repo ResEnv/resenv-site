@@ -128,13 +128,13 @@
 		]
 	}, {
 		"date": "2013-present",
-		"link": "http://resenv.github.io/chain-api/",
+		"link": "http://resenv.media.mit.edu/chainapi",
 		"name": "ChainAPI",
 		"contributors":["Spencer Russell","Joe Paradiso"],
 		"image": "./images/projects/chain-api.jpg",
 		"publications":[{"title":"Hypermedia APIs for Sensor Data, Spencer Russell, Joseph A. Paradiso, Mobiquitous 2014, London, December 2014.","link":"http://resenv.media.mit.edu/pubs/papers/ChainAPI_Mobiquitous2014_camera-ready.pdf"}],
 		"description": "ChainAPI is a hypermedia HTTP API for working with sensor data. It includes an HTTP interface supporting request/response interactions, as well as a Websockets streaming API for realtime \"push\" updates.",
-		"external":["http://resenv.github.io/chain-api/"],
+		"external":["http://resenv.media.mit.edu/chainapi"],
 		"categories": ["Sensor Networks", "IoT", "Web Services"]
 	}, {
 		"date": "2013-present",
