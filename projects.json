@@ -23,7 +23,6 @@
 			"Perception", "Sonification", "Physics"
 		]
 	},
-
 	{
 		"date": "2015-present",
 		"name": "Halo",
@@ -36,7 +35,18 @@
 		"categories": [
 			"Wearable Technology", "Lighting", "Perception", "Algorithms"
 		]
-	}, {
+	},
+	{
+		"date": "2015-present",
+		"name": "HearThere",
+		"contributors":["Spencer Russell","Gershon Dublon", "Joe Paradiso"],
+		"publications":[{"title":"HearThere: Networked Sensory Prosthetics Through Auditory Augmented Reality. Spencer Russell, Gershon Dublon, Joseph A. Paradiso. Augmented Human 2016", "link": "http://resenv.media.mit.edu/pubs/papers/HearThere_AugmentedHuman2016.pdf"}],
+		"image": "./images/projects/hearthere.jpg",
+		"description": "HearThere is a wearable device with head-tracking infrastructure, demonstrating our vision for scalable indoor and outdoor auditory augmented reality (AAR). The system consists of an iOS application, commercially-available bone-conduction headphones, and a custom wearable head-tracker that uses ultra-wideband localization and a 9DOF intertial measurement unit to track the user's head orientation.",
+		"external":["http://resenv.media.mit.edu/hearthere/"],
+		"categories": [ "Wearable Technology", "Sonification", "Augmented Reality" ]
+	},
+	{
 		"date": "2014-present",
 		"name": "NailO",
 		"video": "https://player.vimeo.com/video/155159517",
