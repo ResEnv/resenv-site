@@ -1,10 +1,16 @@
 [
 	{
+		"dom": "<a target='BLANK'  href=\"./pubs/papers/JoeP_RadicalSubAtoms.pdf\">Speculating across Scale, from Sensory Landscapes to Radical Subatoms Joseph A. Paradiso. Ars Electronica Festival (2016)",
+		"title": "Speculating across Scale, from Sensory Landscapes to Radical Subatoms",
+		"link": "./pubs/papers/JoeP_RadicalSubAtoms.pdf",
+		"date": "2016"
+	},
+	{
 		"dom": "<a target='BLANK'  href=\"./pubs/papers/HearThere_AugmentedHuman2016.pdf\">HearThere</a>: Networked Sensory Prosthetics Through Auditory Augmented Reality. Spencer Russell, Gershon Dublon, Joseph A. Paradiso. Proc. of the 7th ACM Augmented Human International Conference (AH '16).",
 		"title": "HearThere: Networked Sensory Prosthetics Through Auditory Augmented Reality",
 		"link": "./pubs/papers/HearThere_AugmentedHuman2016.pdf",
 		"date": "2016"
-	},	
+	},
 	{
 		"dom": "<a target='BLANK'  href=\"./pubs/papers/Sensor_tape_UIST_2015.pdf\">SensorTape</a> a modular and Programmable 3D-Aware Dense Sensor Network on a Tape. A. Dementyev, HLC Kao, J.A. Paradiso, Proc. of UIST (2015)",
 		"title": "SensorTape: Modular and Programmable 3D-Aware Dense Sensor Network on a Tape",
