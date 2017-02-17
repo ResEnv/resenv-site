@@ -25,6 +25,17 @@
 	},
 	{
 		"date": "2015-present",
+		"name": "LearnAir",
+		"contributors":["David Ramsay", "Joe Paradiso"],
+		"video": "https://player.vimeo.com/video/188586371",
+		"description": "The LearnAir system was designed to improve the data quality of affordable, portable air quality sensors with machine learning. LearnAir devices detect when they are near an expensive reference sensor, and compare their readings against this high quality device. Using these comparisons, a LearnAir device can continually improve its self-estimate of reliability under a wide assortment of weather conditions.  The first LearnAir device was co-located with a Federal MassDEP sensor for 2 months, and the minute-resolution data was used to explore the viability of machine learning to predict sensor accuracy. A second, handheld version has also been prototyped as part of the project.",
+		"external":["http://resenv.media.mit.edu/learnair"],
+		"categories": [
+			"Sensor Networks", "Machine Learning", "Air Quality"
+		]
+	},
+	{
+		"date": "2015-present",
 		"name": "Halo",
 		"contributors":["Nan Zhao","Joe Paradiso"],
 		"video": "https://player.vimeo.com/video/136680450",
